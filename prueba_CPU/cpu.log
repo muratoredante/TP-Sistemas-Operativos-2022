@@ -1,0 +1,1959 @@
+[INFO] 12:15:01:525 cpu/(12266:12266): INICIANDO LOG CPU...
+[INFO] 12:15:01:526 cpu/(12266:12266): id: 159
+[INFO] 12:15:01:527 cpu/(12266:12266): estimacion: 951
+[INFO] 12:15:01:527 cpu/(12266:12266): PC: 222
+[INFO] 12:15:01:527 cpu/(12266:12266): tamanio: 777
+[INFO] 12:15:01:527 cpu/(12266:12266): nombre: 0, par1: 666, par2: 333
+[INFO] 12:15:01:527 cpu/(12266:12266): nombre: 1, par1: 123, par2: 321
+[INFO] 12:19:59:991 cpu/(12397:12397): INICIANDO LOG CPU...
+[INFO] 12:19:59:996 cpu/(12397:12397): id: 159
+[INFO] 12:19:59:996 cpu/(12397:12397): estimacion: 951
+[INFO] 12:19:59:996 cpu/(12397:12397): PC: 222
+[INFO] 12:19:59:996 cpu/(12397:12397): tamanio: 777
+[INFO] 12:19:59:996 cpu/(12397:12397): nombre: 0, par1: 666, par2: 333
+[INFO] 12:19:59:996 cpu/(12397:12397): nombre: 1, par1: 123, par2: 321
+[INFO] 12:25:45:564 cpu/(12544:12544): INICIANDO LOG CPU...
+[INFO] 12:25:45:565 cpu/(12544:12544): id: 159
+[INFO] 12:25:45:565 cpu/(12544:12544): estimacion: 951
+[INFO] 12:25:45:565 cpu/(12544:12544): PC: 222
+[INFO] 12:25:45:565 cpu/(12544:12544): tamanio: 777
+[INFO] 12:25:45:565 cpu/(12544:12544): nombre: 0, par1: 666, par2: 333
+[INFO] 12:25:45:565 cpu/(12544:12544): nombre: 1, par1: 123, par2: 321
+[INFO] 12:30:44:058 cpu/(12696:12696): INICIANDO LOG CPU...
+[INFO] 12:30:44:059 cpu/(12696:12696): id: 159
+[INFO] 12:30:44:060 cpu/(12696:12696): estimacion: 951
+[INFO] 12:30:44:060 cpu/(12696:12696): PC: 222
+[INFO] 12:30:44:060 cpu/(12696:12696): tamanio: 777
+[INFO] 12:30:44:060 cpu/(12696:12696): nombre: 0, par1: 666, par2: 333
+[INFO] 12:30:44:060 cpu/(12696:12696): nombre: 1, par1: 123, par2: 321
+[INFO] 12:31:14:563 cpu/(12746:12746): INICIANDO LOG CPU...
+[INFO] 12:31:14:565 cpu/(12746:12746): id: 159
+[INFO] 12:31:14:565 cpu/(12746:12746): estimacion: 951
+[INFO] 12:31:14:565 cpu/(12746:12746): PC: 222
+[INFO] 12:31:14:565 cpu/(12746:12746): tamanio: 777
+[INFO] 12:31:14:565 cpu/(12746:12746): nombre: 0, par1: 666, par2: 333
+[INFO] 12:31:14:566 cpu/(12746:12746): nombre: 1, par1: 123, par2: 321
+[INFO] 12:31:48:828 cpu/(12798:12798): INICIANDO LOG CPU...
+[INFO] 12:31:48:833 cpu/(12798:12798): id: 159
+[INFO] 12:31:48:833 cpu/(12798:12798): estimacion: 951
+[INFO] 12:31:48:833 cpu/(12798:12798): PC: 222
+[INFO] 12:31:48:833 cpu/(12798:12798): tamanio: 777
+[INFO] 12:31:48:833 cpu/(12798:12798): nombre: 0, par1: 666, par2: 333
+[INFO] 12:31:48:833 cpu/(12798:12798): nombre: 1, par1: 123, par2: 321
+[INFO] 12:48:29:636 cpu/(13148:13148): INICIANDO LOG CPU...
+[INFO] 12:48:29:636 cpu/(13148:13148): id: 159
+[INFO] 12:48:29:636 cpu/(13148:13148): estimacion: 951
+[INFO] 12:48:29:636 cpu/(13148:13148): PC: 222
+[INFO] 12:48:29:636 cpu/(13148:13148): tamanio: 777
+[INFO] 12:48:29:636 cpu/(13148:13148): nombre: 0, par1: 666, par2: 333
+[INFO] 12:48:29:636 cpu/(13148:13148): nombre: 1, par1: 123, par2: 321
+[INFO] 12:48:47:569 cpu/(13205:13205): INICIANDO LOG CPU...
+[INFO] 12:48:47:573 cpu/(13205:13205): id: 159
+[INFO] 12:48:47:573 cpu/(13205:13205): estimacion: 951
+[INFO] 12:48:47:573 cpu/(13205:13205): PC: 222
+[INFO] 12:48:47:573 cpu/(13205:13205): tamanio: 777
+[INFO] 12:48:47:573 cpu/(13205:13205): nombre: 0, par1: 666, par2: 333
+[INFO] 12:48:47:573 cpu/(13205:13205): nombre: 1, par1: 123, par2: 321
+[INFO] 12:49:15:889 cpu/(13263:13263): INICIANDO LOG CPU...
+[INFO] 12:49:15:889 cpu/(13263:13263): id: 159
+[INFO] 12:49:15:889 cpu/(13263:13263): estimacion: 951
+[INFO] 12:49:15:889 cpu/(13263:13263): PC: 222
+[INFO] 12:49:15:889 cpu/(13263:13263): tamanio: 777
+[INFO] 12:49:15:890 cpu/(13263:13263): nombre: 0, par1: 666, par2: 333
+[INFO] 12:49:15:890 cpu/(13263:13263): nombre: 1, par1: 123, par2: 321
+[INFO] 12:36:50:776 cpu/(20988:20988): INICIANDO LOG CPU...
+[INFO] 12:37:00:845 cpu/(21012:21012): INICIANDO LOG CPU...
+[INFO] 12:37:00:848 cpu/(21012:21012): id: 159
+[INFO] 12:37:00:848 cpu/(21012:21012): estimacion: 951
+[INFO] 12:37:00:848 cpu/(21012:21012): PC: 222
+[INFO] 12:37:00:848 cpu/(21012:21012): tamanio: 777
+[INFO] 12:37:00:848 cpu/(21012:21012): nombre: 0, par1: 666, par2: 333
+[INFO] 12:37:00:848 cpu/(21012:21012): nombre: 4, par1: 123, par2: 321
+[INFO] 12:38:16:549 cpu/(21036:21036): INICIANDO LOG CPU...
+[INFO] 12:38:53:918 cpu/(21104:21104): INICIANDO LOG CPU...
+[INFO] 12:38:53:922 cpu/(21104:21104): id: 159
+[INFO] 12:38:53:922 cpu/(21104:21104): estimacion: 951
+[INFO] 12:38:53:922 cpu/(21104:21104): PC: 222
+[INFO] 12:38:53:922 cpu/(21104:21104): tamanio: 777
+[INFO] 12:38:53:922 cpu/(21104:21104): nombre: 0, par1: 666, par2: 333
+[INFO] 12:38:53:922 cpu/(21104:21104): nombre: 4, par1: 123, par2: 321
+[INFO] 13:20:21:904 cpu/(21768:21768): INICIANDO LOG CPU...
+[INFO] 13:20:21:908 cpu/(21768:21768): id: 159
+[INFO] 13:20:21:908 cpu/(21768:21768): estimacion: 951
+[INFO] 13:20:21:908 cpu/(21768:21768): PC: 0
+[INFO] 13:20:21:908 cpu/(21768:21768): tamanio: 777
+[INFO] 13:20:21:909 cpu/(21768:21768): nombre: 0, par1: 666, par2: 333
+[INFO] 13:20:21:909 cpu/(21768:21768): nombre: 4, par1: 123, par2: 321
+[INFO] 13:23:41:096 cpu/(21939:21939): INICIANDO LOG CPU...
+[INFO] 13:23:41:097 cpu/(21939:21939): id: 159
+[INFO] 13:23:41:097 cpu/(21939:21939): estimacion: 951
+[INFO] 13:23:41:097 cpu/(21939:21939): PC: 0
+[INFO] 13:23:41:098 cpu/(21939:21939): tamanio: 777
+[INFO] 13:23:41:098 cpu/(21939:21939): nombre: 0, par1: 666, par2: 333
+[INFO] 13:23:41:098 cpu/(21939:21939): nombre: 5, par1: 123, par2: 321
+[INFO] 13:24:01:952 cpu/(21939:21939): llego mensaje exit
+[INFO] 13:24:01:952 cpu/(21939:21939): id: 777
+[INFO] 13:24:01:952 cpu/(21939:21939): estimacion: 2
+[INFO] 13:24:01:952 cpu/(21939:21939): PC: 465
+[INFO] 13:24:01:952 cpu/(21939:21939): tamanio: 2
+[INFO] 13:25:07:538 cpu/(21982:21982): INICIANDO LOG CPU...
+[INFO] 13:25:07:542 cpu/(21982:21982): id: 159
+[INFO] 13:25:07:542 cpu/(21982:21982): estimacion: 951
+[INFO] 13:25:07:542 cpu/(21982:21982): PC: 0
+[INFO] 13:25:07:542 cpu/(21982:21982): tamanio: 777
+[INFO] 13:25:07:542 cpu/(21982:21982): nombre: 0, par1: 666, par2: 333
+[INFO] 13:25:07:542 cpu/(21982:21982): nombre: 5, par1: 123, par2: 321
+[INFO] 13:25:59:045 cpu/(22074:22074): INICIANDO LOG CPU...
+[INFO] 13:25:59:046 cpu/(22074:22074): id: 159
+[INFO] 13:25:59:046 cpu/(22074:22074): estimacion: 951
+[INFO] 13:25:59:046 cpu/(22074:22074): PC: 0
+[INFO] 13:25:59:046 cpu/(22074:22074): tamanio: 777
+[INFO] 13:25:59:046 cpu/(22074:22074): nombre: 0, par1: 666, par2: 333
+[INFO] 13:25:59:046 cpu/(22074:22074): nombre: 5, par1: 123, par2: 321
+[INFO] 13:30:18:339 cpu/(22328:22328): INICIANDO LOG CPU...
+[INFO] 13:30:18:339 cpu/(22328:22328): id: 159
+[INFO] 13:30:18:339 cpu/(22328:22328): estimacion: 951
+[INFO] 13:30:18:339 cpu/(22328:22328): PC: 0
+[INFO] 13:30:18:339 cpu/(22328:22328): tamanio: 777
+[INFO] 13:30:18:340 cpu/(22328:22328): nombre: 0, par1: 666, par2: 333
+[INFO] 13:30:18:340 cpu/(22328:22328): nombre: 5, par1: 123, par2: 321
+[INFO] 13:30:18:341 cpu/(22328:22328): llego mensaje exit
+[INFO] 13:30:18:341 cpu/(22328:22328): id: 777
+[INFO] 13:30:18:341 cpu/(22328:22328): estimacion: 2
+[INFO] 13:30:18:341 cpu/(22328:22328): PC: 465
+[INFO] 13:30:18:341 cpu/(22328:22328): tamanio: 2
+[INFO] 13:32:18:004 cpu/(22431:22431): INICIANDO LOG CPU...
+[INFO] 13:32:18:004 cpu/(22431:22431): id: 159
+[INFO] 13:32:18:004 cpu/(22431:22431): estimacion: 951
+[INFO] 13:32:18:004 cpu/(22431:22431): PC: 0
+[INFO] 13:32:18:004 cpu/(22431:22431): tamanio: 777
+[INFO] 13:32:18:004 cpu/(22431:22431): numero de instrucciones: 2
+[INFO] 13:32:18:004 cpu/(22431:22431): nombre: 0, par1: 666, par2: 333
+[INFO] 13:32:18:004 cpu/(22431:22431): nombre: 5, par1: 123, par2: 321
+[INFO] 13:32:18:006 cpu/(22431:22431): llego mensaje exit
+[INFO] 13:32:18:006 cpu/(22431:22431): id: 777
+[INFO] 13:32:18:006 cpu/(22431:22431): estimacion: 2
+[INFO] 13:32:18:006 cpu/(22431:22431): PC: 465
+[INFO] 13:32:18:006 cpu/(22431:22431): tamanio: 2
+[INFO] 13:32:18:006 cpu/(22431:22431): numero de instrucciones: 0
+[INFO] 13:44:30:532 cpu/(22910:22910): INICIANDO LOG CPU...
+[INFO] 13:44:30:536 cpu/(22910:22910): id: 159
+[INFO] 13:44:30:536 cpu/(22910:22910): estimacion: 951
+[INFO] 13:44:30:536 cpu/(22910:22910): PC: 0
+[INFO] 13:44:30:536 cpu/(22910:22910): tamanio: 777
+[INFO] 13:44:30:536 cpu/(22910:22910): numero de instrucciones: 2
+[INFO] 13:44:30:536 cpu/(22910:22910): nombre: 0, par1: 666, par2: 333
+[INFO] 13:44:30:536 cpu/(22910:22910): nombre: 5, par1: 123, par2: 321
+[INFO] 13:44:30:538 cpu/(22910:22910): llego mensaje exit
+[INFO] 13:44:30:538 cpu/(22910:22910): id: 777
+[INFO] 13:44:30:538 cpu/(22910:22910): estimacion: 2
+[INFO] 13:44:30:538 cpu/(22910:22910): PC: 465
+[INFO] 13:44:30:538 cpu/(22910:22910): tamanio: 2
+[INFO] 13:44:30:538 cpu/(22910:22910): numero de instrucciones: 0
+[INFO] 13:57:58:324 cpu/(23175:23175): INICIANDO LOG CPU...
+[INFO] 13:57:58:325 cpu/(23175:23175): id: 159
+[INFO] 13:57:58:325 cpu/(23175:23175): estimacion: 951
+[INFO] 13:57:58:325 cpu/(23175:23175): PC: 0
+[INFO] 13:57:58:325 cpu/(23175:23175): tamanio: 777
+[INFO] 13:57:58:325 cpu/(23175:23175): numero de instrucciones: 2
+[INFO] 13:57:58:325 cpu/(23175:23175): nombre: 0, par1: 666, par2: 333
+[INFO] 13:57:58:325 cpu/(23175:23175): nombre: 5, par1: 123, par2: 321
+[INFO] 13:57:58:326 cpu/(23175:23175): llego tamanio nionio 4
+[INFO] 13:57:58:327 cpu/(23175:23175): llego mensaje exit
+[INFO] 13:57:58:327 cpu/(23175:23175): id: 777
+[INFO] 13:57:58:327 cpu/(23175:23175): estimacion: 2
+[INFO] 13:57:58:327 cpu/(23175:23175): PC: 465
+[INFO] 13:57:58:327 cpu/(23175:23175): tamanio: 2
+[INFO] 13:57:58:327 cpu/(23175:23175): numero de instrucciones: 0
+[INFO] 14:34:02:415 cpu/(23805:23805): INICIANDO LOG CPU...
+[INFO] 14:34:02:418 cpu/(23805:23805): id: 159
+[INFO] 14:34:02:418 cpu/(23805:23805): estimacion: 951
+[INFO] 14:34:02:418 cpu/(23805:23805): PC: 0
+[INFO] 14:34:02:418 cpu/(23805:23805): tamanio: 777
+[INFO] 14:34:02:418 cpu/(23805:23805): numero de instrucciones: 2
+[INFO] 14:34:02:418 cpu/(23805:23805): nombre: 0, par1: 666, par2: 333
+[INFO] 14:34:02:418 cpu/(23805:23805): nombre: 5, par1: 123, par2: 321
+[INFO] 14:34:02:420 cpu/(23805:23805): llego tamanio nionio 52
+[INFO] 14:34:02:420 cpu/(23805:23805): llego mensaje exit
+[INFO] 14:34:02:420 cpu/(23805:23805): id: 777
+[INFO] 14:34:02:420 cpu/(23805:23805): estimacion: 2
+[INFO] 14:34:02:420 cpu/(23805:23805): PC: 465
+[INFO] 14:34:02:420 cpu/(23805:23805): tamanio: 2
+[INFO] 14:34:02:420 cpu/(23805:23805): numero de instrucciones: 0
+[INFO] 14:37:53:806 cpu/(23930:23930): INICIANDO LOG CPU...
+[INFO] 14:37:53:808 cpu/(23930:23930): id: 159
+[INFO] 14:37:53:808 cpu/(23930:23930): estimacion: 951
+[INFO] 14:37:53:810 cpu/(23930:23930): PC: 0
+[INFO] 14:37:53:811 cpu/(23930:23930): tamanio: 777
+[INFO] 14:37:53:811 cpu/(23930:23930): numero de instrucciones: 2
+[INFO] 14:37:53:811 cpu/(23930:23930): nombre: 0, par1: 666, par2: 333
+[INFO] 14:37:53:811 cpu/(23930:23930): nombre: 5, par1: 123, par2: 321
+[INFO] 14:37:53:813 cpu/(23930:23930): llego tamanio nionio 52
+[INFO] 14:37:53:813 cpu/(23930:23930): llego mensaje exit
+[INFO] 14:37:53:813 cpu/(23930:23930): id: 777
+[INFO] 14:37:53:813 cpu/(23930:23930): estimacion: 2
+[INFO] 14:37:53:813 cpu/(23930:23930): PC: 465
+[INFO] 14:37:53:813 cpu/(23930:23930): tamanio: 2
+[INFO] 14:37:53:813 cpu/(23930:23930): numero de instrucciones: 0
+[INFO] 14:41:32:024 cpu/(24091:24091): INICIANDO LOG CPU...
+[INFO] 14:41:32:028 cpu/(24091:24091): id: 159
+[INFO] 14:41:32:028 cpu/(24091:24091): estimacion: 951
+[INFO] 14:41:32:028 cpu/(24091:24091): PC: 0
+[INFO] 14:41:32:028 cpu/(24091:24091): tamanio: 777
+[INFO] 14:41:32:029 cpu/(24091:24091): numero de instrucciones: 2
+[INFO] 14:41:32:029 cpu/(24091:24091): nombre: 0, par1: 666, par2: 333
+[INFO] 14:41:32:029 cpu/(24091:24091): nombre: 5, par1: 123, par2: 321
+[INFO] 14:41:47:096 cpu/(24117:24117): INICIANDO LOG CPU...
+[INFO] 14:41:47:109 cpu/(24117:24117): id: 159
+[INFO] 14:41:47:109 cpu/(24117:24117): estimacion: 951
+[INFO] 14:41:47:109 cpu/(24117:24117): PC: 0
+[INFO] 14:41:47:109 cpu/(24117:24117): tamanio: 777
+[INFO] 14:41:47:109 cpu/(24117:24117): numero de instrucciones: 2
+[INFO] 14:41:47:109 cpu/(24117:24117): nombre: 0, par1: 666, par2: 333
+[INFO] 14:41:47:109 cpu/(24117:24117): nombre: 5, par1: 123, par2: 321
+[INFO] 14:41:47:112 cpu/(24117:24117): llego tamanio nionio 52
+[INFO] 14:41:47:112 cpu/(24117:24117): llego mensaje exit
+[INFO] 14:41:47:112 cpu/(24117:24117): id: 777
+[INFO] 14:41:47:112 cpu/(24117:24117): estimacion: 2
+[INFO] 14:41:47:112 cpu/(24117:24117): PC: 465
+[INFO] 14:41:47:112 cpu/(24117:24117): tamanio: 2
+[INFO] 14:41:47:112 cpu/(24117:24117): numero de instrucciones: 0
+[INFO] 14:44:10:283 cpu/(24220:24220): INICIANDO LOG CPU...
+[INFO] 14:44:17:705 cpu/(24244:24244): INICIANDO LOG CPU...
+[INFO] 14:44:17:709 cpu/(24244:24244): id: 159
+[INFO] 14:44:17:709 cpu/(24244:24244): estimacion: 951
+[INFO] 14:44:17:709 cpu/(24244:24244): PC: 0
+[INFO] 14:44:17:709 cpu/(24244:24244): tamanio: 777
+[INFO] 14:44:17:709 cpu/(24244:24244): numero de instrucciones: 2
+[INFO] 14:44:17:709 cpu/(24244:24244): nombre: 0, par1: 666, par2: 333
+[INFO] 14:44:17:709 cpu/(24244:24244): nombre: 5, par1: 123, par2: 321
+[INFO] 14:44:17:711 cpu/(24244:24244): llego tamanio nionio 52
+[INFO] 14:44:17:711 cpu/(24244:24244): llego mensaje exit
+[INFO] 14:44:17:711 cpu/(24244:24244): id: 777
+[INFO] 14:44:17:711 cpu/(24244:24244): estimacion: 2
+[INFO] 14:44:17:711 cpu/(24244:24244): PC: 465
+[INFO] 14:44:17:712 cpu/(24244:24244): tamanio: 2
+[INFO] 14:44:17:712 cpu/(24244:24244): numero de instrucciones: 0
+[INFO] 14:47:18:532 cpu/(24428:24428): INICIANDO LOG CPU...
+[INFO] 14:47:18:536 cpu/(24428:24428): id: 159
+[INFO] 14:47:18:536 cpu/(24428:24428): estimacion: 951
+[INFO] 14:47:18:536 cpu/(24428:24428): PC: 0
+[INFO] 14:47:18:536 cpu/(24428:24428): tamanio: 777
+[INFO] 14:47:18:536 cpu/(24428:24428): numero de instrucciones: 2
+[INFO] 14:47:18:536 cpu/(24428:24428): nombre: 0, par1: 666, par2: 333
+[INFO] 14:47:18:536 cpu/(24428:24428): nombre: 5, par1: 123, par2: 321
+[INFO] 14:47:18:538 cpu/(24428:24428): llego tamanio nionio 52
+[INFO] 14:47:18:539 cpu/(24428:24428): llego mensaje exit
+[INFO] 14:47:18:539 cpu/(24428:24428): id: 2
+[INFO] 14:47:18:539 cpu/(24428:24428): estimacion: 0
+[INFO] 14:47:18:539 cpu/(24428:24428): PC: 951
+[INFO] 14:47:18:539 cpu/(24428:24428): tamanio: 465
+[INFO] 14:47:18:539 cpu/(24428:24428): numero de instrucciones: 666
+[INFO] 14:47:18:539 cpu/(24428:24428): nombre: 333, par1: 5, par2: 123
+[INFO] 14:47:18:539 cpu/(24428:24428): nombre: 321, par1: 1828744496, par2: 33
+[INFO] 14:47:18:539 cpu/(24428:24428): nombre: 2, par1: 465, par2: 166843032
+[INFO] 14:47:18:539 cpu/(24428:24428): nombre: 951, par1: 2, par2: 0
+[INFO] 14:47:18:539 cpu/(24428:24428): nombre: 32, par1: 17, par2: 166842976
+[INFO] 14:47:18:539 cpu/(24428:24428): nombre: 3, par1: 5524812, par2: 25
+[INFO] 14:47:18:540 cpu/(24428:24428): nombre: 1668572463, par1: 1668246575, par2: 1769237601
+[INFO] 14:47:18:540 cpu/(24428:24428): nombre: 25965, par1: 0, par2: 17
+[INFO] 14:47:18:540 cpu/(24428:24428): nombre: 166842992, par1: 3, par2: 5524803
+[INFO] 14:47:18:540 cpu/(24428:24428): nombre: 17, par1: 166843008, par2: 3
+[INFO] 14:47:18:540 cpu/(24428:24428): nombre: 3420205, par1: 17, par2: 166843024
+[INFO] 14:47:18:540 cpu/(24428:24428): nombre: 3, par1: 3354669, par2: 17
+[INFO] 14:47:18:540 cpu/(24428:24428): nombre: 0, par1: 3, par2: 3289133
+[INFO] 14:47:18:540 cpu/(24428:24428): nombre: 17, par1: 333, par2: 5
+[INFO] 14:47:18:540 cpu/(24428:24428): nombre: 123, par1: 17, par2: 166843040
+[INFO] 14:47:18:540 cpu/(24428:24428): nombre: 166843088, par1: 3, par2: 17
+[INFO] 14:47:18:540 cpu/(24428:24428): nombre: 321, par1: 1828744496, par2: 33
+[INFO] 14:47:18:540 cpu/(24428:24428): nombre: 17, par1: 166843072, par2: 166843120
+[INFO] 14:47:18:540 cpu/(24428:24428): nombre: 16, par1: 17, par2: 2
+[INFO] 14:47:18:540 cpu/(24428:24428): nombre: 465, par1: 166843032, par2: 17
+[INFO] 14:47:18:540 cpu/(24428:24428): nombre: 166843104, par1: 166843152, par2: 741552689
+[INFO] 14:47:18:540 cpu/(24428:24428): nombre: 17, par1: 951, par2: 2
+[INFO] 14:47:18:540 cpu/(24428:24428): nombre: 0, par1: 17, par2: 166843136
+[INFO] 14:47:18:540 cpu/(24428:24428): nombre: 166848848, par1: 942814260, par2: 17
+[INFO] 14:47:18:540 cpu/(24428:24428): nombre: 32, par1: 17, par2: 166842976
+[INFO] 14:47:18:540 cpu/(24428:24428): nombre: 4105, par1: 1179535707, par2: 824204623
+[INFO] 14:47:18:540 cpu/(24428:24428): nombre: 926169652, par1: 976761146, par2: 540554037
+[INFO] 14:47:18:540 cpu/(24428:24428): nombre: 796225635, par1: 875835944, par2: 842676274
+[INFO] 14:47:18:540 cpu/(24428:24428): nombre: 942814260, par1: 1814051369, par2: 1869047148
+[INFO] 14:47:18:540 cpu/(24428:24428): nombre: 1835103264, par1: 1869180513, par2: 1869180448
+[INFO] 14:47:18:540 cpu/(24428:24428): nombre: 544172398, par1: 1913270837, par2: 857750066
+[INFO] 14:47:18:540 cpu/(24428:24428): nombre: 667954, par1: 0, par2: 0
+[INFO] 14:47:18:541 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:541 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:541 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:541 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:541 cpu/(24428:24428): nombre: 0, par1: -1217210336, par2: 0
+[INFO] 14:47:18:541 cpu/(24428:24428): nombre: 4105, par1: -1217206352, par2: -1217206352
+[INFO] 14:47:18:541 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:541 cpu/(24428:24428): nombre: 100663296, par1: 100663296, par2: 0
+[INFO] 14:47:18:541 cpu/(24428:24428): nombre: 1023410176, par1: 100663296, par2: 335544320
+[INFO] 14:47:18:541 cpu/(24428:24428): nombre: 128, par1: 814715554, par2: 1079147446
+[INFO] 14:47:18:541 cpu/(24428:24428): nombre: -1328997705, par1: 1083121336, par2: 812700856
+[INFO] 14:47:18:541 cpu/(24428:24428): nombre: -1065543750, par1: -1331448390, par2: 1085405371
+[INFO] 14:47:18:541 cpu/(24428:24428): nombre: 819435196, par1: -1058743875, par2: -1341491010
+[INFO] 14:47:18:541 cpu/(24428:24428): nombre: 1075362751, par1: -1332782400, par2: 1084071361
+[INFO] 14:47:18:541 cpu/(24428:24428): nombre: 818101186, par1: -1060077885, par2: -1326048060
+[INFO] 14:47:18:541 cpu/(24428:24428): nombre: 1074028741, par1: 808124101, par2: -1070120505
+[INFO] 14:47:18:541 cpu/(24428:24428): nombre: 816832711, par1: 1083474376, par2: -1331606070
+[INFO] 14:47:18:541 cpu/(24428:24428): nombre: -1064898870, par1: 822037966, par2: -1058164530
+[INFO] 14:47:18:541 cpu/(24428:24428): nombre: -1338693165, par1: -1067170860, par2: 805846516
+[INFO] 14:47:18:541 cpu/(24428:24428): nombre: -1057579020, par1: 812385781, par2: 1074803446
+[INFO] 14:47:18:541 cpu/(24428:24428): nombre: -1331697930, par1: -1069345800, par2: 819185656
+[INFO] 14:47:18:541 cpu/(24428:24428): nombre: 1081603321, par1: -1338584070, par2: -1070218245
+[INFO] 14:47:18:541 cpu/(24428:24428): nombre: 810794236, par1: 1079160061, par2: 808819966
+[INFO] 14:47:18:541 cpu/(24428:24428): nombre: 1077185791, par1: -1337285881, par2: -1603329016
+[INFO] 14:47:18:541 cpu/(24428:24428): nombre: -1330277341, par1: -1600909276, par2: -1326303451
+[INFO] 14:47:18:541 cpu/(24428:24428): nombre: -1602818011, par1: 806297895, par2: -1604792281
+[INFO] 14:47:18:541 cpu/(24428:24428): nombre: 821100585, par1: -1606766551, par2: 819191850
+[INFO] 14:47:18:541 cpu/(24428:24428): nombre: 542611755, par1: -1329138121, par2: -1339375816
+[INFO] 14:47:18:542 cpu/(24428:24428): nombre: -1341556921, par1: 545250375, par2: -1331496376
+[INFO] 14:47:18:542 cpu/(24428:24428): nombre: 543276105, par1: 33751553, par2: 33751555
+[INFO] 14:47:18:542 cpu/(24428:24428): nombre: 33751555, par1: 33751555, par2: 33751555
+[INFO] 14:47:18:542 cpu/(24428:24428): nombre: 33751555, par1: 33751555, par2: 33751555
+[INFO] 14:47:18:542 cpu/(24428:24428): nombre: 33751555, par1: 33751555, par2: 67437059
+[INFO] 14:47:18:542 cpu/(24428:24428): nombre: 67437573, par1: 67437573, par2: 50660357
+[INFO] 14:47:18:542 cpu/(24428:24428): nombre: 67437573, par1: -905969915, par2: -16777164
+[INFO] 14:47:18:542 cpu/(24428:24428): nombre: 13681663, par1: -939524348, par2: -16252736
+[INFO] 14:47:18:542 cpu/(24428:24428): nombre: 30463487, par1: -469762292, par2: -15728160
+[INFO] 14:47:18:542 cpu/(24428:24428): nombre: 13686271, par1: 1414351884, par2: 1414349568
+[INFO] 14:47:18:542 cpu/(24428:24428): nombre: 875572480, par1: 858795264, par2: 842018048
+[INFO] 14:47:18:542 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:542 cpu/(24428:24428): nombre: 1767527424, par1: 12902, par2: 0
+[INFO] 14:47:18:542 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:542 cpu/(24428:24428): nombre: 6, par1: 6, par2: 0
+[INFO] 14:47:18:542 cpu/(24428:24428): nombre: 62, par1: 6, par2: 63508
+[INFO] 14:47:18:542 cpu/(24428:24428): nombre: 0, par1: -256, par2: -1466141953
+[INFO] 14:47:18:542 cpu/(24428:24428): nombre: -180, par1: -1886215425, par2: -208
+[INFO] 14:47:18:542 cpu/(24428:24428): nombre: 1383839487, par1: -192, par2: -920995841
+[INFO] 14:47:18:542 cpu/(24428:24428): nombre: -80, par1: -1893811969, par2: -192
+[INFO] 14:47:18:542 cpu/(24428:24428): nombre: 1892989183, par1: -208, par2: 2098707199
+[INFO] 14:47:18:542 cpu/(24428:24428): nombre: -64, par1: -1548371201, par2: -80
+[INFO] 14:47:18:542 cpu/(24428:24428): nombre: -1309099009, par1: -192, par2: -677987073
+[INFO] 14:47:18:542 cpu/(24428:24428): nombre: -208, par1: -455492097, par2: -64
+[INFO] 14:47:18:542 cpu/(24428:24428): nombre: 175685375, par1: -80, par2: 414957567
+[INFO] 14:47:18:542 cpu/(24428:24428): nombre: -192, par1: -1889877761, par2: -80
+[INFO] 14:47:18:542 cpu/(24428:24428): nombre: -1650605569, par1: -192, par2: -1019493633
+[INFO] 14:47:18:543 cpu/(24428:24428): nombre: -208, par1: -796998657, par2: -64
+[INFO] 14:47:18:543 cpu/(24428:24428): nombre: -165886721, par1: -80, par2: 73451007
+[INFO] 14:47:18:543 cpu/(24428:24428): nombre: -192, par1: 721339903, par2: -208
+[INFO] 14:47:18:543 cpu/(24428:24428): nombre: 927057919, par1: -64, par2: -1344223233
+[INFO] 14:47:18:543 cpu/(24428:24428): nombre: -208, par1: -1803433729, par2: -192
+[INFO] 14:47:18:543 cpu/(24428:24428): nombre: -1588737281, par1: -80, par2: -2031170817
+[INFO] 14:47:18:543 cpu/(24428:24428): nombre: -64, par1: -11677953, par2: -208
+[INFO] 14:47:18:543 cpu/(24428:24428): nombre: -307179777, par1: -64, par2: 891933695
+[INFO] 14:47:18:543 cpu/(24428:24428): nombre: -80, par1: 1682167039, par2: -64
+[INFO] 14:47:18:543 cpu/(24428:24428): nombre: 138278143, par1: -208, par2: -157289217
+[INFO] 14:47:18:543 cpu/(24428:24428): nombre: -64, par1: 1812329983, par2: -208
+[INFO] 14:47:18:543 cpu/(24428:24428): nombre: 271775487, par1: -192, par2: -1612253441
+[INFO] 14:47:18:543 cpu/(24428:24428): nombre: -80, par1: 1125382399, par2: -64
+[INFO] 14:47:18:543 cpu/(24428:24428): nombre: -741869313, par1: -208, par2: 2012543487
+[INFO] 14:47:18:543 cpu/(24428:24428): nombre: -192, par1: 919862015, par2: -80
+[INFO] 14:47:18:543 cpu/(24428:24428): nombre: 902036479, par1: -64, par2: 1404894463
+[INFO] 14:47:18:543 cpu/(24428:24428): nombre: -208, par1: 1387068927, par2: -192
+[INFO] 14:47:18:543 cpu/(24428:24428): nombre: 899481343, par1: -208, par2: 881655807
+[INFO] 14:47:18:543 cpu/(24428:24428): nombre: 64, par1: 1252198144, par2: 176
+[INFO] 14:47:18:543 cpu/(24428:24428): nombre: 1864632320, par1: 160, par2: -1248582912
+[INFO] 14:47:18:543 cpu/(24428:24428): nombre: 176, par1: -1810881536, par2: 160
+[INFO] 14:47:18:543 cpu/(24428:24428): nombre: -231267072, par1: 176, par2: 1995449600
+[INFO] 14:47:18:543 cpu/(24428:24428): nombre: 160, par1: 253830912, par2: 48
+[INFO] 14:47:18:543 cpu/(24428:24428): nombre: 1490036480, par1: 160, par2: -251647744
+[INFO] 14:47:18:543 cpu/(24428:24428): nombre: 48, par1: 984623360, par2: 160
+[INFO] 14:47:18:543 cpu/(24428:24428): nombre: -740283904, par1: 48, par2: 1469655808
+[INFO] 14:47:18:544 cpu/(24428:24428): nombre: 32, par1: -956942592, par2: 176
+[INFO] 14:47:18:544 cpu/(24428:24428): nombre: 717174784, par1: 176, par2: 158811904
+[INFO] 14:47:18:544 cpu/(24428:24428): nombre: 176, par1: 2145142528, par2: 32
+[INFO] 14:47:18:544 cpu/(24428:24428): nombre: -1560655872, par1: 176, par2: 1639729408
+[INFO] 14:47:18:544 cpu/(24428:24428): nombre: 33620000, par1: 33751555, par2: 33751555
+[INFO] 14:47:18:545 cpu/(24428:24428): nombre: 33751555, par1: 33751555, par2: 33751555
+[INFO] 14:47:18:545 cpu/(24428:24428): nombre: 33751555, par1: 33751555, par2: 33751555
+[INFO] 14:47:18:545 cpu/(24428:24428): nombre: 33751555, par1: 33751555, par2: 67437573
+[INFO] 14:47:18:545 cpu/(24428:24428): nombre: 67437573, par1: 67437573, par2: 67437317
+[INFO] 14:47:18:545 cpu/(24428:24428): nombre: -16448507, par1: 3459583, par2: -1006633216
+[INFO] 14:47:18:545 cpu/(24428:24428): nombre: -16514864, par1: 12634111, par2: -704643320
+[INFO] 14:47:18:545 cpu/(24428:24428): nombre: -15990320, par1: 31515647, par2: -704643312
+[INFO] 14:47:18:545 cpu/(24428:24428): nombre: 1275855056, par1: 1124095053, par2: 754996301
+[INFO] 14:47:18:545 cpu/(24428:24428): nombre: 754988080, par1: 754987824, par2: 12848
+[INFO] 14:47:18:545 cpu/(24428:24428): nombre: 0, par1: 0, par2: 167772160
+[INFO] 14:47:18:545 cpu/(24428:24428): nombre: 858795324, par1: 668478, par2: 0
+[INFO] 14:47:18:545 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:545 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:545 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:545 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:545 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:545 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:545 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:545 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:545 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:545 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:545 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:545 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:545 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:545 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:545 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:545 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:545 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:545 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:546 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:546 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:546 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:546 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:546 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:546 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:546 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:546 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:546 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:546 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:546 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:546 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:546 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:546 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:546 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:546 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:546 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:546 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:546 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:546 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:546 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:551 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:551 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:551 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:551 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:552 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:552 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:552 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:552 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:552 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:552 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:552 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:552 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:552 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:552 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:552 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:552 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:552 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:552 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:552 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:552 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:552 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:552 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:552 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:552 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:552 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:552 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:552 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:552 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:552 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:552 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:552 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:553 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:553 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:553 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:553 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:553 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:553 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:553 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:553 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:553 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:553 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:553 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:553 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:553 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:553 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:553 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:553 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:553 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:553 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:553 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:553 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:553 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:553 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:553 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:553 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:553 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:553 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:553 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:553 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:554 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:554 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:554 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:554 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:554 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:554 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:554 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:554 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:554 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:554 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:554 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:554 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:554 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:554 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:554 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:554 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:554 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:554 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:554 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:554 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:554 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:554 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:554 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:554 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:554 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:554 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:554 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:554 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:555 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:555 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:555 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:555 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:555 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:555 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:555 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:555 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:555 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:555 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:555 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:555 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:555 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:555 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:555 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:555 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:555 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:555 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:555 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:555 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:555 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:555 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:555 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:555 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:555 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:555 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:555 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:555 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:555 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:556 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:556 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:556 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:556 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:556 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:556 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:556 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:556 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:556 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:556 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:556 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:556 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:556 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:556 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:556 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:556 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:556 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:556 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:556 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:556 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:556 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:556 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:556 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:556 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:556 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:556 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:557 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:557 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:557 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:557 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:557 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:557 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:557 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:557 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:557 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:557 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:557 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:557 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:557 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:557 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:557 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:557 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:557 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:557 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:557 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:557 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:557 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:557 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:557 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:557 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:557 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:557 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:557 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:558 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:558 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:558 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:558 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:558 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:558 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:558 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:558 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:558 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:558 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:558 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:558 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:558 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:558 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:558 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:558 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:558 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:558 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:558 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:558 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:558 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:558 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:558 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:558 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:558 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:558 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:558 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:558 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:559 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:559 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:559 cpu/(24428:24428): nombre: 17, par1: 5, par2: 123
+[INFO] 14:47:18:559 cpu/(24428:24428): nombre: 321, par1: 17, par2: 166847320
+[INFO] 14:47:18:559 cpu/(24428:24428): nombre: 2, par1: 875835944, par2: 17
+[INFO] 14:47:18:559 cpu/(24428:24428): nombre: 166842768, par1: 166847336, par2: 1229146446
+[INFO] 14:47:18:559 cpu/(24428:24428): nombre: 17, par1: 166847288, par2: 0
+[INFO] 14:47:18:559 cpu/(24428:24428): nombre: 170798638, par1: 65, par2: 52
+[INFO] 14:47:18:559 cpu/(24428:24428): nombre: 159, par1: 777, par2: 0
+[INFO] 14:47:18:559 cpu/(24428:24428): nombre: 465, par1: 951, par2: 2
+[INFO] 14:47:18:559 cpu/(24428:24428): nombre: 0, par1: 666, par2: 333
+[INFO] 14:47:18:559 cpu/(24428:24428): nombre: 5, par1: 123, par2: 321
+[INFO] 14:47:18:559 cpu/(24428:24428): nombre: 24, par1: 0, par2: 17
+[INFO] 14:47:18:559 cpu/(24428:24428): nombre: 166843056, par1: 378, par2: 16
+[INFO] 14:47:18:559 cpu/(24428:24428): nombre: 385, par1: -2147483648, par2: -1567453392
+[INFO] 14:47:18:559 cpu/(24428:24428): nombre: -1233432000, par1: -1222981200, par2: -1205956800
+[INFO] 14:47:18:559 cpu/(24428:24428): nombre: -1194037200, par1: -1172865600, par2: -1162501200
+[INFO] 14:47:18:559 cpu/(24428:24428): nombre: -1141329600, par1: -1130965200, par2: -1109793600
+[INFO] 14:47:18:559 cpu/(24428:24428): nombre: -1099429200, par1: -1078257600, par2: -1067806800
+[INFO] 14:47:18:559 cpu/(24428:24428): nombre: -1046635200, par1: -1036270800, par2: -1015099200
+[INFO] 14:47:18:559 cpu/(24428:24428): nombre: -1004734800, par1: -983563200, par2: -973198800
+[INFO] 14:47:18:559 cpu/(24428:24428): nombre: -952027200, par1: -941576400, par2: -931032000
+[INFO] 14:47:18:559 cpu/(24428:24428): nombre: -900882000, par1: -890337600, par2: -833749200
+[INFO] 14:47:18:559 cpu/(24428:24428): nombre: -827265600, par1: -752274000, par2: -733780800
+[INFO] 14:47:18:559 cpu/(24428:24428): nombre: -197326800, par1: -190843200, par2: -184194000
+[INFO] 14:47:18:559 cpu/(24428:24428): nombre: -164491200, par1: -152658000, par2: -132955200
+[INFO] 14:47:18:559 cpu/(24428:24428): nombre: -121122000, par1: -101419200, par2: -86821200
+[INFO] 14:47:18:560 cpu/(24428:24428): nombre: -71092800, par1: -54766800, par2: -39038400
+[INFO] 14:47:18:560 cpu/(24428:24428): nombre: -23317200, par1: -7588800, par2: 128142000
+[INFO] 14:47:18:560 cpu/(24428:24428): nombre: 136605600, par1: 596948400, par2: 605066400
+[INFO] 14:47:18:560 cpu/(24428:24428): nombre: 624423600, par1: 636516000, par2: 656478000
+[INFO] 14:47:18:560 cpu/(24428:24428): nombre: 667965600, par1: 687927600, par2: 699415200
+[INFO] 14:47:18:560 cpu/(24428:24428): nombre: 719377200, par1: 731469600, par2: 938919600
+[INFO] 14:47:18:560 cpu/(24428:24428): nombre: 952052400, par1: 1198983600, par2: 1205632800
+[INFO] 14:47:18:560 cpu/(24428:24428): nombre: 1224385200, par1: 1237082400, par2: 33751553
+[INFO] 14:47:18:560 cpu/(24428:24428): nombre: 33751555, par1: 33751555, par2: 33751555
+[INFO] 14:47:18:560 cpu/(24428:24428): nombre: 33751555, par1: 33751555, par2: 33751555
+[INFO] 14:47:18:560 cpu/(24428:24428): nombre: 33751555, par1: 33751555, par2: 33751555
+[INFO] 14:47:18:560 cpu/(24428:24428): nombre: 67437059, par1: 67437573, par2: 67437573
+[INFO] 14:47:18:560 cpu/(24428:24428): nombre: 50660357, par1: 67437573, par2: 5
+[INFO] 14:47:18:560 cpu/(24428:24428): nombre: -14028, par1: 0, par2: -15408
+[INFO] 14:47:18:560 cpu/(24428:24428): nombre: 1024, par1: -14400, par2: 2048
+[INFO] 14:47:18:560 cpu/(24428:24428): nombre: -10800, par1: 3073, par2: -7200
+[INFO] 14:47:18:560 cpu/(24428:24428): nombre: 4097, par1: -10800, par2: 3072
+[INFO] 14:47:18:560 cpu/(24428:24428): nombre: 5524812, par1: 5524803, par2: 3420205
+[INFO] 14:47:18:560 cpu/(24428:24428): nombre: 3354669, par1: 3289133, par2: 0
+[INFO] 14:47:18:560 cpu/(24428:24428): nombre: 1033, par1: 1831885595, par2: 824204623
+[INFO] 14:47:18:560 cpu/(24428:24428): nombre: 926169652, par1: 976761146, par2: 540554037
+[INFO] 14:47:18:560 cpu/(24428:24428): nombre: 796225635, par1: 875835944, par2: 842676274
+[INFO] 14:47:18:560 cpu/(24428:24428): nombre: 942814260, par1: 1814051369, par2: 1869047148
+[INFO] 14:47:18:560 cpu/(24428:24428): nombre: 1835103264, par1: 1869180513, par2: 1869180448
+[INFO] 14:47:18:560 cpu/(24428:24428): nombre: 544172398, par1: 1913270837, par2: 857750066
+[INFO] 14:47:18:561 cpu/(24428:24428): nombre: 667954, par1: 0, par2: 0
+[INFO] 14:47:18:561 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:561 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:561 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:561 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:561 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:561 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:561 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:561 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:561 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:561 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:561 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:561 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:561 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:561 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:561 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:561 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:561 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:561 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:561 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:561 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:561 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:561 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:561 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:561 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:561 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:561 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:562 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:562 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:562 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:562 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:562 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:562 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:562 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:562 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:562 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:562 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:562 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:562 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:562 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:562 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:562 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:562 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:562 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:562 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:562 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:562 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:562 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:562 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:562 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:562 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:562 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:562 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:562 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:563 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:563 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:563 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:563 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:563 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:563 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:563 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:563 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:563 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:563 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:563 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:563 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:568 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:568 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:568 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:569 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:569 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:569 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:569 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:569 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:569 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:569 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:569 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:569 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:569 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:569 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:569 cpu/(24428:24428): nombre: 17, par1: 166843168, par2: 166848880
+[INFO] 14:47:18:569 cpu/(24428:24428): nombre: 926169652, par1: 17, par2: 3
+[INFO] 14:47:18:569 cpu/(24428:24428): nombre: 5524812, par1: 25, par2: 17
+[INFO] 14:47:18:569 cpu/(24428:24428): nombre: 166848864, par1: 166848912, par2: 1869047148
+[INFO] 14:47:18:569 cpu/(24428:24428): nombre: 17, par1: 1668572463, par2: 1668246575
+[INFO] 14:47:18:569 cpu/(24428:24428): nombre: 1769237601, par1: 17, par2: 166848896
+[INFO] 14:47:18:569 cpu/(24428:24428): nombre: 166848944, par1: 1179535707, par2: 17
+[INFO] 14:47:18:569 cpu/(24428:24428): nombre: 25965, par1: 0, par2: 17
+[INFO] 14:47:18:569 cpu/(24428:24428): nombre: 17, par1: 166848928, par2: 166848976
+[INFO] 14:47:18:570 cpu/(24428:24428): nombre: 942814260, par1: 17, par2: 166842992
+[INFO] 14:47:18:570 cpu/(24428:24428): nombre: 3, par1: 5524803, par2: 17
+[INFO] 14:47:18:570 cpu/(24428:24428): nombre: 166848960, par1: 166849008, par2: 741552689
+[INFO] 14:47:18:570 cpu/(24428:24428): nombre: 17, par1: 17, par2: 166843008
+[INFO] 14:47:18:570 cpu/(24428:24428): nombre: 3, par1: 17, par2: 166848992
+[INFO] 14:47:18:570 cpu/(24428:24428): nombre: 166849040, par1: 875835944, par2: 17
+[INFO] 14:47:18:570 cpu/(24428:24428): nombre: 3420205, par1: 17, par2: 166843024
+[INFO] 14:47:18:570 cpu/(24428:24428): nombre: 17, par1: 166849024, par2: 166849072
+[INFO] 14:47:18:570 cpu/(24428:24428): nombre: 544172398, par1: 17, par2: 3
+[INFO] 14:47:18:570 cpu/(24428:24428): nombre: 3354669, par1: 17, par2: 17
+[INFO] 14:47:18:570 cpu/(24428:24428): nombre: 166849056, par1: 166849104, par2: 240
+[INFO] 14:47:18:570 cpu/(24428:24428): nombre: 17, par1: 0, par2: 3
+[INFO] 14:47:18:570 cpu/(24428:24428): nombre: 3289133, par1: 17, par2: 166849088
+[INFO] 14:47:18:570 cpu/(24428:24428): nombre: 166849136, par1: 12832, par2: 17
+[INFO] 14:47:18:570 cpu/(24428:24428): nombre: 17, par1: 333, par2: 5
+[INFO] 14:47:18:570 cpu/(24428:24428): nombre: 17, par1: 166849120, par2: 166849168
+[INFO] 14:47:18:570 cpu/(24428:24428): nombre: 875835944, par1: 17, par2: 123
+[INFO] 14:47:18:570 cpu/(24428:24428): nombre: 17, par1: 166843040, par2: 17
+[INFO] 14:47:18:570 cpu/(24428:24428): nombre: 166849152, par1: 166849200, par2: 1852795235
+[INFO] 14:47:18:570 cpu/(24428:24428): nombre: 17, par1: 166843088, par2: 3
+[INFO] 14:47:18:571 cpu/(24428:24428): nombre: 17, par1: 17, par2: 166849184
+[INFO] 14:47:18:571 cpu/(24428:24428): nombre: 166849232, par1: 540422965, par2: 17
+[INFO] 14:47:18:571 cpu/(24428:24428): nombre: 321, par1: 1828744496, par2: 33
+[INFO] 14:47:18:571 cpu/(24428:24428): nombre: 17, par1: 166849216, par2: 166849264
+[INFO] 14:47:18:571 cpu/(24428:24428): nombre: 1936615712, par1: 17, par2: 17
+[INFO] 14:47:18:571 cpu/(24428:24428): nombre: 166843072, par1: 166843120, par2: 17
+[INFO] 14:47:18:571 cpu/(24428:24428): nombre: 166849248, par1: 166849296, par2: 926169652
+[INFO] 14:47:18:571 cpu/(24428:24428): nombre: 17, par1: 16, par2: 17
+[INFO] 14:47:18:571 cpu/(24428:24428): nombre: 2, par1: 17, par2: 166849280
+[INFO] 14:47:18:571 cpu/(24428:24428): nombre: 166849328, par1: 1919249781, par2: 17
+[INFO] 14:47:18:571 cpu/(24428:24428): nombre: 465, par1: 166843032, par2: 17
+[INFO] 14:47:18:571 cpu/(24428:24428): nombre: 17, par1: 166849312, par2: 166849360
+[INFO] 14:47:18:571 cpu/(24428:24428): nombre: 80, par1: 17, par2: 166843104
+[INFO] 14:47:18:571 cpu/(24428:24428): nombre: 166843152, par1: 741552689, par2: 17
+[INFO] 14:47:18:571 cpu/(24428:24428): nombre: 166849344, par1: 166849392, par2: 875835944
+[INFO] 14:47:18:571 cpu/(24428:24428): nombre: 17, par1: 17, par2: 951
+[INFO] 14:47:18:571 cpu/(24428:24428): nombre: 2, par1: 17, par2: 166849376
+[INFO] 14:47:18:571 cpu/(24428:24428): nombre: 166849424, par1: 1852795235, par2: 17
+[INFO] 14:47:18:571 cpu/(24428:24428): nombre: 0, par1: 17, par2: 166843136
+[INFO] 14:47:18:571 cpu/(24428:24428): nombre: 17, par1: 166849408, par2: 166849456
+[INFO] 14:47:18:572 cpu/(24428:24428): nombre: 0, par1: 17, par2: 166848848
+[INFO] 14:47:18:572 cpu/(24428:24428): nombre: 942814260, par1: 17, par2: 17
+[INFO] 14:47:18:572 cpu/(24428:24428): nombre: 166849440, par1: 166849488, par2: 0
+[INFO] 14:47:18:572 cpu/(24428:24428): nombre: 17, par1: 32, par2: 17
+[INFO] 14:47:18:572 cpu/(24428:24428): nombre: 166842976, par1: 17, par2: 166849472
+[INFO] 14:47:18:572 cpu/(24428:24428): nombre: 166849520, par1: 0, par2: 17
+[INFO] 14:47:18:572 cpu/(24428:24428): nombre: 4105, par1: 1179535707, par2: 824204623
+[INFO] 14:47:18:572 cpu/(24428:24428): nombre: 17, par1: 166849504, par2: 166849552
+[INFO] 14:47:18:572 cpu/(24428:24428): nombre: 0, par1: 17, par2: 926169652
+[INFO] 14:47:18:572 cpu/(24428:24428): nombre: 976761146, par1: 540554037, par2: 17
+[INFO] 14:47:18:572 cpu/(24428:24428): nombre: 166849536, par1: 166849584, par2: 0
+[INFO] 14:47:18:572 cpu/(24428:24428): nombre: 17, par1: 796225635, par2: 875835944
+[INFO] 14:47:18:572 cpu/(24428:24428): nombre: 842676274, par1: 17, par2: 166849568
+[INFO] 14:47:18:572 cpu/(24428:24428): nombre: 166849616, par1: 0, par2: 17
+[INFO] 14:47:18:572 cpu/(24428:24428): nombre: 942814260, par1: 1814051369, par2: 1869047148
+[INFO] 14:47:18:572 cpu/(24428:24428): nombre: 17, par1: 166849600, par2: 166849648
+[INFO] 14:47:18:572 cpu/(24428:24428): nombre: 0, par1: 17, par2: 1835103264
+[INFO] 14:47:18:572 cpu/(24428:24428): nombre: 1869180513, par1: 1869180448, par2: 17
+[INFO] 14:47:18:572 cpu/(24428:24428): nombre: 166849632, par1: 166849680, par2: 0
+[INFO] 14:47:18:572 cpu/(24428:24428): nombre: 17, par1: 544172398, par2: 1913270837
+[INFO] 14:47:18:573 cpu/(24428:24428): nombre: 857750066, par1: 17, par2: 166849664
+[INFO] 14:47:18:573 cpu/(24428:24428): nombre: 166849712, par1: 0, par2: 17
+[INFO] 14:47:18:573 cpu/(24428:24428): nombre: 667954, par1: 0, par2: 0
+[INFO] 14:47:18:573 cpu/(24428:24428): nombre: 17, par1: 166849696, par2: 166849744
+[INFO] 14:47:18:573 cpu/(24428:24428): nombre: 0, par1: 17, par2: 0
+[INFO] 14:47:18:573 cpu/(24428:24428): nombre: 0, par1: 0, par2: 17
+[INFO] 14:47:18:573 cpu/(24428:24428): nombre: 166849728, par1: 166849776, par2: 0
+[INFO] 14:47:18:573 cpu/(24428:24428): nombre: 17, par1: 0, par2: 0
+[INFO] 14:47:18:573 cpu/(24428:24428): nombre: 0, par1: 17, par2: 166849760
+[INFO] 14:47:18:573 cpu/(24428:24428): nombre: 166849808, par1: 0, par2: 17
+[INFO] 14:47:18:573 cpu/(24428:24428): nombre: 0, par1: 0, par2: 0
+[INFO] 14:47:18:573 cpu/(24428:24428): nombre: 17, par1: 166849792, par2: 166849840
+[INFO] 14:47:18:573 cpu/(24428:24428): nombre: 0, par1: 17, par2: 0
+[INFO] 14:47:18:573 cpu/(24428:24428): nombre: 0, par1: 0, par2: 17
+[INFO] 14:47:18:573 cpu/(24428:24428): nombre: 166849824, par1: 166849872, par2: 0
+[INFO] 14:47:18:573 cpu/(24428:24428): nombre: 17, par1: 0, par2: -1217210336
+[INFO] 14:47:18:573 cpu/(24428:24428): nombre: 0, par1: 17, par2: 166849856
+[INFO] 14:47:18:573 cpu/(24428:24428): nombre: 166849904, par1: 0, par2: 17
+[INFO] 14:47:18:573 cpu/(24428:24428): nombre: 4105, par1: -1217206352, par2: -1217206352
+[INFO] 14:47:18:573 cpu/(24428:24428): nombre: 17, par1: 166849888, par2: 166849936
+[INFO] 14:47:18:573 cpu/(24428:24428): nombre: 0, par1: 17, par2: 0
+[INFO] 14:47:18:573 cpu/(24428:24428): nombre: 0, par1: 0, par2: 17
+[INFO] 14:47:18:573 cpu/(24428:24428): nombre: 166849920, par1: 166849968, par2: 0
+[INFO] 14:47:18:573 cpu/(24428:24428): nombre: 17, par1: 100663296, par2: 100663296
+[INFO] 14:47:18:573 cpu/(24428:24428): nombre: 0, par1: 17, par2: 166849952
+[INFO] 14:47:18:574 cpu/(24428:24428): nombre: 166850000, par1: 0, par2: 17
+[INFO] 14:47:18:574 cpu/(24428:24428): nombre: 1023410176, par1: 100663296, par2: 335544320
+[INFO] 14:47:18:574 cpu/(24428:24428): nombre: 17, par1: 166849984, par2: 166850032
+[INFO] 14:47:18:574 cpu/(24428:24428): nombre: 0, par1: 17, par2: 128
+[INFO] 14:47:18:574 cpu/(24428:24428): nombre: 814715554, par1: 1079147446, par2: 17
+[INFO] 14:47:18:574 cpu/(24428:24428): nombre: 166850016, par1: 166850064, par2: 0
+[INFO] 14:47:18:574 cpu/(24428:24428): nombre: 17, par1: -1328997705, par2: 1083121336
+[INFO] 14:47:18:574 cpu/(24428:24428): nombre: 812700856, par1: 17, par2: 166850048
+[INFO] 14:47:18:574 cpu/(24428:24428): nombre: 166850096, par1: 0, par2: 17
+[INFO] 14:47:18:574 cpu/(24428:24428): nombre: -1065543750, par1: -1331448390, par2: 1085405371
+[INFO] 14:47:18:574 cpu/(24428:24428): nombre: 17, par1: 166850080, par2: 166850128
+[INFO] 14:47:18:574 cpu/(24428:24428): nombre: 0, par1: 17, par2: 819435196
+[INFO] 14:47:18:574 cpu/(24428:24428): nombre: -1058743875, par1: -1341491010, par2: 17
+[INFO] 14:47:18:574 cpu/(24428:24428): nombre: 166850112, par1: 166850160, par2: 0
+[INFO] 14:47:18:574 cpu/(24428:24428): nombre: 17, par1: 1075362751, par2: -1332782400
+[INFO] 14:47:18:574 cpu/(24428:24428): nombre: 1084071361, par1: 17, par2: 166850144
+[INFO] 14:47:18:574 cpu/(24428:24428): nombre: 166850192, par1: 0, par2: 17
+[INFO] 14:47:18:574 cpu/(24428:24428): nombre: 818101186, par1: -1060077885, par2: -1326048060
+[INFO] 14:47:18:574 cpu/(24428:24428): nombre: 17, par1: 166850176, par2: 166850224
+[INFO] 14:47:18:574 cpu/(24428:24428): nombre: 0, par1: 17, par2: 1074028741
+[INFO] 14:47:18:574 cpu/(24428:24428): nombre: 808124101, par1: -1070120505, par2: 17
+[INFO] 14:47:18:574 cpu/(24428:24428): nombre: 166850208, par1: 166850256, par2: 0
+[INFO] 14:47:18:574 cpu/(24428:24428): nombre: 17, par1: 816832711, par2: 1083474376
+[INFO] 14:47:18:574 cpu/(24428:24428): nombre: -1331606070, par1: 17, par2: 166850240
+[INFO] 14:47:18:574 cpu/(24428:24428): nombre: 166850288, par1: 0, par2: 17
+[INFO] 14:47:18:574 cpu/(24428:24428): nombre: -1064898870, par1: 822037966, par2: -1058164530
+[INFO] 14:47:18:574 cpu/(24428:24428): nombre: 17, par1: 166850272, par2: 166850320
+[INFO] 14:47:18:575 cpu/(24428:24428): nombre: 0, par1: 17, par2: -1338693165
+[INFO] 14:47:18:575 cpu/(24428:24428): nombre: -1067170860, par1: 805846516, par2: 17
+[INFO] 14:47:18:575 cpu/(24428:24428): nombre: 166850304, par1: 166850352, par2: 0
+[INFO] 14:47:18:575 cpu/(24428:24428): nombre: 17, par1: -1057579020, par2: 812385781
+[INFO] 14:47:18:575 cpu/(24428:24428): nombre: 1074803446, par1: 17, par2: 166850336
+[INFO] 14:47:18:575 cpu/(24428:24428): nombre: 166850384, par1: 0, par2: 17
+[INFO] 14:47:18:575 cpu/(24428:24428): nombre: -1331697930, par1: -1069345800, par2: 819185656
+[INFO] 14:47:18:575 cpu/(24428:24428): nombre: 17, par1: 166850368, par2: 166850416
+[INFO] 14:47:18:575 cpu/(24428:24428): nombre: 0, par1: 17, par2: 1081603321
+[INFO] 14:47:18:575 cpu/(24428:24428): nombre: -1338584070, par1: -1070218245, par2: 17
+[INFO] 14:47:18:575 cpu/(24428:24428): nombre: 166850400, par1: 166850448, par2: 0
+[INFO] 14:47:18:575 cpu/(24428:24428): nombre: 17, par1: 810794236, par2: 1079160061
+[INFO] 14:47:18:575 cpu/(24428:24428): nombre: 808819966, par1: 17, par2: 166850432
+[INFO] 14:47:18:575 cpu/(24428:24428): nombre: 166850480, par1: 0, par2: 17
+[INFO] 14:47:18:575 cpu/(24428:24428): nombre: 1077185791, par1: -1337285881, par2: -1603329016
+[INFO] 14:47:18:575 cpu/(24428:24428): nombre: 17, par1: 166850464, par2: 166850512
+[INFO] 14:47:18:575 cpu/(24428:24428): nombre: 0, par1: 17, par2: -1330277341
+[INFO] 14:47:18:575 cpu/(24428:24428): nombre: -1600909276, par1: -1326303451, par2: 17
+[INFO] 14:47:18:575 cpu/(24428:24428): nombre: 166850496, par1: 166850544, par2: 0
+[INFO] 14:47:18:575 cpu/(24428:24428): nombre: 17, par1: -1602818011, par2: 806297895
+[INFO] 14:47:18:575 cpu/(24428:24428): nombre: -1604792281, par1: 17, par2: 166850528
+[INFO] 14:47:18:575 cpu/(24428:24428): nombre: 166850576, par1: 0, par2: 17
+[INFO] 14:47:18:575 cpu/(24428:24428): nombre: 821100585, par1: -1606766551, par2: 819191850
+[INFO] 14:47:18:575 cpu/(24428:24428): nombre: 17, par1: 166850560, par2: 166850608
+[INFO] 14:47:18:575 cpu/(24428:24428): nombre: 0, par1: 17, par2: 542611755
+[INFO] 14:47:18:575 cpu/(24428:24428): nombre: -1329138121, par1: -1339375816, par2: 17
+[INFO] 14:47:18:576 cpu/(24428:24428): nombre: 166850592, par1: 166850640, par2: 0
+[INFO] 14:47:18:576 cpu/(24428:24428): nombre: 17, par1: -1341556921, par2: 545250375
+[INFO] 14:47:18:576 cpu/(24428:24428): nombre: -1331496376, par1: 17, par2: 166850624
+[INFO] 14:47:18:576 cpu/(24428:24428): nombre: 166850672, par1: 0, par2: 17
+[INFO] 14:47:18:576 cpu/(24428:24428): nombre: 543276105, par1: 33751553, par2: 33751555
+[INFO] 14:47:18:576 cpu/(24428:24428): nombre: 17, par1: 166850656, par2: 166850704
+[INFO] 14:47:18:576 cpu/(24428:24428): nombre: 0, par1: 17, par2: 33751555
+[INFO] 14:47:18:576 cpu/(24428:24428): nombre: 33751555, par1: 33751555, par2: 17
+[INFO] 14:47:18:576 cpu/(24428:24428): nombre: 166850688, par1: 166850736, par2: 0
+[INFO] 14:47:18:576 cpu/(24428:24428): nombre: 17, par1: 33751555, par2: 33751555
+[INFO] 14:47:18:576 cpu/(24428:24428): nombre: 33751555, par1: 17, par2: 166850720
+[INFO] 14:47:18:576 cpu/(24428:24428): nombre: 166850768, par1: 0, par2: 17
+[INFO] 14:47:18:576 cpu/(24428:24428): nombre: 33751555, par1: 33751555, par2: 67437059
+[INFO] 14:47:18:576 cpu/(24428:24428): nombre: 17, par1: 166850752, par2: 166850800
+[INFO] 14:47:18:576 cpu/(24428:24428): nombre: 0, par1: 17, par2: 67437573
+[INFO] 14:47:18:576 cpu/(24428:24428): nombre: 67437573, par1: 50660357, par2: 17
+[INFO] 14:47:18:576 cpu/(24428:24428): nombre: 166850784, par1: 166850832, par2: 0
+[INFO] 14:47:18:576 cpu/(24428:24428): nombre: 17, par1: 67437573, par2: -905969915
+[INFO] 14:47:18:576 cpu/(24428:24428): nombre: -16777164, par1: 17, par2: 166850816
+[INFO] 14:47:18:576 cpu/(24428:24428): nombre: 166850864, par1: 0, par2: 17
+[INFO] 14:47:18:576 cpu/(24428:24428): nombre: 13681663, par1: -939524348, par2: -16252736
+[INFO] 14:47:18:576 cpu/(24428:24428): nombre: 17, par1: 166850848, par2: 166850896
+[INFO] 14:49:23:154 cpu/(24603:24603): INICIANDO LOG CPU...
+[INFO] 14:49:23:157 cpu/(24603:24603): id: 159
+[INFO] 14:49:23:157 cpu/(24603:24603): estimacion: 951
+[INFO] 14:49:23:157 cpu/(24603:24603): PC: 0
+[INFO] 14:49:23:157 cpu/(24603:24603): tamanio: 777
+[INFO] 14:49:23:157 cpu/(24603:24603): numero de instrucciones: 2
+[INFO] 14:49:23:157 cpu/(24603:24603): nombre: 0, par1: 666, par2: 333
+[INFO] 14:49:23:157 cpu/(24603:24603): nombre: 5, par1: 123, par2: 321
+[INFO] 14:49:23:161 cpu/(24603:24603): llego tamanio nionio 159
+[INFO] 14:49:23:162 cpu/(24603:24603): llego mensaje exit
+[INFO] 14:49:23:162 cpu/(24603:24603): id: 2
+[INFO] 14:49:23:162 cpu/(24603:24603): estimacion: 0
+[INFO] 14:49:23:162 cpu/(24603:24603): PC: 951
+[INFO] 14:49:23:162 cpu/(24603:24603): tamanio: 465
+[INFO] 14:49:23:162 cpu/(24603:24603): numero de instrucciones: 666
+[INFO] 14:49:23:162 cpu/(24603:24603): nombre: 333, par1: 5, par2: 123
+[INFO] 14:49:23:162 cpu/(24603:24603): nombre: 321, par1: 1828744496, par2: 7155712
+[INFO] 14:49:23:162 cpu/(24603:24603): nombre: 65, par1: 143592632, par2: 824204623
+[INFO] 14:49:23:162 cpu/(24603:24603): nombre: 959724084, par1: 976433722, par2: 540096049
+[INFO] 14:49:23:162 cpu/(24603:24603): nombre: 796225635, par1: 892613160, par2: 842675511
+[INFO] 14:49:23:162 cpu/(24603:24603): nombre: 892810548, par1: 1780496937, par2: 543517285
+[INFO] 14:49:23:162 cpu/(24603:24603): nombre: 171521329, par1: 1831885595, par2: 1831885568
+[INFO] 14:49:23:162 cpu/(24603:24603): nombre: 0, par1: 65, par2: 0
+[INFO] 14:49:23:162 cpu/(24603:24603): nombre: 824204623, par1: 959724084, par2: 976433722
+[INFO] 14:49:23:162 cpu/(24603:24603): nombre: 540096049, par1: 796225635, par2: 892613160
+[INFO] 14:49:23:162 cpu/(24603:24603): nombre: 842675511, par1: 959919412, par2: 976433722
+[INFO] 14:49:23:162 cpu/(24603:24603): nombre: 540096049, par1: 17, par2: 171521329
+[INFO] 14:49:23:162 cpu/(24603:24603): nombre: 1831885595, par1: 1831885568, par2: 17
+[INFO] 14:49:23:162 cpu/(24603:24603): nombre: 164542968, par1: 164543016, par2: 1869180513
+[INFO] 14:49:23:162 cpu/(24603:24603): nombre: 17, par1: 0, par2: 65
+[INFO] 14:49:23:162 cpu/(24603:24603): nombre: 0, par1: 17, par2: 164543000
+[INFO] 14:49:23:162 cpu/(24603:24603): nombre: 164543048, par1: 1179535707, par2: 17
+[INFO] 14:49:23:162 cpu/(24603:24603): nombre: 824204623, par1: 959724084, par2: 976433722
+[INFO] 14:49:23:162 cpu/(24603:24603): nombre: 17, par1: 164543032, par2: 164543080
+[INFO] 14:49:23:163 cpu/(24603:24603): nombre: 858797620, par1: 17, par2: 540096049
+[INFO] 14:49:23:163 cpu/(24603:24603): nombre: 796225635, par1: 892613160, par2: 17
+[INFO] 14:49:23:163 cpu/(24603:24603): nombre: 164543064, par1: 164543112, par2: 1831885595
+[INFO] 14:49:23:163 cpu/(24603:24603): nombre: 17, par1: 842675511, par2: 959919412
+[INFO] 14:49:23:163 cpu/(24603:24603): nombre: 976433722, par1: 17, par2: 164543096
+[INFO] 14:49:23:163 cpu/(24603:24603): nombre: 164543144, par1: 1936615712, par2: 17
+[INFO] 14:49:23:163 cpu/(24603:24603): nombre: 540096049, par1: 17, par2: 171521329
+[INFO] 14:49:23:163 cpu/(24603:24603): nombre: 17, par1: 164543128, par2: 164543176
+[INFO] 14:49:23:163 cpu/(24603:24603): nombre: 959724084, par1: 17, par2: 1831885595
+[INFO] 14:49:23:163 cpu/(24603:24603): nombre: 1831885568, par1: 17, par2: 17
+[INFO] 14:49:23:163 cpu/(24603:24603): nombre: 164543160, par1: 164543208, par2: 1919249781
+[INFO] 14:49:23:163 cpu/(24603:24603): nombre: 17, par1: 164542968, par2: 164543016
+[INFO] 14:49:23:163 cpu/(24603:24603): nombre: 1869180513, par1: 17, par2: 164543192
+[INFO] 14:49:23:163 cpu/(24603:24603): nombre: 164543240, par1: -1216763984, par2: 17
+[INFO] 14:49:23:163 cpu/(24603:24603): nombre: 17, par1: 0, par2: 65
+[INFO] 14:49:23:163 cpu/(24603:24603): nombre: 17, par1: 164543224, par2: 164543272
+[INFO] 14:49:23:163 cpu/(24603:24603): nombre: 858797620, par1: 17, par2: 0
+[INFO] 14:49:23:163 cpu/(24603:24603): nombre: 17, par1: 164543000, par2: 17
+[INFO] 14:49:23:164 cpu/(24603:24603): nombre: 164543256, par1: 164543304, par2: 1528498738
+[INFO] 14:49:23:164 cpu/(24603:24603): nombre: 17, par1: 164543048, par2: 1179535707
+[INFO] 14:49:23:164 cpu/(24603:24603): nombre: 17, par1: 17, par2: 164543288
+[INFO] 14:49:23:164 cpu/(24603:24603): nombre: 164543336, par1: 540489009, par2: 17
+[INFO] 14:49:23:164 cpu/(24603:24603): nombre: 824204623, par1: 959724084, par2: 976433722
+[INFO] 14:49:23:164 cpu/(24603:24603): nombre: 17, par1: 164543320, par2: 164543368
+[INFO] 14:49:23:164 cpu/(24603:24603): nombre: 1936615712, par1: 17, par2: 17
+[INFO] 14:49:23:164 cpu/(24603:24603): nombre: 164543032, par1: 164543080, par2: 17
+[INFO] 14:49:23:164 cpu/(24603:24603): nombre: 164543352, par1: 164543400, par2: 0
+[INFO] 14:49:23:164 cpu/(24603:24603): nombre: 17, par1: 858797620, par2: 17
+[INFO] 14:49:23:164 cpu/(24603:24603): nombre: 540096049, par1: 17, par2: 164543384
+[INFO] 14:49:23:164 cpu/(24603:24603): nombre: 164543432, par1: 0, par2: 17
+[INFO] 14:49:23:165 cpu/(24603:24603): nombre: 796225635, par1: 892613160, par2: 17
+[INFO] 14:49:23:165 cpu/(24603:24603): nombre: 17, par1: 164543416, par2: 164543464
+[INFO] 14:49:23:165 cpu/(24603:24603): nombre: 0, par1: 17, par2: 164543064
+[INFO] 14:49:23:165 cpu/(24603:24603): nombre: 164543112, par1: 1831885595, par2: 17
+[INFO] 14:49:23:165 cpu/(24603:24603): nombre: 164543448, par1: 164543496, par2: 0
+[INFO] 14:49:23:165 cpu/(24603:24603): nombre: 17, par1: 17, par2: 842675511
+[INFO] 14:49:23:165 cpu/(24603:24603): nombre: 959919412, par1: 17, par2: 164543480
+[INFO] 14:49:23:165 cpu/(24603:24603): nombre: 164543528, par1: 0, par2: 17
+[INFO] 14:49:23:165 cpu/(24603:24603): nombre: 976433722, par1: 17, par2: 164543096
+[INFO] 14:49:23:165 cpu/(24603:24603): nombre: 17, par1: 164543512, par2: 164543560
+[INFO] 14:49:23:165 cpu/(24603:24603): nombre: 0, par1: 17, par2: 164543144
+[INFO] 14:49:23:165 cpu/(24603:24603): nombre: 1936615712, par1: 17, par2: 17
+[INFO] 14:49:23:165 cpu/(24603:24603): nombre: 164543544, par1: 164543592, par2: 0
+[INFO] 14:49:23:165 cpu/(24603:24603): nombre: 17, par1: 540096049, par2: 17
+[INFO] 14:49:23:165 cpu/(24603:24603): nombre: 171521329, par1: 17, par2: 164543576
+[INFO] 14:49:23:165 cpu/(24603:24603): nombre: 164543624, par1: 0, par2: 17
+[INFO] 14:49:23:165 cpu/(24603:24603): nombre: 17, par1: 164543128, par2: 164543176
+[INFO] 14:49:23:165 cpu/(24603:24603): nombre: 17, par1: 164543608, par2: 164543656
+[INFO] 14:49:23:165 cpu/(24603:24603): nombre: 0, par1: 17, par2: 959724084
+[INFO] 14:49:23:165 cpu/(24603:24603): nombre: 17, par1: 1831885595, par2: 17
+[INFO] 14:49:23:165 cpu/(24603:24603): nombre: 164543640, par1: 164543688, par2: 0
+[INFO] 14:49:23:165 cpu/(24603:24603): nombre: 17, par1: 1831885568, par2: 17
+[INFO] 14:49:23:165 cpu/(24603:24603): nombre: 17, par1: 17, par2: 164543672
+[INFO] 14:49:23:165 cpu/(24603:24603): nombre: 164543720, par1: 0, par2: 17
+[INFO] 14:49:23:165 cpu/(24603:24603): nombre: 164543160, par1: 164543208, par2: 1919249781
+[INFO] 14:49:23:165 cpu/(24603:24603): nombre: 17, par1: 164543704, par2: 164543752
+[INFO] 14:49:23:165 cpu/(24603:24603): nombre: 0, par1: 17, par2: 17
+[INFO] 14:49:23:165 cpu/(24603:24603): nombre: 164542968, par1: 164543016, par2: 17
+[INFO] 14:49:23:166 cpu/(24603:24603): nombre: 164543736, par1: 164543784, par2: 0
+[INFO] 14:49:23:166 cpu/(24603:24603): nombre: 17, par1: 1869180513, par2: 17
+[INFO] 14:49:23:166 cpu/(24603:24603): nombre: 164543192, par1: 17, par2: 164543768
+[INFO] 14:49:23:166 cpu/(24603:24603): nombre: 164543816, par1: 0, par2: 17
+[INFO] 14:49:23:166 cpu/(24603:24603): nombre: 164543240, par1: -1216763984, par2: 17
+[INFO] 14:49:23:166 cpu/(24603:24603): nombre: 17, par1: 164543800, par2: 164543848
+[INFO] 14:49:23:166 cpu/(24603:24603): nombre: 0, par1: 17, par2: 17
+[INFO] 14:49:23:166 cpu/(24603:24603): nombre: 0, par1: 65, par2: 17
+[INFO] 14:49:23:166 cpu/(24603:24603): nombre: 164543832, par1: 164543880, par2: 0
+[INFO] 14:49:23:166 cpu/(24603:24603): nombre: 17, par1: 17, par2: 164543224
+[INFO] 14:49:23:166 cpu/(24603:24603): nombre: 164543272, par1: 17, par2: 164543864
+[INFO] 14:49:23:166 cpu/(24603:24603): nombre: 164543912, par1: 0, par2: 17
+[INFO] 14:49:23:166 cpu/(24603:24603): nombre: 858797620, par1: 17, par2: 0
+[INFO] 14:49:23:166 cpu/(24603:24603): nombre: 17, par1: 164543896, par2: 164543944
+[INFO] 14:49:23:166 cpu/(24603:24603): nombre: 0, par1: 17, par2: 17
+[INFO] 14:49:23:166 cpu/(24603:24603): nombre: 164543000, par1: 17, par2: 17
+[INFO] 14:49:23:166 cpu/(24603:24603): nombre: 164543928, par1: 164543976, par2: 0
+[INFO] 14:49:23:166 cpu/(24603:24603): nombre: 17, par1: 164543256, par2: 164543304
+[INFO] 14:49:23:166 cpu/(24603:24603): nombre: 1528498738, par1: 17, par2: 164543960
+[INFO] 14:49:23:166 cpu/(24603:24603): nombre: 164544008, par1: 0, par2: 17
+[INFO] 14:49:23:166 cpu/(24603:24603): nombre: 17, par1: 164543048, par2: 1179535707
+[INFO] 14:49:23:166 cpu/(24603:24603): nombre: 17, par1: 164543992, par2: 164544040
+[INFO] 14:49:23:167 cpu/(24603:24603): nombre: 0, par1: 17, par2: 17
+[INFO] 14:49:23:167 cpu/(24603:24603): nombre: 17, par1: 164543288, par2: 17
+[INFO] 14:49:23:168 cpu/(24603:24603): nombre: 164544024, par1: 164544072, par2: 0
+[INFO] 14:49:23:168 cpu/(24603:24603): nombre: 17, par1: 164543336, par2: 540489009
+[INFO] 14:49:23:168 cpu/(24603:24603): nombre: 17, par1: 17, par2: 164544056
+[INFO] 14:49:23:168 cpu/(24603:24603): nombre: 164544104, par1: 0, par2: 17
+[INFO] 14:49:23:168 cpu/(24603:24603): nombre: 824204623, par1: 959724084, par2: 976433722
+[INFO] 14:49:23:168 cpu/(24603:24603): nombre: 17, par1: 164544088, par2: 164544136
+[INFO] 14:49:23:168 cpu/(24603:24603): nombre: 0, par1: 17, par2: 17
+[INFO] 14:49:23:168 cpu/(24603:24603): nombre: 164543320, par1: 164543368, par2: 17
+[INFO] 14:49:23:168 cpu/(24603:24603): nombre: 164544120, par1: 164544168, par2: 0
+[INFO] 14:49:23:168 cpu/(24603:24603): nombre: 17, par1: 1936615712, par2: 17
+[INFO] 14:49:23:168 cpu/(24603:24603): nombre: 17, par1: 17, par2: 164544152
+[INFO] 14:49:23:168 cpu/(24603:24603): nombre: 164544200, par1: 0, par2: 17
+[INFO] 14:49:23:168 cpu/(24603:24603): nombre: 164543032, par1: 164543080, par2: 17
+[INFO] 14:49:23:168 cpu/(24603:24603): nombre: 17, par1: 164544184, par2: 164544232
+[INFO] 14:49:23:168 cpu/(24603:24603): nombre: 0, par1: 17, par2: 164543352
+[INFO] 14:49:23:168 cpu/(24603:24603): nombre: 164543400, par1: 0, par2: 17
+[INFO] 14:49:23:168 cpu/(24603:24603): nombre: 164544216, par1: 164544264, par2: 0
+[INFO] 14:49:23:168 cpu/(24603:24603): nombre: 17, par1: 17, par2: 858797620
+[INFO] 14:49:23:168 cpu/(24603:24603): nombre: 17, par1: 17, par2: 164544248
+[INFO] 14:49:23:168 cpu/(24603:24603): nombre: 164544296, par1: 0, par2: 17
+[INFO] 14:49:23:168 cpu/(24603:24603): nombre: 540096049, par1: 17, par2: 164543384
+[INFO] 14:49:23:168 cpu/(24603:24603): nombre: 17, par1: 164544280, par2: 164544328
+[INFO] 14:49:23:168 cpu/(24603:24603): nombre: 0, par1: 17, par2: 164543432
+[INFO] 14:49:23:168 cpu/(24603:24603): nombre: 0, par1: 17, par2: 17
+[INFO] 14:49:23:168 cpu/(24603:24603): nombre: 164544312, par1: 164544360, par2: 0
+[INFO] 14:49:23:168 cpu/(24603:24603): nombre: 17, par1: 796225635, par2: 892613160
+[INFO] 14:49:23:168 cpu/(24603:24603): nombre: 17, par1: 17, par2: 164544344
+[INFO] 14:49:23:168 cpu/(24603:24603): nombre: 164544392, par1: 0, par2: 17
+[INFO] 14:49:23:168 cpu/(24603:24603): nombre: 17, par1: 164543416, par2: 164543464
+[INFO] 14:49:23:168 cpu/(24603:24603): nombre: 17, par1: 164544376, par2: 164544424
+[INFO] 14:49:23:168 cpu/(24603:24603): nombre: 0, par1: 17, par2: 0
+[INFO] 14:49:23:169 cpu/(24603:24603): nombre: 17, par1: 164543064, par2: 17
+[INFO] 14:49:23:169 cpu/(24603:24603): nombre: 164544408, par1: 164544456, par2: 0
+[INFO] 14:49:23:169 cpu/(24603:24603): nombre: 17, par1: 164543112, par2: 1831885595
+[INFO] 14:49:23:169 cpu/(24603:24603): nombre: 17, par1: 17, par2: 164544440
+[INFO] 14:49:23:169 cpu/(24603:24603): nombre: 164544488, par1: 0, par2: 17
+[INFO] 14:49:23:169 cpu/(24603:24603): nombre: 164543448, par1: 164543496, par2: 0
+[INFO] 14:49:23:169 cpu/(24603:24603): nombre: 17, par1: 164544472, par2: 164544520
+[INFO] 14:49:23:169 cpu/(24603:24603): nombre: 0, par1: 17, par2: 17
+[INFO] 14:49:23:169 cpu/(24603:24603): nombre: 17, par1: 842675511, par2: 17
+[INFO] 14:49:23:169 cpu/(24603:24603): nombre: 164544504, par1: 164544552, par2: 0
+[INFO] 14:49:23:169 cpu/(24603:24603): nombre: 17, par1: 959919412, par2: 17
+[INFO] 14:49:23:169 cpu/(24603:24603): nombre: 164543480, par1: 17, par2: 164544536
+[INFO] 14:49:23:169 cpu/(24603:24603): nombre: 164544584, par1: 0, par2: 17
+[INFO] 14:49:23:169 cpu/(24603:24603): nombre: 164543528, par1: 0, par2: 17
+[INFO] 14:49:23:169 cpu/(24603:24603): nombre: 17, par1: 164544568, par2: 164544616
+[INFO] 14:49:23:169 cpu/(24603:24603): nombre: 0, par1: 17, par2: 976433722
+[INFO] 14:49:23:169 cpu/(24603:24603): nombre: 17, par1: 164543096, par2: 17
+[INFO] 14:49:23:169 cpu/(24603:24603): nombre: 164544600, par1: 164544648, par2: 0
+[INFO] 14:49:23:169 cpu/(24603:24603): nombre: 17, par1: 17, par2: 164543512
+[INFO] 14:49:23:169 cpu/(24603:24603): nombre: 164543560, par1: 17, par2: 164544632
+[INFO] 14:49:23:169 cpu/(24603:24603): nombre: 164544680, par1: 0, par2: 17
+[INFO] 14:49:23:169 cpu/(24603:24603): nombre: 0, par1: 17, par2: 164543144
+[INFO] 14:49:23:169 cpu/(24603:24603): nombre: 17, par1: 164544664, par2: 164544712
+[INFO] 14:49:23:169 cpu/(24603:24603): nombre: 0, par1: 17, par2: 1936615712
+[INFO] 14:49:23:169 cpu/(24603:24603): nombre: 17, par1: 17, par2: 17
+[INFO] 14:49:23:169 cpu/(24603:24603): nombre: 164544696, par1: 164544744, par2: 0
+[INFO] 14:49:23:169 cpu/(24603:24603): nombre: 17, par1: 164543544, par2: 164543592
+[INFO] 14:49:23:169 cpu/(24603:24603): nombre: 0, par1: 17, par2: 164544728
+[INFO] 14:49:23:169 cpu/(24603:24603): nombre: 164544776, par1: 0, par2: 17
+[INFO] 14:49:23:169 cpu/(24603:24603): nombre: 17, par1: 540096049, par2: 17
+[INFO] 14:49:23:169 cpu/(24603:24603): nombre: 17, par1: 164544760, par2: 164544808
+[INFO] 14:49:23:169 cpu/(24603:24603): nombre: 0, par1: 17, par2: 171521329
+[INFO] 14:49:23:169 cpu/(24603:24603): nombre: 17, par1: 164543576, par2: 17
+[INFO] 14:49:23:169 cpu/(24603:24603): nombre: 164544792, par1: 164544840, par2: 0
+[INFO] 14:49:23:169 cpu/(24603:24603): nombre: 17, par1: 164543624, par2: 0
+[INFO] 14:49:23:169 cpu/(24603:24603): nombre: 17, par1: 17, par2: 164544824
+[INFO] 14:49:23:169 cpu/(24603:24603): nombre: 164544872, par1: 0, par2: 17
+[INFO] 14:49:23:169 cpu/(24603:24603): nombre: 17, par1: 164543128, par2: 164543176
+[INFO] 14:49:23:169 cpu/(24603:24603): nombre: 17, par1: 164544856, par2: 164544904
+[INFO] 14:49:23:171 cpu/(24603:24603): nombre: 0, par1: 17, par2: 17
+[INFO] 14:49:23:171 cpu/(24603:24603): nombre: 164543608, par1: 164543656, par2: 17
+[INFO] 14:49:23:171 cpu/(24603:24603): nombre: 164544888, par1: 164544936, par2: 0
+[INFO] 14:49:23:171 cpu/(24603:24603): nombre: 17, par1: 0, par2: 17
+[INFO] 14:49:23:172 cpu/(24603:24603): nombre: 959724084, par1: 17, par2: 164544920
+[INFO] 14:49:23:172 cpu/(24603:24603): nombre: 164544968, par1: 0, par2: 17
+[INFO] 14:49:23:172 cpu/(24603:24603): nombre: 17, par1: 1831885595, par2: 17
+[INFO] 14:49:23:172 cpu/(24603:24603): nombre: 17, par1: 164544952, par2: 164545000
+[INFO] 14:49:23:172 cpu/(24603:24603): nombre: 0, par1: 17, par2: 164543640
+[INFO] 14:49:23:172 cpu/(24603:24603): nombre: 164543688, par1: 0, par2: 17
+[INFO] 14:49:23:172 cpu/(24603:24603): nombre: 164544984, par1: 164545032, par2: 0
+[INFO] 14:49:23:172 cpu/(24603:24603): nombre: 17, par1: 17, par2: 1831885568
+[INFO] 14:49:23:172 cpu/(24603:24603): nombre: 17, par1: 17, par2: 164545016
+[INFO] 14:49:23:172 cpu/(24603:24603): nombre: 164545064, par1: 0, par2: 17
+[INFO] 14:49:23:172 cpu/(24603:24603): nombre: 17, par1: 17, par2: 164543672
+[INFO] 14:49:23:172 cpu/(24603:24603): nombre: 17, par1: 164545048, par2: 164545096
+[INFO] 14:49:23:173 cpu/(24603:24603): nombre: 0, par1: 17, par2: 164543720
+[INFO] 14:49:23:173 cpu/(24603:24603): nombre: 0, par1: 17, par2: 17
+[INFO] 14:49:23:173 cpu/(24603:24603): nombre: 164545080, par1: 164545128, par2: 0
+[INFO] 14:49:23:173 cpu/(24603:24603): nombre: 17, par1: 164543160, par2: 164543208
+[INFO] 14:49:23:173 cpu/(24603:24603): nombre: 1919249781, par1: 17, par2: 164545112
+[INFO] 14:49:23:173 cpu/(24603:24603): nombre: 164545160, par1: 0, par2: 17
+[INFO] 14:49:23:176 cpu/(24603:24603): nombre: 17, par1: 164543704, par2: 164543752
+[INFO] 14:49:23:176 cpu/(24603:24603): nombre: 17, par1: 164545144, par2: 164545192
+[INFO] 14:49:23:176 cpu/(24603:24603): nombre: 0, par1: 17, par2: 0
+[INFO] 14:49:23:176 cpu/(24603:24603): nombre: 17, par1: 17, par2: 17
+[INFO] 14:49:23:176 cpu/(24603:24603): nombre: 164545176, par1: 164545224, par2: 0
+[INFO] 14:49:23:176 cpu/(24603:24603): nombre: 17, par1: 164542968, par2: 164543016
+[INFO] 14:49:23:176 cpu/(24603:24603): nombre: 17, par1: 17, par2: 164545208
+[INFO] 14:49:23:176 cpu/(24603:24603): nombre: 164545256, par1: 0, par2: 17
+[INFO] 14:49:23:177 cpu/(24603:24603): nombre: 164543736, par1: 164543784, par2: 0
+[INFO] 14:49:23:177 cpu/(24603:24603): nombre: 17, par1: 164545240, par2: 164545288
+[INFO] 14:49:23:177 cpu/(24603:24603): nombre: 0, par1: 17, par2: 17
+[INFO] 14:49:23:177 cpu/(24603:24603): nombre: 1869180513, par1: 17, par2: 17
+[INFO] 14:49:23:177 cpu/(24603:24603): nombre: 164545272, par1: 164545320, par2: 0
+[INFO] 14:49:23:177 cpu/(24603:24603): nombre: 17, par1: 164543192, par2: 17
+[INFO] 14:49:23:177 cpu/(24603:24603): nombre: 164543768, par1: 17, par2: 164545304
+[INFO] 14:49:23:177 cpu/(24603:24603): nombre: 164545352, par1: 0, par2: 17
+[INFO] 14:49:23:177 cpu/(24603:24603): nombre: 164543816, par1: 0, par2: 17
+[INFO] 14:49:23:177 cpu/(24603:24603): nombre: 17, par1: 164545336, par2: 164545384
+[INFO] 14:49:23:177 cpu/(24603:24603): nombre: 0, par1: 17, par2: 164543240
+[INFO] 14:49:23:177 cpu/(24603:24603): nombre: -1216763984, par1: 17, par2: 17
+[INFO] 14:49:23:177 cpu/(24603:24603): nombre: 164545368, par1: 164545416, par2: 0
+[INFO] 14:49:23:177 cpu/(24603:24603): nombre: 17, par1: 17, par2: 164543800
+[INFO] 14:49:23:177 cpu/(24603:24603): nombre: 164543848, par1: 17, par2: 164545400
+[INFO] 14:49:23:177 cpu/(24603:24603): nombre: 164545448, par1: 0, par2: 17
+[INFO] 14:49:23:178 cpu/(24603:24603): nombre: 0, par1: 17, par2: 17
+[INFO] 14:49:23:178 cpu/(24603:24603): nombre: 17, par1: 164545432, par2: 164545480
+[INFO] 14:49:23:178 cpu/(24603:24603): nombre: 0, par1: 17, par2: 0
+[INFO] 14:49:23:178 cpu/(24603:24603): nombre: 65, par1: 17, par2: 17
+[INFO] 14:49:23:178 cpu/(24603:24603): nombre: 164545464, par1: 164545512, par2: 0
+[INFO] 14:49:23:178 cpu/(24603:24603): nombre: 17, par1: 164543832, par2: 164543880
+[INFO] 14:49:23:178 cpu/(24603:24603): nombre: 0, par1: 17, par2: 164545496
+[INFO] 14:49:23:178 cpu/(24603:24603): nombre: 164545544, par1: 0, par2: 17
+[INFO] 14:49:23:178 cpu/(24603:24603): nombre: 17, par1: 17, par2: 164543224
+[INFO] 14:49:23:178 cpu/(24603:24603): nombre: 17, par1: 164545528, par2: 164545576
+[INFO] 14:49:23:178 cpu/(24603:24603): nombre: 0, par1: 17, par2: 164543272
+[INFO] 14:49:23:178 cpu/(24603:24603): nombre: 17, par1: 164543864, par2: 17
+[INFO] 14:49:23:178 cpu/(24603:24603): nombre: 164545560, par1: 164545608, par2: 0
+[INFO] 14:49:23:178 cpu/(24603:24603): nombre: 17, par1: 164543912, par2: 0
+[INFO] 14:49:23:178 cpu/(24603:24603): nombre: 17, par1: 17, par2: 164545592
+[INFO] 14:49:23:178 cpu/(24603:24603): nombre: 164545640, par1: 0, par2: 17
+[INFO] 14:49:23:178 cpu/(24603:24603): nombre: 858797620, par1: 17, par2: 0
+[INFO] 14:49:23:178 cpu/(24603:24603): nombre: 17, par1: 164545624, par2: 164545672
+[INFO] 14:49:23:178 cpu/(24603:24603): nombre: 0, par1: 17, par2: 17
+[INFO] 14:49:23:179 cpu/(24603:24603): nombre: 164543896, par1: 164543944, par2: 17
+[INFO] 14:49:23:179 cpu/(24603:24603): nombre: 164545656, par1: 164545704, par2: 0
+[INFO] 14:49:23:179 cpu/(24603:24603): nombre: 17, par1: 0, par2: 17
+[INFO] 14:49:23:179 cpu/(24603:24603): nombre: 17, par1: 17, par2: 164545688
+[INFO] 14:49:23:179 cpu/(24603:24603): nombre: 164545736, par1: 0, par2: 17
+[INFO] 14:49:23:179 cpu/(24603:24603): nombre: 164543000, par1: 17, par2: 17
+[INFO] 14:49:23:179 cpu/(24603:24603): nombre: 17, par1: 164545720, par2: 164545768
+[INFO] 14:49:23:179 cpu/(24603:24603): nombre: 0, par1: 17, par2: 164543928
+[INFO] 14:49:23:179 cpu/(24603:24603): nombre: 164543976, par1: 0, par2: 17
+[INFO] 14:49:23:179 cpu/(24603:24603): nombre: 164545752, par1: 164545800, par2: 0
+[INFO] 14:49:23:179 cpu/(24603:24603): nombre: 17, par1: 17, par2: 164543256
+[INFO] 14:49:23:179 cpu/(24603:24603): nombre: 164543304, par1: 17, par2: 164545784
+[INFO] 14:49:23:179 cpu/(24603:24603): nombre: 164545832, par1: 0, par2: 17
+[INFO] 14:49:23:179 cpu/(24603:24603): nombre: 1528498738, par1: 17, par2: 164543960
+[INFO] 14:49:23:179 cpu/(24603:24603): nombre: 17, par1: 164545816, par2: 164545864
+[INFO] 14:49:23:179 cpu/(24603:24603): nombre: 0, par1: 17, par2: 164544008
+[INFO] 14:49:23:179 cpu/(24603:24603): nombre: 0, par1: 17, par2: 17
+[INFO] 14:49:23:179 cpu/(24603:24603): nombre: 164545848, par1: 164545896, par2: 0
+[INFO] 14:49:23:180 cpu/(24603:24603): nombre: 17, par1: 17, par2: 164543048
+[INFO] 14:49:23:180 cpu/(24603:24603): nombre: 1179535707, par1: 17, par2: 164545880
+[INFO] 14:49:23:180 cpu/(24603:24603): nombre: 164545928, par1: 0, par2: 17
+[INFO] 14:49:23:180 cpu/(24603:24603): nombre: 17, par1: 164543992, par2: 164544040
+[INFO] 14:49:23:180 cpu/(24603:24603): nombre: 17, par1: 164545912, par2: 164545960
+[INFO] 14:49:23:180 cpu/(24603:24603): nombre: 0, par1: 17, par2: 0
+[INFO] 14:49:23:180 cpu/(24603:24603): nombre: 17, par1: 17, par2: 17
+[INFO] 14:49:23:180 cpu/(24603:24603): nombre: 164545944, par1: 164545992, par2: 0
+[INFO] 14:49:23:180 cpu/(24603:24603): nombre: 17, par1: 17, par2: 164543288
+[INFO] 14:49:23:180 cpu/(24603:24603): nombre: 17, par1: 17, par2: 164545976
+[INFO] 14:49:23:180 cpu/(24603:24603): nombre: 164546024, par1: 0, par2: 17
+[INFO] 14:49:23:180 cpu/(24603:24603): nombre: 164544024, par1: 164544072, par2: 0
+[INFO] 14:49:23:180 cpu/(24603:24603): nombre: 17, par1: 164546008, par2: 164546056
+[INFO] 14:49:23:180 cpu/(24603:24603): nombre: 0, par1: 17, par2: 17
+[INFO] 14:49:23:180 cpu/(24603:24603): nombre: 164543336, par1: 540489009, par2: 17
+[INFO] 14:49:23:180 cpu/(24603:24603): nombre: 164546040, par1: 164546088, par2: 0
+[INFO] 14:49:23:180 cpu/(24603:24603): nombre: 17, par1: 17, par2: 17
+[INFO] 14:49:23:181 cpu/(24603:24603): nombre: 164544056, par1: 17, par2: 164546072
+[INFO] 14:49:23:181 cpu/(24603:24603): nombre: 164546120, par1: 0, par2: 17
+[INFO] 14:49:23:181 cpu/(24603:24603): nombre: 164544104, par1: 0, par2: 17
+[INFO] 14:49:23:181 cpu/(24603:24603): nombre: 17, par1: 164546104, par2: 164546152
+[INFO] 14:49:23:181 cpu/(24603:24603): nombre: 0, par1: 17, par2: 824204623
+[INFO] 14:49:23:181 cpu/(24603:24603): nombre: 959724084, par1: 976433722, par2: 17
+[INFO] 14:49:23:181 cpu/(24603:24603): nombre: 164546136, par1: 164546184, par2: 0
+[INFO] 14:49:23:181 cpu/(24603:24603): nombre: 17, par1: 17, par2: 164544088
+[INFO] 14:49:23:181 cpu/(24603:24603): nombre: 164544136, par1: 17, par2: 164546168
+[INFO] 14:49:23:181 cpu/(24603:24603): nombre: 164546216, par1: 0, par2: 17
+[INFO] 14:49:23:181 cpu/(24603:24603): nombre: 0, par1: 17, par2: 17
+[INFO] 14:49:23:181 cpu/(24603:24603): nombre: 17, par1: 164546200, par2: 164546248
+[INFO] 14:49:23:181 cpu/(24603:24603): nombre: 0, par1: 17, par2: 164543320
+[INFO] 14:49:23:181 cpu/(24603:24603): nombre: 164543368, par1: 17, par2: 17
+[INFO] 14:49:23:181 cpu/(24603:24603): nombre: 164546232, par1: 164546280, par2: 0
+[INFO] 14:49:23:181 cpu/(24603:24603): nombre: 17, par1: 164544120, par2: 164544168
+[INFO] 14:49:23:181 cpu/(24603:24603): nombre: 0, par1: 17, par2: 164546264
+[INFO] 14:49:23:182 cpu/(24603:24603): nombre: 164546312, par1: 0, par2: 17
+[INFO] 14:49:23:182 cpu/(24603:24603): nombre: 17, par1: 1936615712, par2: 17
+[INFO] 14:49:23:182 cpu/(24603:24603): nombre: 17, par1: 164546296, par2: 164546344
+[INFO] 14:49:23:182 cpu/(24603:24603): nombre: 0, par1: 17, par2: 17
+[INFO] 14:49:23:182 cpu/(24603:24603): nombre: 17, par1: 164544152, par2: 17
+[INFO] 14:49:23:182 cpu/(24603:24603): nombre: 164546328, par1: 164546376, par2: 0
+[INFO] 14:49:23:182 cpu/(24603:24603): nombre: 17, par1: 164544200, par2: 0
+[INFO] 14:49:23:182 cpu/(24603:24603): nombre: 17, par1: 17, par2: 164546360
+[INFO] 14:49:23:182 cpu/(24603:24603): nombre: 164546408, par1: 0, par2: 17
+[INFO] 14:49:23:182 cpu/(24603:24603): nombre: 164543032, par1: 164543080, par2: 17
+[INFO] 14:49:23:182 cpu/(24603:24603): nombre: 17, par1: 164546392, par2: 164546440
+[INFO] 14:49:23:182 cpu/(24603:24603): nombre: 0, par1: 17, par2: 17
+[INFO] 14:49:23:182 cpu/(24603:24603): nombre: 164544184, par1: 164544232, par2: 17
+[INFO] 14:49:23:182 cpu/(24603:24603): nombre: 164546424, par1: 164546472, par2: 0
+[INFO] 14:49:23:182 cpu/(24603:24603): nombre: 17, par1: 0, par2: 17
+[INFO] 14:49:23:182 cpu/(24603:24603): nombre: 164543352, par1: 17, par2: 164546456
+[INFO] 14:49:23:182 cpu/(24603:24603): nombre: 164546504, par1: 0, par2: 17
+[INFO] 14:49:23:182 cpu/(24603:24603): nombre: 164543400, par1: 0, par2: 17
+[INFO] 14:49:23:183 cpu/(24603:24603): nombre: 17, par1: 164546488, par2: 164546536
+[INFO] 14:49:23:183 cpu/(24603:24603): nombre: 0, par1: 17, par2: 164544216
+[INFO] 14:49:23:183 cpu/(24603:24603): nombre: 164544264, par1: 0, par2: 17
+[INFO] 14:49:23:183 cpu/(24603:24603): nombre: 164546520, par1: 164546568, par2: 0
+[INFO] 14:49:23:183 cpu/(24603:24603): nombre: 17, par1: 17, par2: 17
+[INFO] 14:49:23:183 cpu/(24603:24603): nombre: 858797620, par1: 17, par2: 164546552
+[INFO] 14:49:23:183 cpu/(24603:24603): nombre: 164546600, par1: 0, par2: 17
+[INFO] 14:49:23:183 cpu/(24603:24603): nombre: 17, par1: 17, par2: 164544248
+[INFO] 14:49:23:183 cpu/(24603:24603): nombre: 17, par1: 164546584, par2: 164546632
+[INFO] 14:49:23:183 cpu/(24603:24603): nombre: 0, par1: 17, par2: 164544296
+[INFO] 14:49:23:183 cpu/(24603:24603): nombre: 0, par1: 17, par2: 17
+[INFO] 14:49:23:183 cpu/(24603:24603): nombre: 164546616, par1: 164546664, par2: 0
+[INFO] 14:49:23:183 cpu/(24603:24603): nombre: 17, par1: 540096049, par2: 17
+[INFO] 14:49:23:188 cpu/(24603:24603): nombre: 164543384, par1: 17, par2: 164546648
+[INFO] 14:49:23:188 cpu/(24603:24603): nombre: 164546696, par1: 0, par2: 17
+[INFO] 14:49:23:188 cpu/(24603:24603): nombre: 17, par1: 164544280, par2: 164544328
+[INFO] 14:49:23:188 cpu/(24603:24603): nombre: 17, par1: 164546680, par2: 164546728
+[INFO] 14:49:23:188 cpu/(24603:24603): nombre: 0, par1: 17, par2: 0
+[INFO] 14:49:23:188 cpu/(24603:24603): nombre: 17, par1: 164543432, par2: 17
+[INFO] 14:49:23:188 cpu/(24603:24603): nombre: 164546712, par1: 164546760, par2: 0
+[INFO] 14:49:23:188 cpu/(24603:24603): nombre: 17, par1: 0, par2: 17
+[INFO] 14:49:23:189 cpu/(24603:24603): nombre: 17, par1: 17, par2: 164546744
+[INFO] 14:49:23:189 cpu/(24603:24603): nombre: 164546792, par1: 0, par2: 17
+[INFO] 14:49:23:189 cpu/(24603:24603): nombre: 164544312, par1: 164544360, par2: 0
+[INFO] 14:49:23:189 cpu/(24603:24603): nombre: 17, par1: 164546776, par2: 164546824
+[INFO] 14:49:23:189 cpu/(24603:24603): nombre: 0, par1: 17, par2: 17
+[INFO] 14:49:23:189 cpu/(24603:24603): nombre: 796225635, par1: 892613160, par2: 17
+[INFO] 14:49:23:189 cpu/(24603:24603): nombre: 164546808, par1: 164546856, par2: 0
+[INFO] 14:49:23:189 cpu/(24603:24603): nombre: 17, par1: 17, par2: 17
+[INFO] 14:49:23:189 cpu/(24603:24603): nombre: 164544344, par1: 17, par2: 164546840
+[INFO] 14:49:23:190 cpu/(24603:24603): nombre: 164546888, par1: 0, par2: 17
+[INFO] 14:49:23:190 cpu/(24603:24603): nombre: 164544392, par1: 0, par2: 17
+[INFO] 14:49:23:190 cpu/(24603:24603): nombre: 17, par1: 164546872, par2: 164546920
+[INFO] 14:49:23:190 cpu/(24603:24603): nombre: 0, par1: 17, par2: 17
+[INFO] 14:49:23:190 cpu/(24603:24603): nombre: 164543416, par1: 164543464, par2: 17
+[INFO] 14:49:23:190 cpu/(24603:24603): nombre: 164546904, par1: 164546952, par2: 0
+[INFO] 14:49:23:190 cpu/(24603:24603): nombre: 17, par1: 17, par2: 164544376
+[INFO] 14:49:23:190 cpu/(24603:24603): nombre: 164544424, par1: 17, par2: 164546936
+[INFO] 14:49:23:190 cpu/(24603:24603): nombre: 164546984, par1: 0, par2: 17
+[INFO] 14:49:23:190 cpu/(24603:24603): nombre: 0, par1: 17, par2: 0
+[INFO] 14:49:23:190 cpu/(24603:24603): nombre: 17, par1: 164546968, par2: 164547016
+[INFO] 14:49:23:190 cpu/(24603:24603): nombre: 0, par1: 17, par2: 17
+[INFO] 14:49:23:190 cpu/(24603:24603): nombre: 164543064, par1: 17, par2: 17
+[INFO] 14:49:23:190 cpu/(24603:24603): nombre: 164547000, par1: 164547048, par2: 0
+[INFO] 14:49:23:190 cpu/(24603:24603): nombre: 17, par1: 164544408, par2: 164544456
+[INFO] 14:49:23:191 cpu/(24603:24603): nombre: 0, par1: 17, par2: 164547032
+[INFO] 14:49:23:191 cpu/(24603:24603): nombre: 164547080, par1: 0, par2: 17
+[INFO] 14:49:23:191 cpu/(24603:24603): nombre: 17, par1: 164543112, par2: 1831885595
+[INFO] 14:49:23:191 cpu/(24603:24603): nombre: 17, par1: 164547064, par2: 164547112
+[INFO] 14:49:23:191 cpu/(24603:24603): nombre: 0, par1: 17, par2: 17
+[INFO] 14:49:23:191 cpu/(24603:24603): nombre: 17, par1: 164544440, par2: 17
+[INFO] 14:49:23:191 cpu/(24603:24603): nombre: 164547096, par1: 164547144, par2: 0
+[INFO] 14:49:23:195 cpu/(24603:24603): nombre: 17, par1: 164544488, par2: 0
+[INFO] 14:49:23:195 cpu/(24603:24603): nombre: 17, par1: 17, par2: 164547128
+[INFO] 14:49:23:195 cpu/(24603:24603): nombre: 164547176, par1: 0, par2: 17
+[INFO] 14:49:23:195 cpu/(24603:24603): nombre: 164543448, par1: 164543496, par2: 0
+[INFO] 14:49:23:195 cpu/(24603:24603): nombre: 17, par1: 164547160, par2: 164547208
+[INFO] 14:49:23:195 cpu/(24603:24603): nombre: 0, par1: 17, par2: 17
+[INFO] 14:49:23:195 cpu/(24603:24603): nombre: 164544472, par1: 164544520, par2: 17
+[INFO] 14:49:23:195 cpu/(24603:24603): nombre: 164547192, par1: 164547240, par2: 0
+[INFO] 14:49:23:195 cpu/(24603:24603): nombre: 17, par1: 0, par2: 17
+[INFO] 14:49:23:195 cpu/(24603:24603): nombre: 17, par1: 17, par2: 164547224
+[INFO] 14:49:23:196 cpu/(24603:24603): nombre: 164547272, par1: 0, par2: 17
+[INFO] 14:49:23:196 cpu/(24603:24603): nombre: 17, par1: 842675511, par2: 17
+[INFO] 14:49:23:196 cpu/(24603:24603): nombre: 17, par1: 164547256, par2: 164547304
+[INFO] 14:49:23:196 cpu/(24603:24603): nombre: 0, par1: 17, par2: 164544504
+[INFO] 14:49:23:196 cpu/(24603:24603): nombre: 164544552, par1: 0, par2: 17
+[INFO] 14:49:23:196 cpu/(24603:24603): nombre: 164547288, par1: 164547336, par2: 0
+[INFO] 14:49:23:196 cpu/(24603:24603): nombre: 17, par1: 17, par2: 959919412
+[INFO] 14:49:23:196 cpu/(24603:24603): nombre: 17, par1: 17, par2: 164547320
+[INFO] 14:49:23:196 cpu/(24603:24603): nombre: 164547368, par1: 0, par2: 17
+[INFO] 14:49:23:196 cpu/(24603:24603): nombre: 164543480, par1: 17, par2: 164544536
+[INFO] 14:49:23:196 cpu/(24603:24603): nombre: 17, par1: 164547352, par2: 164547400
+[INFO] 14:49:23:196 cpu/(24603:24603): nombre: 0, par1: 17, par2: 164544584
+[INFO] 14:49:23:196 cpu/(24603:24603): nombre: 0, par1: 17, par2: 17
+[INFO] 14:49:23:196 cpu/(24603:24603): nombre: 164547384, par1: 164547432, par2: 0
+[INFO] 14:49:23:196 cpu/(24603:24603): nombre: 17, par1: 164543528, par2: 0
+[INFO] 14:49:23:196 cpu/(24603:24603): nombre: 17, par1: 17, par2: 164547416
+[INFO] 14:49:23:197 cpu/(24603:24603): nombre: 164547464, par1: 0, par2: 17
+[INFO] 14:49:23:197 cpu/(24603:24603): nombre: 17, par1: 164544568, par2: 164544616
+[INFO] 14:49:23:197 cpu/(24603:24603): nombre: 17, par1: 164547448, par2: 164547496
+[INFO] 14:49:23:197 cpu/(24603:24603): nombre: 0, par1: 17, par2: 0
+[INFO] 14:49:23:197 cpu/(24603:24603): nombre: 17, par1: 976433722, par2: 17
+[INFO] 14:49:23:197 cpu/(24603:24603): nombre: 164547480, par1: 164547528, par2: 0
+[INFO] 14:49:23:197 cpu/(24603:24603): nombre: 17, par1: 17, par2: 164543096
+[INFO] 14:49:23:197 cpu/(24603:24603): nombre: 17, par1: 17, par2: 164547512
+[INFO] 14:49:23:197 cpu/(24603:24603): nombre: 164547560, par1: 0, par2: 17
+[INFO] 14:49:23:197 cpu/(24603:24603): nombre: 164544600, par1: 164544648, par2: 0
+[INFO] 14:49:23:197 cpu/(24603:24603): nombre: 17, par1: 164547544, par2: 164547592
+[INFO] 14:49:23:197 cpu/(24603:24603): nombre: 0, par1: 17, par2: 17
+[INFO] 14:49:23:197 cpu/(24603:24603): nombre: 17, par1: 164543512, par2: 17
+[INFO] 14:49:23:197 cpu/(24603:24603): nombre: 164547576, par1: 164547624, par2: 0
+[INFO] 14:49:23:197 cpu/(24603:24603): nombre: 17, par1: 164543560, par2: 17
+[INFO] 14:49:23:197 cpu/(24603:24603): nombre: 164544632, par1: 17, par2: 164547608
+[INFO] 14:49:23:197 cpu/(24603:24603): nombre: 164547656, par1: 0, par2: 17
+[INFO] 14:49:23:197 cpu/(24603:24603): nombre: 164544680, par1: 0, par2: 17
+[INFO] 14:49:23:198 cpu/(24603:24603): nombre: 17, par1: 164547640, par2: 164547688
+[INFO] 14:49:23:198 cpu/(24603:24603): nombre: 0, par1: 17, par2: 0
+[INFO] 14:49:23:198 cpu/(24603:24603): nombre: 17, par1: 164543144, par2: 17
+[INFO] 14:49:23:198 cpu/(24603:24603): nombre: 164547672, par1: 164547720, par2: 0
+[INFO] 14:49:23:198 cpu/(24603:24603): nombre: 17, par1: 17, par2: 164544664
+[INFO] 14:49:23:198 cpu/(24603:24603): nombre: 164544712, par1: 17, par2: 164547704
+[INFO] 14:49:23:198 cpu/(24603:24603): nombre: 164547752, par1: 0, par2: 17
+[INFO] 14:49:23:198 cpu/(24603:24603): nombre: 0, par1: 17, par2: 1936615712
+[INFO] 14:49:23:198 cpu/(24603:24603): nombre: 17, par1: 164547736, par2: 164547784
+[INFO] 14:49:23:201 cpu/(24603:24603): nombre: 0, par1: 17, par2: 17
+[INFO] 14:49:23:201 cpu/(24603:24603): nombre: 17, par1: 17, par2: 17
+[INFO] 14:49:23:201 cpu/(24603:24603): nombre: 164547768, par1: 164547816, par2: 0
+[INFO] 14:49:23:201 cpu/(24603:24603): nombre: 17, par1: 164544696, par2: 164544744
+[INFO] 14:49:23:201 cpu/(24603:24603): nombre: 0, par1: 17, par2: 164547800
+[INFO] 14:49:23:201 cpu/(24603:24603): nombre: 164547848, par1: 0, par2: 17
+[INFO] 14:49:23:201 cpu/(24603:24603): nombre: 17, par1: 164543544, par2: 164543592
+[INFO] 14:49:23:201 cpu/(24603:24603): nombre: 17, par1: 164547832, par2: 164547880
+[INFO] 14:49:23:201 cpu/(24603:24603): nombre: 0, par1: 17, par2: 0
+[INFO] 14:49:23:201 cpu/(24603:24603): nombre: 17, par1: 164544728, par2: 17
+[INFO] 14:49:23:201 cpu/(24603:24603): nombre: 164547864, par1: 164547912, par2: 0
+[INFO] 14:49:23:201 cpu/(24603:24603): nombre: 17, par1: 164544776, par2: 0
+[INFO] 14:49:23:202 cpu/(24603:24603): nombre: 17, par1: 17, par2: 164547896
+[INFO] 14:49:23:202 cpu/(24603:24603): nombre: 164547944, par1: 0, par2: 17
+[INFO] 14:49:23:202 cpu/(24603:24603): nombre: 17, par1: 540096049, par2: 17
+[INFO] 14:49:23:202 cpu/(24603:24603): nombre: 17, par1: 164547928, par2: 164547976
+[INFO] 14:49:23:202 cpu/(24603:24603): nombre: 0, par1: 17, par2: 17
+[INFO] 14:49:23:202 cpu/(24603:24603): nombre: 164544760, par1: 164544808, par2: 17
+[INFO] 14:49:23:202 cpu/(24603:24603): nombre: 164547960, par1: 164548008, par2: 0
+[INFO] 14:49:23:202 cpu/(24603:24603): nombre: 17, par1: 0, par2: 17
+[INFO] 14:49:23:202 cpu/(24603:24603): nombre: 171521329, par1: 17, par2: 164547992
+[INFO] 14:49:23:202 cpu/(24603:24603): nombre: 164548040, par1: 0, par2: 17
+[INFO] 14:49:23:202 cpu/(24603:24603): nombre: 17, par1: 164543576, par2: 17
+[INFO] 14:49:23:202 cpu/(24603:24603): nombre: 17, par1: 164548024, par2: 164548072
+[INFO] 14:49:23:202 cpu/(24603:24603): nombre: 0, par1: 17, par2: 164544792
+[INFO] 14:49:23:202 cpu/(24603:24603): nombre: 164544840, par1: 0, par2: 17
+[INFO] 14:49:23:202 cpu/(24603:24603): nombre: 164548056, par1: 164548104, par2: 0
+[INFO] 14:49:23:202 cpu/(24603:24603): nombre: 17, par1: 17, par2: 164543624
+[INFO] 14:49:23:202 cpu/(24603:24603): nombre: 0, par1: 17, par2: 164548088
+[INFO] 14:49:23:203 cpu/(24603:24603): nombre: 164548136, par1: 0, par2: 17
+[INFO] 14:49:23:203 cpu/(24603:24603): nombre: 17, par1: 17, par2: 164544824
+[INFO] 14:49:23:203 cpu/(24603:24603): nombre: 17, par1: 164548120, par2: 164548168
+[INFO] 14:49:23:203 cpu/(24603:24603): nombre: 0, par1: 17, par2: 164544872
+[INFO] 14:49:23:203 cpu/(24603:24603): nombre: 0, par1: 17, par2: 17
+[INFO] 14:49:23:203 cpu/(24603:24603): nombre: 164548152, par1: 164548200, par2: 0
+[INFO] 14:49:23:203 cpu/(24603:24603): nombre: 17, par1: 17, par2: 164543128
+[INFO] 14:49:23:203 cpu/(24603:24603): nombre: 164543176, par1: 17, par2: 164548184
+[INFO] 14:49:23:203 cpu/(24603:24603): nombre: 164548232, par1: 0, par2: 17
+[INFO] 14:49:23:203 cpu/(24603:24603): nombre: 17, par1: 164544856, par2: 164544904
+[INFO] 14:49:23:203 cpu/(24603:24603): nombre: 17, par1: 164548216, par2: 164548264
+[INFO] 14:49:23:203 cpu/(24603:24603): nombre: 0, par1: 17, par2: 0
+[INFO] 14:49:23:203 cpu/(24603:24603): nombre: 17, par1: 17, par2: 17
+[INFO] 14:49:23:203 cpu/(24603:24603): nombre: 164548248, par1: 164548296, par2: 0
+[INFO] 14:49:23:203 cpu/(24603:24603): nombre: 17, par1: 164543608, par2: 164543656
+[INFO] 14:49:23:203 cpu/(24603:24603): nombre: 17, par1: 17, par2: 164548280
+[INFO] 14:49:23:203 cpu/(24603:24603): nombre: 164548328, par1: 0, par2: 17
+[INFO] 14:49:23:204 cpu/(24603:24603): nombre: 164544888, par1: 164544936, par2: 0
+[INFO] 14:49:23:204 cpu/(24603:24603): nombre: 17, par1: 164548312, par2: 164548360
+[INFO] 14:49:23:204 cpu/(24603:24603): nombre: 0, par1: 17, par2: 17
+[INFO] 14:49:23:204 cpu/(24603:24603): nombre: 0, par1: 17, par2: 17
+[INFO] 14:49:23:204 cpu/(24603:24603): nombre: 164548344, par1: 164548392, par2: 0
+[INFO] 14:49:23:204 cpu/(24603:24603): nombre: 17, par1: 959724084, par2: 17
+[INFO] 14:49:23:204 cpu/(24603:24603): nombre: 164544920, par1: 17, par2: 164548376
+[INFO] 14:49:23:204 cpu/(24603:24603): nombre: 164548424, par1: 0, par2: 17
+[INFO] 14:49:23:204 cpu/(24603:24603): nombre: 164544968, par1: 0, par2: 17
+[INFO] 14:49:23:204 cpu/(24603:24603): nombre: 17, par1: 164548408, par2: 164548456
+[INFO] 14:49:23:204 cpu/(24603:24603): nombre: 0, par1: 17, par2: 17
+[INFO] 14:49:23:204 cpu/(24603:24603): nombre: 1831885595, par1: 17, par2: 17
+[INFO] 14:49:23:204 cpu/(24603:24603): nombre: 164548440, par1: 164548488, par2: 0
+[INFO] 14:49:23:204 cpu/(24603:24603): nombre: 17, par1: 17, par2: 164544952
+[INFO] 14:49:23:204 cpu/(24603:24603): nombre: 164545000, par1: 17, par2: 164548472
+[INFO] 14:49:23:204 cpu/(24603:24603): nombre: 164548520, par1: 0, par2: 17
+[INFO] 14:49:23:205 cpu/(24603:24603): nombre: 0, par1: 17, par2: 164543640
+[INFO] 14:49:23:205 cpu/(24603:24603): nombre: 17, par1: 164548504, par2: 164548552
+[INFO] 14:49:23:207 cpu/(24603:24603): nombre: 0, par1: 17, par2: 164543688
+[INFO] 14:49:23:207 cpu/(24603:24603): nombre: 0, par1: 17, par2: 17
+[INFO] 14:49:23:207 cpu/(24603:24603): nombre: 164548536, par1: 164548584, par2: 0
+[INFO] 14:49:23:207 cpu/(24603:24603): nombre: 17, par1: 164544984, par2: 164545032
+[INFO] 14:49:23:207 cpu/(24603:24603): nombre: 0, par1: 17, par2: 164548568
+[INFO] 14:49:23:207 cpu/(24603:24603): nombre: 164548616, par1: 0, par2: 17
+[INFO] 14:49:23:207 cpu/(24603:24603): nombre: 17, par1: 17, par2: 1831885568
+[INFO] 14:49:23:208 cpu/(24603:24603): nombre: 17, par1: 164548600, par2: 164548648
+[INFO] 14:49:23:208 cpu/(24603:24603): nombre: 0, par1: 17, par2: 17
+[INFO] 14:49:23:208 cpu/(24603:24603): nombre: 17, par1: 164545016, par2: 17
+[INFO] 14:49:23:208 cpu/(24603:24603): nombre: 164548632, par1: 164548680, par2: 0
+[INFO] 14:49:23:208 cpu/(24603:24603): nombre: 17, par1: 164545064, par2: 0
+[INFO] 14:49:23:208 cpu/(24603:24603): nombre: 17, par1: 17, par2: 164548664
+[INFO] 14:49:23:208 cpu/(24603:24603): nombre: 164548712, par1: 0, par2: 17
+[INFO] 14:49:23:208 cpu/(24603:24603): nombre: 17, par1: 17, par2: 164543672
+[INFO] 14:49:23:208 cpu/(24603:24603): nombre: 17, par1: 164548696, par2: 164548744
+[INFO] 14:49:23:208 cpu/(24603:24603): nombre: 0, par1: 17, par2: 17
+[INFO] 14:49:23:208 cpu/(24603:24603): nombre: 164545048, par1: 164545096, par2: 17
+[INFO] 14:49:23:208 cpu/(24603:24603): nombre: 164548728, par1: 164548776, par2: 0
+[INFO] 14:49:23:208 cpu/(24603:24603): nombre: 17, par1: 0, par2: 17
+[INFO] 14:49:23:208 cpu/(24603:24603): nombre: 164543720, par1: 17, par2: 164548760
+[INFO] 14:49:23:208 cpu/(24603:24603): nombre: 164548808, par1: 0, par2: 17
+[INFO] 14:49:23:209 cpu/(24603:24603): nombre: 0, par1: 17, par2: 17
+[INFO] 14:49:23:209 cpu/(24603:24603): nombre: 17, par1: 164548792, par2: 164548840
+[INFO] 14:49:23:209 cpu/(24603:24603): nombre: 0, par1: 17, par2: 164545080
+[INFO] 14:49:23:209 cpu/(24603:24603): nombre: 164545128, par1: 0, par2: 17
+[INFO] 14:49:23:209 cpu/(24603:24603): nombre: 164548824, par1: 164548872, par2: 0
+[INFO] 14:49:23:209 cpu/(24603:24603): nombre: 17, par1: 17, par2: 164543160
+[INFO] 14:49:23:209 cpu/(24603:24603): nombre: 164543208, par1: 17, par2: 164548856
+[INFO] 14:49:23:209 cpu/(24603:24603): nombre: 164548904, par1: 0, par2: 17
+[INFO] 14:49:23:209 cpu/(24603:24603): nombre: 1919249781, par1: 17, par2: 164545112
+[INFO] 14:49:23:210 cpu/(24603:24603): nombre: 17, par1: 164548888, par2: 164548936
+[INFO] 14:49:23:212 cpu/(24603:24603): nombre: 0, par1: 17, par2: 164545160
+[INFO] 14:49:23:212 cpu/(24603:24603): nombre: 0, par1: 17, par2: 17
+[INFO] 14:49:23:212 cpu/(24603:24603): nombre: 164548920, par1: 164548968, par2: 0
+[INFO] 14:49:23:212 cpu/(24603:24603): nombre: 17, par1: 17, par2: 164543704
+[INFO] 14:49:23:212 cpu/(24603:24603): nombre: 164543752, par1: 17, par2: 164548952
+[INFO] 14:49:23:212 cpu/(24603:24603): nombre: 164549000, par1: 0, par2: 17
+[INFO] 14:49:23:213 cpu/(24603:24603): nombre: 17, par1: 164545144, par2: 164545192
+[INFO] 14:49:23:213 cpu/(24603:24603): nombre: 17, par1: 164548984, par2: 164549032
+[INFO] 14:49:23:213 cpu/(24603:24603): nombre: 0, par1: 17, par2: 0
+[INFO] 14:49:23:213 cpu/(24603:24603): nombre: 17, par1: 0, par2: 17
+[INFO] 14:49:23:213 cpu/(24603:24603): nombre: 164549016, par1: 164549064, par2: 0
+[INFO] 14:49:23:213 cpu/(24603:24603): nombre: 17, par1: 17, par2: 17
+[INFO] 14:49:23:213 cpu/(24603:24603): nombre: 17, par1: 17, par2: 164549048
+[INFO] 14:49:23:213 cpu/(24603:24603): nombre: 164549096, par1: 0, par2: 17
+[INFO] 14:49:23:213 cpu/(24603:24603): nombre: 164545176, par1: 164545224, par2: 0
+[INFO] 14:49:23:213 cpu/(24603:24603): nombre: 17, par1: 164549080, par2: 164549128
+[INFO] 14:49:23:213 cpu/(24603:24603): nombre: 0, par1: 17, par2: 17
+[INFO] 14:49:23:213 cpu/(24603:24603): nombre: 164542968, par1: 164543016, par2: 17
+[INFO] 14:49:23:213 cpu/(24603:24603): nombre: 164549112, par1: 164549160, par2: 0
+[INFO] 14:49:23:213 cpu/(24603:24603): nombre: 17, par1: 17, par2: 17
+[INFO] 14:49:23:213 cpu/(24603:24603): nombre: 164545208, par1: 17, par2: 164549144
+[INFO] 14:49:23:213 cpu/(24603:24603): nombre: 164549192, par1: 0, par2: 17
+[INFO] 14:49:23:213 cpu/(24603:24603): nombre: 164545256, par1: 0, par2: 17
+[INFO] 14:49:23:214 cpu/(24603:24603): nombre: 17, par1: 164549176, par2: 164549224
+[INFO] 14:49:23:214 cpu/(24603:24603): nombre: 0, par1: 17, par2: 164543736
+[INFO] 14:49:23:214 cpu/(24603:24603): nombre: 164543784, par1: 0, par2: 17
+[INFO] 14:49:23:214 cpu/(24603:24603): nombre: 164549208, par1: 164549256, par2: 0
+[INFO] 14:49:23:214 cpu/(24603:24603): nombre: 17, par1: 17, par2: 164545240
+[INFO] 14:49:23:214 cpu/(24603:24603): nombre: 164545288, par1: 17, par2: 164549240
+[INFO] 14:49:23:214 cpu/(24603:24603): nombre: 164549288, par1: 0, par2: 17
+[INFO] 14:49:23:214 cpu/(24603:24603): nombre: 0, par1: 17, par2: 17
+[INFO] 14:49:23:214 cpu/(24603:24603): nombre: 17, par1: 164549272, par2: 164549320
+[INFO] 14:49:23:214 cpu/(24603:24603): nombre: 0, par1: 17, par2: 1869180513
+[INFO] 14:49:23:214 cpu/(24603:24603): nombre: 17, par1: 17, par2: 17
+[INFO] 14:49:23:214 cpu/(24603:24603): nombre: 164549304, par1: 164549352, par2: 0
+[INFO] 14:49:23:214 cpu/(24603:24603): nombre: 17, par1: 164545272, par2: 164545320
+[INFO] 14:49:23:214 cpu/(24603:24603): nombre: 0, par1: 17, par2: 164549336
+[INFO] 14:49:23:214 cpu/(24603:24603): nombre: 164549384, par1: 0, par2: 17
+[INFO] 14:49:23:214 cpu/(24603:24603): nombre: 17, par1: 164543192, par2: 17
+[INFO] 14:49:23:215 cpu/(24603:24603): nombre: 17, par1: 164549368, par2: 164549416
+[INFO] 14:49:23:215 cpu/(24603:24603): nombre: 0, par1: 17, par2: 164543768
+[INFO] 14:49:23:215 cpu/(24603:24603): nombre: 17, par1: 164545304, par2: 17
+[INFO] 14:49:23:215 cpu/(24603:24603): nombre: 164549400, par1: 164549448, par2: 0
+[INFO] 14:49:23:215 cpu/(24603:24603): nombre: 17, par1: 164545352, par2: 0
+[INFO] 14:49:23:215 cpu/(24603:24603): nombre: 17, par1: 17, par2: 164549432
+[INFO] 14:49:23:215 cpu/(24603:24603): nombre: 164549480, par1: 0, par2: 17
+[INFO] 14:49:23:215 cpu/(24603:24603): nombre: 164543816, par1: 0, par2: 17
+[INFO] 14:49:23:215 cpu/(24603:24603): nombre: 17, par1: 164549464, par2: 164549512
+[INFO] 14:49:23:215 cpu/(24603:24603): nombre: 0, par1: 17, par2: 17
+[INFO] 14:49:23:215 cpu/(24603:24603): nombre: 164545336, par1: 164545384, par2: 17
+[INFO] 14:49:23:215 cpu/(24603:24603): nombre: 164549496, par1: 164549544, par2: 0
+[INFO] 14:49:23:215 cpu/(24603:24603): nombre: 17, par1: 0, par2: 17
+[INFO] 14:49:23:215 cpu/(24603:24603): nombre: 164543240, par1: 17, par2: 164549528
+[INFO] 14:49:23:215 cpu/(24603:24603): nombre: 164549576, par1: 0, par2: 17
+[INFO] 14:49:23:215 cpu/(24603:24603): nombre: -1216763984, par1: 17, par2: 17
+[INFO] 14:49:23:215 cpu/(24603:24603): nombre: 17, par1: 164549560, par2: 164549608
+[INFO] 14:49:23:216 cpu/(24603:24603): nombre: 0, par1: 17, par2: 164545368
+[INFO] 14:49:23:216 cpu/(24603:24603): nombre: 164545416, par1: 0, par2: 17
+[INFO] 14:49:23:216 cpu/(24603:24603): nombre: 164549592, par1: 164549640, par2: 0
+[INFO] 14:49:23:216 cpu/(24603:24603): nombre: 17, par1: 17, par2: 17
+[INFO] 14:49:23:216 cpu/(24603:24603): nombre: 164543800, par1: 17, par2: 164549624
+[INFO] 14:49:23:216 cpu/(24603:24603): nombre: 164549672, par1: 0, par2: 17
+[INFO] 14:49:23:216 cpu/(24603:24603): nombre: 164543848, par1: 17, par2: 164545400
+[INFO] 14:49:23:216 cpu/(24603:24603): nombre: 17, par1: 164549656, par2: 164549704
+[INFO] 14:49:23:216 cpu/(24603:24603): nombre: 0, par1: 17, par2: 164545448
+[INFO] 14:49:23:216 cpu/(24603:24603): nombre: 0, par1: 17, par2: 17
+[INFO] 14:49:23:216 cpu/(24603:24603): nombre: 164549688, par1: 164549736, par2: 0
+[INFO] 14:49:23:216 cpu/(24603:24603): nombre: 17, par1: 0, par2: 17
+[INFO] 14:49:23:216 cpu/(24603:24603): nombre: 17, par1: 17, par2: 164549720
+[INFO] 14:49:23:216 cpu/(24603:24603): nombre: 164549768, par1: 0, par2: 17
+[INFO] 14:49:23:216 cpu/(24603:24603): nombre: 17, par1: 164545432, par2: 164545480
+[INFO] 14:49:23:216 cpu/(24603:24603): nombre: 17, par1: 164549752, par2: 164549800
+[INFO] 14:49:23:217 cpu/(24603:24603): nombre: 0, par1: 17, par2: 0
+[INFO] 14:49:23:217 cpu/(24603:24603): nombre: 17, par1: 0, par2: 17
+[INFO] 14:49:23:217 cpu/(24603:24603): nombre: 164549784, par1: 164549832, par2: 0
+[INFO] 14:49:23:217 cpu/(24603:24603): nombre: 17, par1: 65, par2: 17
+[INFO] 14:49:23:217 cpu/(24603:24603): nombre: 17, par1: 17, par2: 164549816
+[INFO] 14:49:23:217 cpu/(24603:24603): nombre: 164549864, par1: 0, par2: 17
+[INFO] 14:49:23:217 cpu/(24603:24603): nombre: 164545464, par1: 164545512, par2: 0
+[INFO] 14:49:23:217 cpu/(24603:24603): nombre: 17, par1: 164549848, par2: 164549896
+[INFO] 14:49:23:217 cpu/(24603:24603): nombre: 0, par1: 17, par2: 17
+[INFO] 14:49:23:217 cpu/(24603:24603): nombre: 164543832, par1: 164543880, par2: 17
+[INFO] 14:49:23:217 cpu/(24603:24603): nombre: 164549880, par1: 164549928, par2: 0
+[INFO] 14:49:23:217 cpu/(24603:24603): nombre: 17, par1: 0, par2: 17
+[INFO] 14:49:23:217 cpu/(24603:24603): nombre: 164545496, par1: 17, par2: 164549912
+[INFO] 14:49:23:217 cpu/(24603:24603): nombre: 164549960, par1: 0, par2: 17
+[INFO] 14:49:23:217 cpu/(24603:24603): nombre: 164545544, par1: 0, par2: 17
+[INFO] 14:49:23:217 cpu/(24603:24603): nombre: 17, par1: 164549944, par2: 164549992
+[INFO] 14:49:23:217 cpu/(24603:24603): nombre: 0, par1: 17, par2: 17
+[INFO] 14:49:23:218 cpu/(24603:24603): nombre: 17, par1: 164543224, par2: 17
+[INFO] 14:49:23:218 cpu/(24603:24603): nombre: 164549976, par1: 164550024, par2: 0
+[INFO] 14:49:23:218 cpu/(24603:24603): nombre: 17, par1: 17, par2: 164545528
+[INFO] 14:49:23:218 cpu/(24603:24603): nombre: 164545576, par1: 17, par2: 164550008
+[INFO] 14:49:23:218 cpu/(24603:24603): nombre: 164550056, par1: 0, par2: 17
+[INFO] 14:49:23:222 cpu/(24603:24603): nombre: 0, par1: 17, par2: 164543272
+[INFO] 14:49:23:222 cpu/(24603:24603): nombre: 17, par1: 164550040, par2: 164550088
+[INFO] 14:49:23:222 cpu/(24603:24603): nombre: 0, par1: 17, par2: 17
+[INFO] 14:49:23:222 cpu/(24603:24603): nombre: 164543864, par1: 17, par2: 17
+[INFO] 14:49:23:222 cpu/(24603:24603): nombre: 164550072, par1: 164550120, par2: 0
+[INFO] 14:49:23:222 cpu/(24603:24603): nombre: 17, par1: 164545560, par2: 164545608
+[INFO] 14:49:23:222 cpu/(24603:24603): nombre: 0, par1: 17, par2: 164550104
+[INFO] 14:49:23:222 cpu/(24603:24603): nombre: 164550152, par1: 0, par2: 17
+[INFO] 14:49:23:222 cpu/(24603:24603): nombre: 17, par1: 164543912, par2: 0
+[INFO] 14:49:23:222 cpu/(24603:24603): nombre: 17, par1: 164550136, par2: 164550184
+[INFO] 14:49:23:222 cpu/(24603:24603): nombre: 0, par1: 17, par2: 17
+[INFO] 14:49:23:222 cpu/(24603:24603): nombre: 17, par1: 164545592, par2: 17
+[INFO] 14:49:23:222 cpu/(24603:24603): nombre: 164550168, par1: 164550216, par2: 0
+[INFO] 14:49:23:222 cpu/(24603:24603): nombre: 17, par1: 164545640, par2: 0
+[INFO] 14:49:23:222 cpu/(24603:24603): nombre: 17, par1: 17, par2: 164550200
+[INFO] 14:49:23:223 cpu/(24603:24603): nombre: 164550248, par1: 0, par2: 17
+[INFO] 14:49:23:223 cpu/(24603:24603): nombre: 858797620, par1: 17, par2: 0
+[INFO] 14:49:23:223 cpu/(24603:24603): nombre: 17, par1: 164550232, par2: 164550280
+[INFO] 14:49:23:223 cpu/(24603:24603): nombre: 0, par1: 17, par2: 17
+[INFO] 14:49:23:223 cpu/(24603:24603): nombre: 164545624, par1: 164545672, par2: 17
+[INFO] 14:49:23:223 cpu/(24603:24603): nombre: 164550264, par1: 164550312, par2: 0
+[INFO] 14:49:23:223 cpu/(24603:24603): nombre: 17, par1: 0, par2: 17
+[INFO] 14:49:23:223 cpu/(24603:24603): nombre: 17, par1: 17, par2: 164550296
+[INFO] 14:49:23:223 cpu/(24603:24603): nombre: 164550344, par1: 0, par2: 17
+[INFO] 14:49:23:223 cpu/(24603:24603): nombre: 164543896, par1: 164543944, par2: 17
+[INFO] 14:49:23:223 cpu/(24603:24603): nombre: 17, par1: 164550328, par2: 164550376
+[INFO] 14:49:23:223 cpu/(24603:24603): nombre: 0, par1: 17, par2: 164545656
+[INFO] 14:49:23:223 cpu/(24603:24603): nombre: 164545704, par1: 0, par2: 17
+[INFO] 14:49:23:223 cpu/(24603:24603): nombre: 164550360, par1: 164550408, par2: 0
+[INFO] 14:49:23:223 cpu/(24603:24603): nombre: 17, par1: 17, par2: 0
+[INFO] 14:49:23:223 cpu/(24603:24603): nombre: 17, par1: 17, par2: 164550392
+[INFO] 14:49:23:223 cpu/(24603:24603): nombre: 164550440, par1: 0, par2: 17
+[INFO] 14:49:23:224 cpu/(24603:24603): nombre: 17, par1: 17, par2: 164545688
+[INFO] 14:49:23:224 cpu/(24603:24603): nombre: 17, par1: 164550424, par2: 164550472
+[INFO] 14:49:23:224 cpu/(24603:24603): nombre: 0, par1: 17, par2: 164545736
+[INFO] 14:49:23:224 cpu/(24603:24603): nombre: 0, par1: 17, par2: 17
+[INFO] 14:49:23:224 cpu/(24603:24603): nombre: 164550456, par1: 164550504, par2: 0
+[INFO] 14:49:23:224 cpu/(24603:24603): nombre: 17, par1: 164543000, par2: 17
+[INFO] 14:49:23:224 cpu/(24603:24603): nombre: 17, par1: 17, par2: 164550488
+[INFO] 14:49:23:224 cpu/(24603:24603): nombre: 164550536, par1: 0, par2: 17
+[INFO] 14:49:23:224 cpu/(24603:24603): nombre: 17, par1: 164545720, par2: 164545768
+[INFO] 14:49:23:224 cpu/(24603:24603): nombre: 17, par1: 164550520, par2: 164550568
+[INFO] 14:49:23:224 cpu/(24603:24603): nombre: 0, par1: 17, par2: 0
+[INFO] 14:49:23:224 cpu/(24603:24603): nombre: 17, par1: 164543928, par2: 17
+[INFO] 14:49:23:224 cpu/(24603:24603): nombre: 164550552, par1: 164550600, par2: 0
+[INFO] 14:49:23:224 cpu/(24603:24603): nombre: 17, par1: 164543976, par2: 0
+[INFO] 14:49:23:224 cpu/(24603:24603): nombre: 17, par1: 17, par2: 164550584
+[INFO] 14:49:23:224 cpu/(24603:24603): nombre: 164550632, par1: 0, par2: 17
+[INFO] 14:49:23:229 cpu/(24603:24603): nombre: 164545752, par1: 164545800, par2: 0
+[INFO] 14:49:23:229 cpu/(24603:24603): nombre: 17, par1: 164550616, par2: 164550664
+[INFO] 14:49:23:229 cpu/(24603:24603): nombre: 0, par1: 17, par2: 17
+[INFO] 14:49:23:229 cpu/(24603:24603): nombre: 17, par1: 164543256, par2: 17
+[INFO] 14:49:23:229 cpu/(24603:24603): nombre: 164550648, par1: 164550696, par2: 0
+[INFO] 14:49:23:229 cpu/(24603:24603): nombre: 17, par1: 164543304, par2: 17
+[INFO] 14:49:23:229 cpu/(24603:24603): nombre: 164545784, par1: 17, par2: 164550680
+[INFO] 14:49:23:230 cpu/(24603:24603): nombre: 164550728, par1: 0, par2: 17
+[INFO] 14:49:23:230 cpu/(24603:24603): nombre: 164545832, par1: 0, par2: 17
+[INFO] 14:49:23:230 cpu/(24603:24603): nombre: 17, par1: 164550712, par2: 164550760
+[INFO] 14:49:23:230 cpu/(24603:24603): nombre: 0, par1: 17, par2: 1528498738
+[INFO] 14:49:23:230 cpu/(24603:24603): nombre: 17, par1: 164543960, par2: 17
+[INFO] 14:49:23:230 cpu/(24603:24603): nombre: 164550744, par1: 164550792, par2: 0
+[INFO] 14:49:23:230 cpu/(24603:24603): nombre: 17, par1: 17, par2: 164545816
+[INFO] 14:49:23:230 cpu/(24603:24603): nombre: 164545864, par1: 17, par2: 164550776
+[INFO] 14:49:23:230 cpu/(24603:24603): nombre: 164550824, par1: 0, par2: 17
+[INFO] 14:49:23:231 cpu/(24603:24603): nombre: 0, par1: 17, par2: 164544008
+[INFO] 14:53:36:543 cpu/(24766:24766): INICIANDO LOG CPU...
+[INFO] 14:53:36:552 cpu/(24766:24766): id: 159
+[INFO] 14:53:36:552 cpu/(24766:24766): estimacion: 951
+[INFO] 14:53:36:552 cpu/(24766:24766): PC: 0
+[INFO] 14:53:36:552 cpu/(24766:24766): tamanio: 777
+[INFO] 14:53:36:552 cpu/(24766:24766): numero de instrucciones: 2
+[INFO] 14:53:36:552 cpu/(24766:24766): nombre: 0, par1: 666, par2: 333
+[INFO] 14:53:36:552 cpu/(24766:24766): nombre: 5, par1: 123, par2: 321
+[INFO] 14:53:36:554 cpu/(24766:24766): llego tamanio nionio 52
+[INFO] 14:54:12:256 cpu/(24818:24818): INICIANDO LOG CPU...
+[INFO] 14:54:12:259 cpu/(24818:24818): id: 159
+[INFO] 14:54:12:259 cpu/(24818:24818): estimacion: 951
+[INFO] 14:54:12:259 cpu/(24818:24818): PC: 0
+[INFO] 14:54:12:259 cpu/(24818:24818): tamanio: 777
+[INFO] 14:54:12:259 cpu/(24818:24818): numero de instrucciones: 2
+[INFO] 14:54:12:259 cpu/(24818:24818): nombre: 0, par1: 666, par2: 333
+[INFO] 14:54:12:259 cpu/(24818:24818): nombre: 5, par1: 123, par2: 321
+[INFO] 14:54:12:261 cpu/(24818:24818): llego tamanio nionio 52
+[INFO] 14:54:12:261 cpu/(24818:24818): llego mensaje exit
+[INFO] 14:54:12:261 cpu/(24818:24818): id: 777
+[INFO] 14:54:12:261 cpu/(24818:24818): estimacion: 2
+[INFO] 14:54:12:262 cpu/(24818:24818): PC: 465
+[INFO] 14:54:12:262 cpu/(24818:24818): tamanio: 2
+[INFO] 14:54:12:262 cpu/(24818:24818): numero de instrucciones: 0
+[INFO] 14:56:12:076 cpu/(24915:24915): INICIANDO LOG CPU...
+[INFO] 14:56:12:084 cpu/(24915:24915): id: 159
+[INFO] 14:56:12:084 cpu/(24915:24915): estimacion: 951
+[INFO] 14:56:12:084 cpu/(24915:24915): PC: 0
+[INFO] 14:56:12:084 cpu/(24915:24915): tamanio: 777
+[INFO] 14:56:12:085 cpu/(24915:24915): numero de instrucciones: 2
+[INFO] 14:56:12:085 cpu/(24915:24915): nombre: 0, par1: 666, par2: 333
+[INFO] 14:56:12:085 cpu/(24915:24915): nombre: 5, par1: 123, par2: 321
+[INFO] 14:56:12:086 cpu/(24915:24915): llego tamanio nionio 52
+[INFO] 14:56:12:086 cpu/(24915:24915): llego mensaje exit
+[INFO] 14:56:12:086 cpu/(24915:24915): id: 159
+[INFO] 14:56:12:086 cpu/(24915:24915): estimacion: 951
+[INFO] 14:56:12:086 cpu/(24915:24915): PC: 2
+[INFO] 14:56:12:086 cpu/(24915:24915): tamanio: 777
+[INFO] 14:56:12:087 cpu/(24915:24915): numero de instrucciones: 2
+[INFO] 14:56:12:087 cpu/(24915:24915): nombre: 0, par1: 666, par2: 333
+[INFO] 14:56:12:087 cpu/(24915:24915): nombre: 5, par1: 123, par2: 321
+[INFO] 15:27:26:282 cpu/(25472:25472): INICIANDO LOG CPU...
+[INFO] 15:27:26:284 cpu/(25472:25472): id: 159
+[INFO] 15:27:26:284 cpu/(25472:25472): estimacion: 951
+[INFO] 15:27:26:284 cpu/(25472:25472): PC: 0
+[INFO] 15:27:26:285 cpu/(25472:25472): tamanio: 777
+[INFO] 15:27:26:285 cpu/(25472:25472): numero de instrucciones: 2
+[INFO] 15:27:26:285 cpu/(25472:25472): nombre: 0, par1: 666, par2: 333
+[INFO] 15:27:26:285 cpu/(25472:25472): nombre: 5, par1: 123, par2: 321
+[INFO] 15:27:26:835 cpu/(25472:25472): llego tamanio nionio 134518523
+[INFO] 15:29:45:313 cpu/(25564:25564): INICIANDO LOG CPU...
+[INFO] 15:29:45:317 cpu/(25564:25564): id: 159
+[INFO] 15:29:45:317 cpu/(25564:25564): estimacion: 951
+[INFO] 15:29:45:317 cpu/(25564:25564): PC: 0
+[INFO] 15:29:45:317 cpu/(25564:25564): tamanio: 777
+[INFO] 15:29:45:317 cpu/(25564:25564): numero de instrucciones: 2
+[INFO] 15:29:45:317 cpu/(25564:25564): nombre: 0, par1: 666, par2: 333
+[INFO] 15:29:45:317 cpu/(25564:25564): nombre: 5, par1: 123, par2: 321
+[INFO] 15:29:45:318 cpu/(25564:25564): llego tamanio nionio 52
+[INFO] 15:29:45:318 cpu/(25564:25564): llego mensaje exit
+[INFO] 15:29:45:318 cpu/(25564:25564): id: 159
+[INFO] 15:29:45:318 cpu/(25564:25564): estimacion: 951
+[INFO] 15:29:45:318 cpu/(25564:25564): PC: 2
+[INFO] 15:29:45:318 cpu/(25564:25564): tamanio: 777
+[INFO] 15:29:45:318 cpu/(25564:25564): numero de instrucciones: 2
+[INFO] 15:29:45:318 cpu/(25564:25564): nombre: 0, par1: 666, par2: 333
+[INFO] 15:29:45:318 cpu/(25564:25564): nombre: 5, par1: 123, par2: 321
+[INFO] 15:34:38:066 cpu/(25750:25750): INICIANDO LOG CPU...
+[INFO] 15:34:38:070 cpu/(25750:25750): id: 159
+[INFO] 15:34:38:070 cpu/(25750:25750): estimacion: 951
+[INFO] 15:34:38:070 cpu/(25750:25750): PC: 0
+[INFO] 15:34:38:070 cpu/(25750:25750): tamanio: 777
+[INFO] 15:34:38:070 cpu/(25750:25750): numero de instrucciones: 2
+[INFO] 15:34:38:070 cpu/(25750:25750): nombre: 0, par1: 666, par2: 333
+[INFO] 15:34:38:070 cpu/(25750:25750): nombre: 5, par1: 123, par2: 321
+[INFO] 15:34:38:072 cpu/(25750:25750): llego tamanio nionio 52
+[INFO] 15:34:38:072 cpu/(25750:25750): llego mensaje exit
+[INFO] 15:34:38:072 cpu/(25750:25750): id: 159
+[INFO] 15:34:38:072 cpu/(25750:25750): estimacion: 951
+[INFO] 15:34:38:072 cpu/(25750:25750): PC: 2
+[INFO] 15:34:38:072 cpu/(25750:25750): tamanio: 777
+[INFO] 15:34:38:072 cpu/(25750:25750): numero de instrucciones: 2
+[INFO] 15:34:38:072 cpu/(25750:25750): nombre: 0, par1: 666, par2: 333
+[INFO] 15:34:38:072 cpu/(25750:25750): nombre: 5, par1: 123, par2: 321
+[INFO] 15:40:14:115 cpu/(26062:26062): INICIANDO LOG CPU...
+[INFO] 15:40:14:121 cpu/(26062:26062): id: 159
+[INFO] 15:40:14:121 cpu/(26062:26062): estimacion: 951
+[INFO] 15:40:14:121 cpu/(26062:26062): PC: 0
+[INFO] 15:40:14:121 cpu/(26062:26062): tamanio: 777
+[INFO] 15:40:14:121 cpu/(26062:26062): numero de instrucciones: 2
+[INFO] 15:40:14:121 cpu/(26062:26062): nombre: 0, par1: 666, par2: 333
+[INFO] 15:40:14:121 cpu/(26062:26062): nombre: 5, par1: 123, par2: 321
+[INFO] 15:40:14:123 cpu/(26062:26062): llego mensaje exit
+[INFO] 15:40:14:123 cpu/(26062:26062): id: 159
+[INFO] 15:40:14:123 cpu/(26062:26062): estimacion: 951
+[INFO] 15:40:14:123 cpu/(26062:26062): PC: 0
+[INFO] 15:40:14:123 cpu/(26062:26062): tamanio: 777
+[INFO] 15:40:14:123 cpu/(26062:26062): numero de instrucciones: 2
+[INFO] 15:40:14:123 cpu/(26062:26062): nombre: 0, par1: 666, par2: 333
+[INFO] 15:40:14:123 cpu/(26062:26062): nombre: 5, par1: 123, par2: 321
+[INFO] 15:42:05:431 cpu/(26261:26261): INICIANDO LOG CPU...
+[INFO] 15:42:05:441 cpu/(26261:26261): id: 159
+[INFO] 15:42:05:441 cpu/(26261:26261): estimacion: 951
+[INFO] 15:42:05:441 cpu/(26261:26261): PC: 0
+[INFO] 15:42:05:441 cpu/(26261:26261): tamanio: 777
+[INFO] 15:42:05:441 cpu/(26261:26261): numero de instrucciones: 2
+[INFO] 15:42:05:441 cpu/(26261:26261): nombre: 0, par1: 666, par2: 333
+[INFO] 15:42:05:441 cpu/(26261:26261): nombre: 5, par1: 123, par2: 321
+[INFO] 15:42:05:442 cpu/(26261:26261): llego mensaje exit
+[INFO] 15:42:05:443 cpu/(26261:26261): id: 159
+[INFO] 15:42:05:443 cpu/(26261:26261): estimacion: 951
+[INFO] 15:42:05:443 cpu/(26261:26261): PC: 0
+[INFO] 15:42:05:443 cpu/(26261:26261): tamanio: 777
+[INFO] 15:42:05:443 cpu/(26261:26261): numero de instrucciones: 2
+[INFO] 15:42:05:443 cpu/(26261:26261): nombre: 0, par1: 666, par2: 333
+[INFO] 15:42:05:443 cpu/(26261:26261): nombre: 5, par1: 123, par2: 321
+[INFO] 15:49:30:253 cpu/(26517:26517): INICIANDO LOG CPU...
+[INFO] 15:49:30:255 cpu/(26517:26517): id: 159
+[INFO] 15:49:30:255 cpu/(26517:26517): estimacion: 951
+[INFO] 15:49:30:255 cpu/(26517:26517): PC: 0
+[INFO] 15:49:30:255 cpu/(26517:26517): tamanio: 777
+[INFO] 15:49:30:255 cpu/(26517:26517): numero de instrucciones: 2
+[INFO] 15:49:30:255 cpu/(26517:26517): nombre: 0, par1: 666, par2: 333
+[INFO] 15:49:30:255 cpu/(26517:26517): nombre: 5, par1: 123, par2: 321
+[INFO] 15:50:44:102 cpu/(26582:26582): INICIANDO LOG CPU...
+[INFO] 15:50:44:103 cpu/(26582:26582): id: 159
+[INFO] 15:50:44:103 cpu/(26582:26582): estimacion: 951
+[INFO] 15:50:44:103 cpu/(26582:26582): PC: 0
+[INFO] 15:50:44:103 cpu/(26582:26582): tamanio: 777
+[INFO] 15:50:44:103 cpu/(26582:26582): numero de instrucciones: 2
+[INFO] 15:50:44:103 cpu/(26582:26582): nombre: 0, par1: 666, par2: 333
+[INFO] 15:50:44:103 cpu/(26582:26582): nombre: 5, par1: 123, par2: 321
+[INFO] 15:53:56:626 cpu/(26874:26874): INICIANDO LOG CPU...
+[INFO] 15:53:56:630 cpu/(26874:26874): id: 159
+[INFO] 15:53:56:630 cpu/(26874:26874): estimacion: 951
+[INFO] 15:53:56:630 cpu/(26874:26874): PC: 0
+[INFO] 15:53:56:631 cpu/(26874:26874): tamanio: 777
+[INFO] 15:53:56:631 cpu/(26874:26874): numero de instrucciones: 2
+[INFO] 15:53:56:631 cpu/(26874:26874): nombre: 0, par1: 666, par2: 333
+[INFO] 15:53:56:631 cpu/(26874:26874): nombre: 5, par1: 123, par2: 321
+[INFO] 15:56:03:286 cpu/(26979:26979): INICIANDO LOG CPU...
+[INFO] 15:56:03:291 cpu/(26979:26979): id: 159
+[INFO] 15:56:03:291 cpu/(26979:26979): estimacion: 951
+[INFO] 15:56:03:291 cpu/(26979:26979): PC: 0
+[INFO] 15:56:03:293 cpu/(26979:26979): tamanio: 777
+[INFO] 15:56:03:293 cpu/(26979:26979): numero de instrucciones: 2
+[INFO] 15:56:03:293 cpu/(26979:26979): nombre: 0, par1: 666, par2: 333
+[INFO] 15:56:03:295 cpu/(26979:26979): nombre: 5, par1: 123, par2: 321
+[INFO] 15:56:26:714 cpu/(27046:27046): INICIANDO LOG CPU...
+[INFO] 15:56:26:715 cpu/(27046:27046): id: 159
+[INFO] 15:56:26:715 cpu/(27046:27046): estimacion: 951
+[INFO] 15:56:26:715 cpu/(27046:27046): PC: 0
+[INFO] 15:56:26:715 cpu/(27046:27046): tamanio: 777
+[INFO] 15:56:26:715 cpu/(27046:27046): numero de instrucciones: 2
+[INFO] 15:56:26:715 cpu/(27046:27046): nombre: 0, par1: 666, par2: 333
+[INFO] 15:56:26:715 cpu/(27046:27046): nombre: 5, par1: 123, par2: 321
+[INFO] 16:04:25:104 cpu/(27274:27274): INICIANDO LOG CPU...
+[INFO] 16:04:25:105 cpu/(27274:27274): id: 159
+[INFO] 16:04:25:105 cpu/(27274:27274): estimacion: 951
+[INFO] 16:04:25:105 cpu/(27274:27274): PC: 0
+[INFO] 16:04:25:105 cpu/(27274:27274): tamanio: 777
+[INFO] 16:04:25:105 cpu/(27274:27274): numero de instrucciones: 2
+[INFO] 16:04:25:105 cpu/(27274:27274): nombre: 0, par1: 666, par2: 333
+[INFO] 16:04:25:105 cpu/(27274:27274): nombre: 5, par1: 123, par2: 321
+[INFO] 16:04:25:107 cpu/(27274:27274): llego mensaje exit
+[INFO] 16:04:25:107 cpu/(27274:27274): id: 777
+[INFO] 16:04:25:111 cpu/(27274:27274): estimacion: 2
+[INFO] 16:04:25:111 cpu/(27274:27274): PC: 465
+[INFO] 16:04:25:111 cpu/(27274:27274): tamanio: 2
+[INFO] 16:04:25:111 cpu/(27274:27274): numero de instrucciones: 0
+[INFO] 16:31:12:604 cpu/(27800:27800): INICIANDO LOG CPU...
+[INFO] 16:31:12:605 cpu/(27800:27800): id: 159
+[INFO] 16:31:12:605 cpu/(27800:27800): estimacion: 951
+[INFO] 16:31:12:605 cpu/(27800:27800): PC: 0
+[INFO] 16:31:12:605 cpu/(27800:27800): tamanio: 777
+[INFO] 16:31:12:605 cpu/(27800:27800): numero de instrucciones: 2
+[INFO] 16:31:12:605 cpu/(27800:27800): nombre: 0, par1: 666, par2: 333
+[INFO] 16:31:12:605 cpu/(27800:27800): nombre: 5, par1: 123, par2: 321
+[INFO] 16:31:12:607 cpu/(27800:27800): llego mensaje exit
+[INFO] 16:31:12:607 cpu/(27800:27800): id: 777
+[INFO] 16:31:12:607 cpu/(27800:27800): estimacion: 2
+[INFO] 16:31:12:607 cpu/(27800:27800): PC: 465
+[INFO] 16:31:12:607 cpu/(27800:27800): tamanio: 2
+[INFO] 16:31:12:607 cpu/(27800:27800): numero de instrucciones: 0
+[INFO] 16:33:20:446 cpu/(27972:27972): INICIANDO LOG CPU...
+[INFO] 16:33:20:446 cpu/(27972:27972): id: 159
+[INFO] 16:33:20:446 cpu/(27972:27972): estimacion: 951
+[INFO] 16:33:20:446 cpu/(27972:27972): PC: 0
+[INFO] 16:33:20:447 cpu/(27972:27972): tamanio: 777
+[INFO] 16:33:20:447 cpu/(27972:27972): numero de instrucciones: 2
+[INFO] 16:33:20:447 cpu/(27972:27972): nombre: 0, par1: 666, par2: 333
+[INFO] 16:33:20:447 cpu/(27972:27972): nombre: 5, par1: 123, par2: 321
+[INFO] 16:41:55:581 cpu/(28191:28191): INICIANDO LOG CPU...
+[INFO] 16:41:55:585 cpu/(28191:28191): id: 159
+[INFO] 16:41:55:587 cpu/(28191:28191): estimacion: 951
+[INFO] 16:41:55:588 cpu/(28191:28191): PC: 0
+[INFO] 16:41:55:588 cpu/(28191:28191): tamanio: 777
+[INFO] 16:41:55:588 cpu/(28191:28191): numero de instrucciones: 2
+[INFO] 16:41:55:588 cpu/(28191:28191): nombre: 0, par1: 666, par2: 333
+[INFO] 16:41:55:589 cpu/(28191:28191): nombre: 5, par1: 123, par2: 321
+[INFO] 16:42:19:308 cpu/(28227:28227): INICIANDO LOG CPU...
+[INFO] 16:42:19:309 cpu/(28227:28227): id: 159
+[INFO] 16:42:19:309 cpu/(28227:28227): estimacion: 951
+[INFO] 16:42:19:309 cpu/(28227:28227): PC: 0
+[INFO] 16:42:19:309 cpu/(28227:28227): tamanio: 777
+[INFO] 16:42:19:309 cpu/(28227:28227): numero de instrucciones: 2
+[INFO] 16:42:19:309 cpu/(28227:28227): nombre: 0, par1: 666, par2: 333
+[INFO] 16:42:19:309 cpu/(28227:28227): nombre: 5, par1: 123, par2: 321
+[INFO] 16:43:19:469 cpu/(28306:28306): INICIANDO LOG CPU...
+[INFO] 16:43:19:477 cpu/(28306:28306): id: 159
+[INFO] 16:43:19:477 cpu/(28306:28306): estimacion: 951
+[INFO] 16:43:19:477 cpu/(28306:28306): PC: 0
+[INFO] 16:43:19:477 cpu/(28306:28306): tamanio: 777
+[INFO] 16:43:19:477 cpu/(28306:28306): numero de instrucciones: 2
+[INFO] 16:43:19:477 cpu/(28306:28306): nombre: 0, par1: 666, par2: 333
+[INFO] 16:43:19:477 cpu/(28306:28306): nombre: 5, par1: 123, par2: 321
+[INFO] 16:43:19:479 cpu/(28306:28306): llego mensaje exit
+[INFO] 16:43:19:479 cpu/(28306:28306): id: 159
+[INFO] 16:43:19:479 cpu/(28306:28306): estimacion: 951
+[INFO] 16:43:19:479 cpu/(28306:28306): PC: 2
+[INFO] 16:43:19:479 cpu/(28306:28306): tamanio: 777
+[INFO] 16:43:19:479 cpu/(28306:28306): numero de instrucciones: 2
+[INFO] 16:43:19:479 cpu/(28306:28306): nombre: 0, par1: 666, par2: 333
+[INFO] 16:43:19:479 cpu/(28306:28306): nombre: 5, par1: 123, par2: 321
+[INFO] 16:45:54:906 cpu/(28406:28406): INICIANDO LOG CPU...
+[INFO] 16:45:54:907 cpu/(28406:28406): id: 159
+[INFO] 16:45:54:907 cpu/(28406:28406): estimacion: 951
+[INFO] 16:45:54:907 cpu/(28406:28406): PC: 0
+[INFO] 16:45:54:907 cpu/(28406:28406): tamanio: 777
+[INFO] 16:45:54:907 cpu/(28406:28406): numero de instrucciones: 3
+[INFO] 16:45:54:907 cpu/(28406:28406): nombre: 0, par1: 666, par2: 333
+[INFO] 16:45:54:907 cpu/(28406:28406): nombre: 5, par1: 123, par2: 321
+[INFO] 16:45:54:907 cpu/(28406:28406): nombre: -1217542224, par1: -1217542224, par2: 876098088
+[INFO] 16:45:54:909 cpu/(28406:28406): llego mensaje exit
+[INFO] 16:45:54:909 cpu/(28406:28406): id: 159
+[INFO] 16:45:54:909 cpu/(28406:28406): estimacion: 951
+[INFO] 16:45:54:909 cpu/(28406:28406): PC: 2
+[INFO] 16:45:54:909 cpu/(28406:28406): tamanio: 777
+[INFO] 16:45:54:909 cpu/(28406:28406): numero de instrucciones: 3
+[INFO] 16:45:54:909 cpu/(28406:28406): nombre: 0, par1: 666, par2: 333
+[INFO] 16:45:54:909 cpu/(28406:28406): nombre: 5, par1: 123, par2: 321
+[INFO] 16:45:54:909 cpu/(28406:28406): nombre: -1217542224, par1: -1217542224, par2: 876098088
+[INFO] 16:50:57:752 cpu/(28519:28519): INICIANDO LOG CPU...
+[INFO] 16:50:57:756 cpu/(28519:28519): id: 159
+[INFO] 16:50:57:756 cpu/(28519:28519): estimacion: 951
+[INFO] 16:50:57:756 cpu/(28519:28519): PC: 0
+[INFO] 16:50:57:756 cpu/(28519:28519): tamanio: 777
+[INFO] 16:50:57:756 cpu/(28519:28519): numero de instrucciones: 3
+[INFO] 16:50:57:757 cpu/(28519:28519): nombre: 0, par1: 666, par2: 333
+[INFO] 16:50:57:757 cpu/(28519:28519): nombre: 5, par1: 123, par2: 321
+[INFO] 16:50:57:757 cpu/(28519:28519): nombre: -1217071184, par1: -1217071184, par2: 892875304
+[INFO] 16:50:57:759 cpu/(28519:28519): llego mensaje exit
+[INFO] 16:50:57:759 cpu/(28519:28519): id: 159
+[INFO] 16:50:57:759 cpu/(28519:28519): estimacion: 951
+[INFO] 16:50:57:759 cpu/(28519:28519): PC: 2
+[INFO] 16:50:57:759 cpu/(28519:28519): tamanio: 777
+[INFO] 16:50:57:759 cpu/(28519:28519): numero de instrucciones: 3
+[INFO] 16:50:57:759 cpu/(28519:28519): nombre: 0, par1: 666, par2: 333
+[INFO] 16:50:57:759 cpu/(28519:28519): nombre: 5, par1: 123, par2: 321
+[INFO] 16:50:57:759 cpu/(28519:28519): nombre: -1217071184, par1: -1217071184, par2: 892875304
+[INFO] 16:51:45:842 cpu/(28594:28594): INICIANDO LOG CPU...
+[INFO] 16:51:45:844 cpu/(28594:28594): id: 159
+[INFO] 16:51:45:844 cpu/(28594:28594): estimacion: 951
+[INFO] 16:51:45:844 cpu/(28594:28594): PC: 0
+[INFO] 16:51:45:844 cpu/(28594:28594): tamanio: 777
+[INFO] 16:51:45:844 cpu/(28594:28594): numero de instrucciones: 3
+[INFO] 16:51:45:844 cpu/(28594:28594): nombre: 0, par1: 666, par2: 333
+[INFO] 16:51:45:844 cpu/(28594:28594): nombre: 1, par1: 888, par2: 321
+[INFO] 16:51:45:845 cpu/(28594:28594): nombre: 5, par1: 123, par2: 321
+[INFO] 16:51:45:846 cpu/(28594:28594): duracion bloqueo: 888
+[INFO] 16:53:45:836 cpu/(28668:28668): INICIANDO LOG CPU...
+[INFO] 16:53:45:845 cpu/(28668:28668): id: 159
+[INFO] 16:53:45:845 cpu/(28668:28668): estimacion: 951
+[INFO] 16:53:45:845 cpu/(28668:28668): PC: 0
+[INFO] 16:53:45:846 cpu/(28668:28668): tamanio: 777
+[INFO] 16:53:45:846 cpu/(28668:28668): numero de instrucciones: 3
+[INFO] 16:53:45:846 cpu/(28668:28668): nombre: 0, par1: 666, par2: 333
+[INFO] 16:53:45:846 cpu/(28668:28668): nombre: 1, par1: 888, par2: 321
+[INFO] 16:53:45:846 cpu/(28668:28668): nombre: 5, par1: 123, par2: 321
+[INFO] 16:53:45:848 cpu/(28668:28668): duracion bloqueo: 888
+[INFO] 16:53:45:928 cpu/(28668:28668): llego mensaje exit
+[INFO] 16:53:45:928 cpu/(28668:28668): id: 159
+[INFO] 16:53:45:929 cpu/(28668:28668): estimacion: 951
+[INFO] 16:53:45:929 cpu/(28668:28668): PC: 3
+[INFO] 16:53:45:929 cpu/(28668:28668): tamanio: 777
+[INFO] 16:53:45:929 cpu/(28668:28668): numero de instrucciones: 3
+[INFO] 16:53:45:929 cpu/(28668:28668): nombre: 0, par1: 666, par2: 333
+[INFO] 16:53:45:929 cpu/(28668:28668): nombre: 1, par1: 888, par2: 321
+[INFO] 16:53:45:929 cpu/(28668:28668): nombre: 5, par1: 123, par2: 321
+[INFO] 16:08:00:646 cpu/(29321:29321): INICIANDO LOG CPU...
+[INFO] 16:08:00:657 cpu/(29321:29321): id: 159
+[INFO] 16:08:00:657 cpu/(29321:29321): estimacion: 951
+[INFO] 16:08:00:658 cpu/(29321:29321): PC: 0
+[INFO] 16:08:00:658 cpu/(29321:29321): tamanio: 777
+[INFO] 16:08:00:658 cpu/(29321:29321): numero de instrucciones: 3
+[INFO] 16:08:00:658 cpu/(29321:29321): nombre: 0, par1: 666, par2: 333
+[INFO] 16:08:00:658 cpu/(29321:29321): nombre: 1, par1: 888, par2: 321
+[INFO] 16:08:00:658 cpu/(29321:29321): nombre: 5, par1: 123, par2: 321
+[INFO] 16:08:00:660 cpu/(29321:29321): duracion bloqueo: 888
+[INFO] 16:08:00:741 cpu/(29321:29321): llego mensaje exit
+[INFO] 16:08:00:741 cpu/(29321:29321): id: 159
+[INFO] 16:08:00:741 cpu/(29321:29321): estimacion: 951
+[INFO] 16:08:00:741 cpu/(29321:29321): PC: 3
+[INFO] 16:08:00:741 cpu/(29321:29321): tamanio: 777
+[INFO] 16:08:00:741 cpu/(29321:29321): numero de instrucciones: 3
+[INFO] 16:08:00:741 cpu/(29321:29321): nombre: 0, par1: 666, par2: 333
+[INFO] 16:08:00:742 cpu/(29321:29321): nombre: 1, par1: 888, par2: 321
+[INFO] 16:08:00:742 cpu/(29321:29321): nombre: 5, par1: 123, par2: 321
+[INFO] 16:11:06:865 cpu/(29489:29489): INICIANDO LOG CPU...
+[INFO] 16:11:20:209 cpu/(29520:29520): INICIANDO LOG CPU...
+[INFO] 16:11:20:209 cpu/(29520:29520): id: 159
+[INFO] 16:11:20:209 cpu/(29520:29520): estimacion: 951
+[INFO] 16:11:20:210 cpu/(29520:29520): PC: 0
+[INFO] 16:11:20:210 cpu/(29520:29520): tamanio: 777
+[INFO] 16:11:20:210 cpu/(29520:29520): numero de instrucciones: 3
+[INFO] 16:11:20:210 cpu/(29520:29520): nombre: 0, par1: 666, par2: 333
+[INFO] 16:11:20:210 cpu/(29520:29520): nombre: 1, par1: 888, par2: 321
+[INFO] 16:11:20:210 cpu/(29520:29520): nombre: 5, par1: 123, par2: 321
+[INFO] 16:11:20:213 cpu/(29520:29520): duracion bloqueo: 888
+[INFO] 16:11:20:291 cpu/(29520:29520): llego mensaje exit
+[INFO] 16:11:20:291 cpu/(29520:29520): id: 159
+[INFO] 16:11:20:292 cpu/(29520:29520): estimacion: 951
+[INFO] 16:11:20:292 cpu/(29520:29520): PC: 3
+[INFO] 16:11:20:292 cpu/(29520:29520): tamanio: 777
+[INFO] 16:11:20:292 cpu/(29520:29520): numero de instrucciones: 3
+[INFO] 16:11:20:292 cpu/(29520:29520): nombre: 0, par1: 666, par2: 333
+[INFO] 16:11:20:292 cpu/(29520:29520): nombre: 1, par1: 888, par2: 321
+[INFO] 16:11:20:292 cpu/(29520:29520): nombre: 5, par1: 123, par2: 321
+[INFO] 17:09:37:739 cpu/(6596:6596): INICIANDO LOG CPU...
+[INFO] 17:09:51:152 cpu/(6621:6621): INICIANDO LOG CPU...
+[INFO] 17:12:37:411 cpu/(6727:6727): INICIANDO LOG CPU...
+[INFO] 17:12:37:425 cpu/(6727:6727): id: 159
+[INFO] 17:12:37:425 cpu/(6727:6727): estimacion: 951
+[INFO] 17:12:37:425 cpu/(6727:6727): PC: 0
+[INFO] 17:12:37:425 cpu/(6727:6727): tamanio: 777
+[INFO] 17:12:37:426 cpu/(6727:6727): numero de instrucciones: 3
+[INFO] 17:12:37:426 cpu/(6727:6727): nombre: 0, par1: 666, par2: 333
+[INFO] 17:12:37:426 cpu/(6727:6727): nombre: 1, par1: 888, par2: 321
+[INFO] 17:12:37:426 cpu/(6727:6727): nombre: 5, par1: 123, par2: 321
+[INFO] 17:12:37:427 cpu/(6727:6727): duracion bloqueo: 888
+[INFO] 17:12:37:507 cpu/(6727:6727): llego mensaje exit
+[INFO] 17:14:38:863 cpu/(6808:6808): INICIANDO LOG CPU...
+[INFO] 17:14:38:866 cpu/(6808:6808): id: 159
+[INFO] 17:14:38:867 cpu/(6808:6808): estimacion: 951
+[INFO] 17:14:38:867 cpu/(6808:6808): PC: 0
+[INFO] 17:14:38:867 cpu/(6808:6808): tamanio: 777
+[INFO] 17:14:38:867 cpu/(6808:6808): numero de instrucciones: 3
+[INFO] 17:14:38:868 cpu/(6808:6808): nombre: 0, par1: 666, par2: 333
+[INFO] 17:14:38:868 cpu/(6808:6808): nombre: 1, par1: 888, par2: 321
+[INFO] 17:14:38:868 cpu/(6808:6808): nombre: 5, par1: 123, par2: 321
+[INFO] 17:14:38:870 cpu/(6808:6808): duracion bloqueo: 888
+[INFO] 17:14:38:949 cpu/(6808:6808): llego mensaje exit
+[INFO] 17:14:38:950 cpu/(6808:6808): id: 159
+[INFO] 17:14:38:950 cpu/(6808:6808): estimacion: 951
+[INFO] 17:14:38:950 cpu/(6808:6808): PC: 3
+[INFO] 17:14:38:950 cpu/(6808:6808): tamanio: 777
+[INFO] 17:14:38:950 cpu/(6808:6808): numero de instrucciones: 3
+[INFO] 17:14:38:950 cpu/(6808:6808): nombre: 0, par1: 666, par2: 333
+[INFO] 17:14:38:950 cpu/(6808:6808): nombre: 1, par1: 888, par2: 321
+[INFO] 17:14:38:952 cpu/(6808:6808): nombre: 5, par1: 123, par2: 321
+[INFO] 19:00:32:519 cpu/(14522:14522): INICIANDO LOG CPU...

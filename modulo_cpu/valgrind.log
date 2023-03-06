@@ -1,0 +1,36 @@
+==8077== Memcheck, a memory error detector
+==8077== Copyright (C) 2002-2015, and GNU GPL'd, by Julian Seward et al.
+==8077== Using Valgrind-3.11.0 and LibVEX; rerun with -h for copyright info
+==8077== Command: ./Debug/modulo_cpu
+==8077== Parent PID: 4752
+==8077== 
+==8077== 
+==8077== Process terminating with default action of signal 2 (SIGINT)
+==8077==    at 0x4065389: recv (recv.c:35)
+==8077==    by 0x403A8ED: recibir_PCB (comunicacion_Kernel_CPU.c:135)
+==8077==    by 0x8049D6B: main (modulo_cpu.c:340)
+==8077== 
+==8077== HEAP SUMMARY:
+==8077==     in use at exit: 900 bytes in 31 blocks
+==8077==   total heap usage: 49,341 allocs, 49,310 frees, 1,411,425 bytes allocated
+==8077== 
+==8077== 136 bytes in 1 blocks are possibly lost in loss record 12 of 13
+==8077==    at 0x402E0B8: calloc (in /usr/lib/valgrind/vgpreload_memcheck-x86-linux.so)
+==8077==    by 0x4011726: allocate_dtv (dl-tls.c:322)
+==8077==    by 0x401214B: _dl_allocate_tls (dl-tls.c:539)
+==8077==    by 0x405CCC3: allocate_stack (allocatestack.c:588)
+==8077==    by 0x405CCC3: pthread_create@@GLIBC_2.1 (pthread_create.c:539)
+==8077==    by 0x8049B9E: inicializar_CPU (modulo_cpu.c:297)
+==8077==    by 0x8049D5B: main (modulo_cpu.c:336)
+==8077== 
+==8077== LEAK SUMMARY:
+==8077==    definitely lost: 0 bytes in 0 blocks
+==8077==    indirectly lost: 0 bytes in 0 blocks
+==8077==      possibly lost: 136 bytes in 1 blocks
+==8077==    still reachable: 764 bytes in 30 blocks
+==8077==         suppressed: 0 bytes in 0 blocks
+==8077== Reachable blocks (those to which a pointer was found) are not shown.
+==8077== To see them, rerun with: --leak-check=full --show-leak-kinds=all
+==8077== 
+==8077== For counts of detected and suppressed errors, rerun with: -v
+==8077== ERROR SUMMARY: 1 errors from 1 contexts (suppressed: 0 from 0)

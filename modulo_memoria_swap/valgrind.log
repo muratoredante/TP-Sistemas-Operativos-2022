@@ -1,0 +1,266 @@
+==8075== Memcheck, a memory error detector
+==8075== Copyright (C) 2002-2015, and GNU GPL'd, by Julian Seward et al.
+==8075== Using Valgrind-3.11.0 and LibVEX; rerun with -h for copyright info
+==8075== Command: ./Debug/modulo_memoria_swap
+==8075== Parent PID: 4461
+==8075== 
+==8075== Invalid read of size 1
+==8075==    at 0x8049418: condicion_frame_libre.6404 (espacio_kernel.c:122)
+==8075==    by 0x40557A9: _find_by_condition.2346 (in /usr/lib/libcommons.so)
+==8075==    by 0x405670F: list_find_element (in /usr/lib/libcommons.so)
+==8075==    by 0x4055827: list_find (in /usr/lib/libcommons.so)
+==8075==    by 0x8049462: buscar_frame_libre.6400 (espacio_kernel.c:124)
+==8075==    by 0x80494AB: buscarFrameVacioYCargarPagina (espacio_kernel.c:129)
+==8075==    by 0x8049247: cargarPaginaAMemoria (espacio_kernel.c:78)
+==8075==    by 0x80491B8: obtenerNroFrame (espacio_kernel.c:59)
+==8075==    by 0x8049012: enviarTraducciones (espacio_kernel.c:18)
+==8075==    by 0x804AA4F: procesarPeticionCpu (modulo_memoria_swap.c:60)
+==8075==    by 0x804AF38: main (modulo_memoria_swap.c:180)
+==8075==  Address 0x429370c is 4 bytes inside a block of size 12 free'd
+==8075==    at 0x402D358: free (in /usr/lib/valgrind/vgpreload_memcheck-x86-linux.so)
+==8075==    by 0x804A33A: iniciarEspacioUsuario (espacio_usuario.c:22)
+==8075==    by 0x804A984: inicializarModulo (modulo_memoria_swap.c:36)
+==8075==    by 0x804AE77: main (modulo_memoria_swap.c:164)
+==8075==  Block was alloc'd at
+==8075==    at 0x402C17C: malloc (in /usr/lib/valgrind/vgpreload_memcheck-x86-linux.so)
+==8075==    by 0x804A2ED: iniciarEspacioUsuario (espacio_usuario.c:16)
+==8075==    by 0x804A984: inicializarModulo (modulo_memoria_swap.c:36)
+==8075==    by 0x804AE77: main (modulo_memoria_swap.c:164)
+==8075== 
+==8075== Invalid write of size 1
+==8075==    at 0x80494B2: buscarFrameVacioYCargarPagina (espacio_kernel.c:130)
+==8075==    by 0x8049247: cargarPaginaAMemoria (espacio_kernel.c:78)
+==8075==    by 0x80491B8: obtenerNroFrame (espacio_kernel.c:59)
+==8075==    by 0x8049012: enviarTraducciones (espacio_kernel.c:18)
+==8075==    by 0x804AA4F: procesarPeticionCpu (modulo_memoria_swap.c:60)
+==8075==    by 0x804AF38: main (modulo_memoria_swap.c:180)
+==8075==  Address 0x429370c is 4 bytes inside a block of size 12 free'd
+==8075==    at 0x402D358: free (in /usr/lib/valgrind/vgpreload_memcheck-x86-linux.so)
+==8075==    by 0x804A33A: iniciarEspacioUsuario (espacio_usuario.c:22)
+==8075==    by 0x804A984: inicializarModulo (modulo_memoria_swap.c:36)
+==8075==    by 0x804AE77: main (modulo_memoria_swap.c:164)
+==8075==  Block was alloc'd at
+==8075==    at 0x402C17C: malloc (in /usr/lib/valgrind/vgpreload_memcheck-x86-linux.so)
+==8075==    by 0x804A2ED: iniciarEspacioUsuario (espacio_usuario.c:16)
+==8075==    by 0x804A984: inicializarModulo (modulo_memoria_swap.c:36)
+==8075==    by 0x804AE77: main (modulo_memoria_swap.c:164)
+==8075== 
+==8075== Invalid read of size 4
+==8075==    at 0x80494E6: buscarFrameVacioYCargarPagina (espacio_kernel.c:137)
+==8075==    by 0x8049247: cargarPaginaAMemoria (espacio_kernel.c:78)
+==8075==    by 0x80491B8: obtenerNroFrame (espacio_kernel.c:59)
+==8075==    by 0x8049012: enviarTraducciones (espacio_kernel.c:18)
+==8075==    by 0x804AA4F: procesarPeticionCpu (modulo_memoria_swap.c:60)
+==8075==    by 0x804AF38: main (modulo_memoria_swap.c:180)
+==8075==  Address 0x4293710 is 8 bytes inside a block of size 12 free'd
+==8075==    at 0x402D358: free (in /usr/lib/valgrind/vgpreload_memcheck-x86-linux.so)
+==8075==    by 0x804A33A: iniciarEspacioUsuario (espacio_usuario.c:22)
+==8075==    by 0x804A984: inicializarModulo (modulo_memoria_swap.c:36)
+==8075==    by 0x804AE77: main (modulo_memoria_swap.c:164)
+==8075==  Block was alloc'd at
+==8075==    at 0x402C17C: malloc (in /usr/lib/valgrind/vgpreload_memcheck-x86-linux.so)
+==8075==    by 0x804A2ED: iniciarEspacioUsuario (espacio_usuario.c:16)
+==8075==    by 0x804A984: inicializarModulo (modulo_memoria_swap.c:36)
+==8075==    by 0x804AE77: main (modulo_memoria_swap.c:164)
+==8075== 
+==8075== Invalid read of size 4
+==8075==    at 0x80494FC: buscarFrameVacioYCargarPagina (espacio_kernel.c:138)
+==8075==    by 0x8049247: cargarPaginaAMemoria (espacio_kernel.c:78)
+==8075==    by 0x80491B8: obtenerNroFrame (espacio_kernel.c:59)
+==8075==    by 0x8049012: enviarTraducciones (espacio_kernel.c:18)
+==8075==    by 0x804AA4F: procesarPeticionCpu (modulo_memoria_swap.c:60)
+==8075==    by 0x804AF38: main (modulo_memoria_swap.c:180)
+==8075==  Address 0x4293708 is 0 bytes inside a block of size 12 free'd
+==8075==    at 0x402D358: free (in /usr/lib/valgrind/vgpreload_memcheck-x86-linux.so)
+==8075==    by 0x804A33A: iniciarEspacioUsuario (espacio_usuario.c:22)
+==8075==    by 0x804A984: inicializarModulo (modulo_memoria_swap.c:36)
+==8075==    by 0x804AE77: main (modulo_memoria_swap.c:164)
+==8075==  Block was alloc'd at
+==8075==    at 0x402C17C: malloc (in /usr/lib/valgrind/vgpreload_memcheck-x86-linux.so)
+==8075==    by 0x804A2ED: iniciarEspacioUsuario (espacio_usuario.c:16)
+==8075==    by 0x804A984: inicializarModulo (modulo_memoria_swap.c:36)
+==8075==    by 0x804AE77: main (modulo_memoria_swap.c:164)
+==8075== 
+==8075== Invalid read of size 4
+==8075==    at 0x804A540: escribirMemoria (espacio_usuario.c:60)
+==8075==    by 0x804AAFF: procesarPeticionCpu (modulo_memoria_swap.c:75)
+==8075==    by 0x804AF38: main (modulo_memoria_swap.c:180)
+==8075==  Address 0x4293710 is 8 bytes inside a block of size 12 free'd
+==8075==    at 0x402D358: free (in /usr/lib/valgrind/vgpreload_memcheck-x86-linux.so)
+==8075==    by 0x804A33A: iniciarEspacioUsuario (espacio_usuario.c:22)
+==8075==    by 0x804A984: inicializarModulo (modulo_memoria_swap.c:36)
+==8075==    by 0x804AE77: main (modulo_memoria_swap.c:164)
+==8075==  Block was alloc'd at
+==8075==    at 0x402C17C: malloc (in /usr/lib/valgrind/vgpreload_memcheck-x86-linux.so)
+==8075==    by 0x804A2ED: iniciarEspacioUsuario (espacio_usuario.c:16)
+==8075==    by 0x804A984: inicializarModulo (modulo_memoria_swap.c:36)
+==8075==    by 0x804AE77: main (modulo_memoria_swap.c:164)
+==8075== 
+==8075== Invalid read of size 4
+==8075==    at 0x804983B: escribirFrameAReemplazarEnSwap (espacio_kernel.c:253)
+==8075==    by 0x804969B: reemplazarPagina (espacio_kernel.c:188)
+==8075==    by 0x804925D: cargarPaginaAMemoria (espacio_kernel.c:80)
+==8075==    by 0x80491B8: obtenerNroFrame (espacio_kernel.c:59)
+==8075==    by 0x8049012: enviarTraducciones (espacio_kernel.c:18)
+==8075==    by 0x804AA4F: procesarPeticionCpu (modulo_memoria_swap.c:60)
+==8075==    by 0x804AF38: main (modulo_memoria_swap.c:180)
+==8075==  Address 0x4293710 is 8 bytes inside a block of size 12 free'd
+==8075==    at 0x402D358: free (in /usr/lib/valgrind/vgpreload_memcheck-x86-linux.so)
+==8075==    by 0x804A33A: iniciarEspacioUsuario (espacio_usuario.c:22)
+==8075==    by 0x804A984: inicializarModulo (modulo_memoria_swap.c:36)
+==8075==    by 0x804AE77: main (modulo_memoria_swap.c:164)
+==8075==  Block was alloc'd at
+==8075==    at 0x402C17C: malloc (in /usr/lib/valgrind/vgpreload_memcheck-x86-linux.so)
+==8075==    by 0x804A2ED: iniciarEspacioUsuario (espacio_usuario.c:16)
+==8075==    by 0x804A984: inicializarModulo (modulo_memoria_swap.c:36)
+==8075==    by 0x804AE77: main (modulo_memoria_swap.c:164)
+==8075== 
+==8075== Invalid read of size 4
+==8075==    at 0x8049551: actualizarFrameEnMemoria (espacio_kernel.c:150)
+==8075==    by 0x80496BF: reemplazarPagina (espacio_kernel.c:192)
+==8075==    by 0x804925D: cargarPaginaAMemoria (espacio_kernel.c:80)
+==8075==    by 0x80491B8: obtenerNroFrame (espacio_kernel.c:59)
+==8075==    by 0x8049012: enviarTraducciones (espacio_kernel.c:18)
+==8075==    by 0x804AA4F: procesarPeticionCpu (modulo_memoria_swap.c:60)
+==8075==    by 0x804AF38: main (modulo_memoria_swap.c:180)
+==8075==  Address 0x4293710 is 8 bytes inside a block of size 12 free'd
+==8075==    at 0x402D358: free (in /usr/lib/valgrind/vgpreload_memcheck-x86-linux.so)
+==8075==    by 0x804A33A: iniciarEspacioUsuario (espacio_usuario.c:22)
+==8075==    by 0x804A984: inicializarModulo (modulo_memoria_swap.c:36)
+==8075==    by 0x804AE77: main (modulo_memoria_swap.c:164)
+==8075==  Block was alloc'd at
+==8075==    at 0x402C17C: malloc (in /usr/lib/valgrind/vgpreload_memcheck-x86-linux.so)
+==8075==    by 0x804A2ED: iniciarEspacioUsuario (espacio_usuario.c:16)
+==8075==    by 0x804A984: inicializarModulo (modulo_memoria_swap.c:36)
+==8075==    by 0x804AE77: main (modulo_memoria_swap.c:164)
+==8075== 
+==8075== Invalid free() / delete / delete[] / realloc()
+==8075==    at 0x402D358: free (in /usr/lib/valgrind/vgpreload_memcheck-x86-linux.so)
+==8075==    by 0x80496E5: reemplazarPagina (espacio_kernel.c:195)
+==8075==    by 0x804925D: cargarPaginaAMemoria (espacio_kernel.c:80)
+==8075==    by 0x80491B8: obtenerNroFrame (espacio_kernel.c:59)
+==8075==    by 0x8049012: enviarTraducciones (espacio_kernel.c:18)
+==8075==    by 0x804AA4F: procesarPeticionCpu (modulo_memoria_swap.c:60)
+==8075==    by 0x804AF38: main (modulo_memoria_swap.c:180)
+==8075==  Address 0x4293708 is 0 bytes inside a block of size 12 free'd
+==8075==    at 0x402D358: free (in /usr/lib/valgrind/vgpreload_memcheck-x86-linux.so)
+==8075==    by 0x804A33A: iniciarEspacioUsuario (espacio_usuario.c:22)
+==8075==    by 0x804A984: inicializarModulo (modulo_memoria_swap.c:36)
+==8075==    by 0x804AE77: main (modulo_memoria_swap.c:164)
+==8075==  Block was alloc'd at
+==8075==    at 0x402C17C: malloc (in /usr/lib/valgrind/vgpreload_memcheck-x86-linux.so)
+==8075==    by 0x804A2ED: iniciarEspacioUsuario (espacio_usuario.c:16)
+==8075==    by 0x804A984: inicializarModulo (modulo_memoria_swap.c:36)
+==8075==    by 0x804AE77: main (modulo_memoria_swap.c:164)
+==8075== 
+==8075== Invalid read of size 4
+==8075==    at 0x804A403: leerMemoria (espacio_usuario.c:38)
+==8075==    by 0x804AAAA: procesarPeticionCpu (modulo_memoria_swap.c:70)
+==8075==    by 0x804AF38: main (modulo_memoria_swap.c:180)
+==8075==  Address 0x4293800 is 8 bytes inside a block of size 12 free'd
+==8075==    at 0x402D358: free (in /usr/lib/valgrind/vgpreload_memcheck-x86-linux.so)
+==8075==    by 0x804A33A: iniciarEspacioUsuario (espacio_usuario.c:22)
+==8075==    by 0x804A984: inicializarModulo (modulo_memoria_swap.c:36)
+==8075==    by 0x804AE77: main (modulo_memoria_swap.c:164)
+==8075==  Block was alloc'd at
+==8075==    at 0x402C17C: malloc (in /usr/lib/valgrind/vgpreload_memcheck-x86-linux.so)
+==8075==    by 0x804A2ED: iniciarEspacioUsuario (espacio_usuario.c:16)
+==8075==    by 0x804A984: inicializarModulo (modulo_memoria_swap.c:36)
+==8075==    by 0x804AE77: main (modulo_memoria_swap.c:164)
+==8075== 
+==8075== Thread 2:
+==8075== Invalid read of size 4
+==8075==    at 0x8049D84: escribirEnSwap.6519 (espacio_kernel.c:402)
+==8075==    by 0x405588A: list_iterate (in /usr/lib/libcommons.so)
+==8075==    by 0x8049F32: recorrerTablaProcesoYEscribirEnSwap.6526 (espacio_kernel.c:422)
+==8075==    by 0x405588A: list_iterate (in /usr/lib/libcommons.so)
+==8075==    by 0x8049ED7: escribirFramesEnDisco (espacio_kernel.c:425)
+==8075==    by 0x8049FC6: suspenderProceso (espacio_kernel.c:442)
+==8075==    by 0x804ACC8: procesarPeticionKernel (modulo_memoria_swap.c:119)
+==8075==    by 0x804AB76: hilo_conexion_kernel (modulo_memoria_swap.c:85)
+==8075==    by 0x40BD294: start_thread (pthread_create.c:333)
+==8075==    by 0x41BB0AD: clone (clone.S:114)
+==8075==  Address 0x4293bc0 is 8 bytes inside a block of size 12 free'd
+==8075==    at 0x402D358: free (in /usr/lib/valgrind/vgpreload_memcheck-x86-linux.so)
+==8075==    by 0x804A33A: iniciarEspacioUsuario (espacio_usuario.c:22)
+==8075==    by 0x804A984: inicializarModulo (modulo_memoria_swap.c:36)
+==8075==    by 0x804AE77: main (modulo_memoria_swap.c:164)
+==8075==  Block was alloc'd at
+==8075==    at 0x402C17C: malloc (in /usr/lib/valgrind/vgpreload_memcheck-x86-linux.so)
+==8075==    by 0x804A2ED: iniciarEspacioUsuario (espacio_usuario.c:16)
+==8075==    by 0x804A984: inicializarModulo (modulo_memoria_swap.c:36)
+==8075==    by 0x804AE77: main (modulo_memoria_swap.c:164)
+==8075== 
+==8075== Invalid write of size 1
+==8075==    at 0x8049E1B: escribirEnSwap.6519 (espacio_kernel.c:412)
+==8075==    by 0x405588A: list_iterate (in /usr/lib/libcommons.so)
+==8075==    by 0x8049F32: recorrerTablaProcesoYEscribirEnSwap.6526 (espacio_kernel.c:422)
+==8075==    by 0x405588A: list_iterate (in /usr/lib/libcommons.so)
+==8075==    by 0x8049ED7: escribirFramesEnDisco (espacio_kernel.c:425)
+==8075==    by 0x8049FC6: suspenderProceso (espacio_kernel.c:442)
+==8075==    by 0x804ACC8: procesarPeticionKernel (modulo_memoria_swap.c:119)
+==8075==    by 0x804AB76: hilo_conexion_kernel (modulo_memoria_swap.c:85)
+==8075==    by 0x40BD294: start_thread (pthread_create.c:333)
+==8075==    by 0x41BB0AD: clone (clone.S:114)
+==8075==  Address 0x4293bbc is 4 bytes inside a block of size 12 free'd
+==8075==    at 0x402D358: free (in /usr/lib/valgrind/vgpreload_memcheck-x86-linux.so)
+==8075==    by 0x804A33A: iniciarEspacioUsuario (espacio_usuario.c:22)
+==8075==    by 0x804A984: inicializarModulo (modulo_memoria_swap.c:36)
+==8075==    by 0x804AE77: main (modulo_memoria_swap.c:164)
+==8075==  Block was alloc'd at
+==8075==    at 0x402C17C: malloc (in /usr/lib/valgrind/vgpreload_memcheck-x86-linux.so)
+==8075==    by 0x804A2ED: iniciarEspacioUsuario (espacio_usuario.c:16)
+==8075==    by 0x804A984: inicializarModulo (modulo_memoria_swap.c:36)
+==8075==    by 0x804AE77: main (modulo_memoria_swap.c:164)
+==8075== 
+==8075== Invalid write of size 1
+==8075==    at 0x804A046: suspenderProceso (espacio_kernel.c:454)
+==8075==    by 0x804ACC8: procesarPeticionKernel (modulo_memoria_swap.c:119)
+==8075==    by 0x804AB76: hilo_conexion_kernel (modulo_memoria_swap.c:85)
+==8075==    by 0x40BD294: start_thread (pthread_create.c:333)
+==8075==    by 0x41BB0AD: clone (clone.S:114)
+==8075==  Address 0x4293b44 is 4 bytes inside a block of size 12 free'd
+==8075==    at 0x402D358: free (in /usr/lib/valgrind/vgpreload_memcheck-x86-linux.so)
+==8075==    by 0x804A33A: iniciarEspacioUsuario (espacio_usuario.c:22)
+==8075==    by 0x804A984: inicializarModulo (modulo_memoria_swap.c:36)
+==8075==    by 0x804AE77: main (modulo_memoria_swap.c:164)
+==8075==  Block was alloc'd at
+==8075==    at 0x402C17C: malloc (in /usr/lib/valgrind/vgpreload_memcheck-x86-linux.so)
+==8075==    by 0x804A2ED: iniciarEspacioUsuario (espacio_usuario.c:16)
+==8075==    by 0x804A984: inicializarModulo (modulo_memoria_swap.c:36)
+==8075==    by 0x804AE77: main (modulo_memoria_swap.c:164)
+==8075== 
+==8075== 
+==8075== HEAP SUMMARY:
+==8075==     in use at exit: 12,104 bytes in 126 blocks
+==8075==   total heap usage: 11,169 allocs, 11,089 frees, 734,185 bytes allocated
+==8075== 
+==8075== Thread 1:
+==8075== 136 bytes in 1 blocks are possibly lost in loss record 12 of 18
+==8075==    at 0x402E0B8: calloc (in /usr/lib/valgrind/vgpreload_memcheck-x86-linux.so)
+==8075==    by 0x4011726: allocate_dtv (dl-tls.c:322)
+==8075==    by 0x401214B: _dl_allocate_tls (dl-tls.c:539)
+==8075==    by 0x40BDCC3: allocate_stack (allocatestack.c:588)
+==8075==    by 0x40BDCC3: pthread_create@@GLIBC_2.1 (pthread_create.c:539)
+==8075==    by 0x804AECF: main (modulo_memoria_swap.c:173)
+==8075== 
+==8075== 552 bytes in 46 blocks are definitely lost in loss record 17 of 18
+==8075==    at 0x402C17C: malloc (in /usr/lib/valgrind/vgpreload_memcheck-x86-linux.so)
+==8075==    by 0x804962C: reemplazarPagina (espacio_kernel.c:180)
+==8075==    by 0x804925D: cargarPaginaAMemoria (espacio_kernel.c:80)
+==8075==    by 0x80491B8: obtenerNroFrame (espacio_kernel.c:59)
+==8075==    by 0x8049012: enviarTraducciones (espacio_kernel.c:18)
+==8075==    by 0x804AA4F: procesarPeticionCpu (modulo_memoria_swap.c:60)
+==8075==    by 0x804AF38: main (modulo_memoria_swap.c:180)
+==8075== 
+==8075== LEAK SUMMARY:
+==8075==    definitely lost: 552 bytes in 46 blocks
+==8075==    indirectly lost: 0 bytes in 0 blocks
+==8075==      possibly lost: 136 bytes in 1 blocks
+==8075==    still reachable: 11,416 bytes in 79 blocks
+==8075==         suppressed: 0 bytes in 0 blocks
+==8075== Reachable blocks (those to which a pointer was found) are not shown.
+==8075== To see them, rerun with: --leak-check=full --show-leak-kinds=all
+==8075== 
+==8075== For counts of detected and suppressed errors, rerun with: -v
+==8075== ERROR SUMMARY: 509 errors from 14 contexts (suppressed: 0 from 0)

@@ -1,0 +1,121 @@
+==8079== Memcheck, a memory error detector
+==8079== Copyright (C) 2002-2015, and GNU GPL'd, by Julian Seward et al.
+==8079== Using Valgrind-3.11.0 and LibVEX; rerun with -h for copyright info
+==8079== Command: ./Debug/modulo_kernel
+==8079== Parent PID: 4488
+==8079== 
+==8079== Thread 4:
+==8079== Conditional jump or move depends on uninitialised value(s)
+==8079==    at 0x4033748: strstr (in /usr/lib/valgrind/vgpreload_memcheck-x86-linux.so)
+==8079==    by 0x407713F: _string_split (in /usr/lib/libcommons.so)
+==8079==    by 0x40769FA: string_split (in /usr/lib/libcommons.so)
+==8079==    by 0x80493D0: parsear_instrucciones (modulo_kernel.c:82)
+==8079==    by 0x8049F2D: kernel_crear_proceso (modulo_kernel.c:519)
+==8079==    by 0x804A32D: atender_consola (modulo_kernel.c:661)
+==8079==    by 0x405C294: start_thread (pthread_create.c:333)
+==8079==    by 0x41660AD: clone (clone.S:114)
+==8079== 
+==8079== Conditional jump or move depends on uninitialised value(s)
+==8079==    at 0x402F3A7: __GI_strlen (in /usr/lib/valgrind/vgpreload_memcheck-x86-linux.so)
+==8079==    by 0x40F42BA: strdup (strdup.c:41)
+==8079==    by 0x40764A7: string_duplicate (in /usr/lib/libcommons.so)
+==8079==    by 0x4077172: _string_split (in /usr/lib/libcommons.so)
+==8079==    by 0x40769FA: string_split (in /usr/lib/libcommons.so)
+==8079==    by 0x80493D0: parsear_instrucciones (modulo_kernel.c:82)
+==8079==    by 0x8049F2D: kernel_crear_proceso (modulo_kernel.c:519)
+==8079==    by 0x804A32D: atender_consola (modulo_kernel.c:661)
+==8079==    by 0x405C294: start_thread (pthread_create.c:333)
+==8079==    by 0x41660AD: clone (clone.S:114)
+==8079== 
+==8079== 
+==8079== Process terminating with default action of signal 2 (SIGINT)
+==8079==    at 0x4065264: accept (accept.c:35)
+==8079==    by 0x403AC5F: esperar_cliente (utils.c:41)
+==8079==    by 0x804A917: main (modulo_kernel.c:814)
+==8079== 
+==8079== HEAP SUMMARY:
+==8079==     in use at exit: 16,915 bytes in 176 blocks
+==8079==   total heap usage: 54,184 allocs, 54,008 frees, 1,573,039 bytes allocated
+==8079== 
+==8079== Thread 1:
+==8079== 20 bytes in 5 blocks are definitely lost in loss record 16 of 30
+==8079==    at 0x402C17C: malloc (in /usr/lib/valgrind/vgpreload_memcheck-x86-linux.so)
+==8079==    by 0x804A1DD: nuevo_hilo (modulo_kernel.c:625)
+==8079==    by 0x804A928: main (modulo_kernel.c:815)
+==8079== 
+==8079== 27 (20 direct, 7 indirect) bytes in 1 blocks are definitely lost in loss record 17 of 30
+==8079==    at 0x402C17C: malloc (in /usr/lib/valgrind/vgpreload_memcheck-x86-linux.so)
+==8079==    by 0x4075FA3: log_create (in /usr/lib/libcommons.so)
+==8079==    by 0x80491AA: iniciarConfig (modulo_kernel.c:41)
+==8079==    by 0x804904F: kernel_inicializar_estructuras_administrativas (modulo_kernel.c:19)
+==8079==    by 0x804A8D7: main (modulo_kernel.c:807)
+==8079== 
+==8079== 136 bytes in 1 blocks are possibly lost in loss record 21 of 30
+==8079==    at 0x402E0B8: calloc (in /usr/lib/valgrind/vgpreload_memcheck-x86-linux.so)
+==8079==    by 0x4011726: allocate_dtv (dl-tls.c:322)
+==8079==    by 0x401214B: _dl_allocate_tls (dl-tls.c:539)
+==8079==    by 0x405CCC3: allocate_stack (allocatestack.c:588)
+==8079==    by 0x405CCC3: pthread_create@@GLIBC_2.1 (pthread_create.c:539)
+==8079==    by 0x8049FFB: kernel_inicializar_hilos (modulo_kernel.c:548)
+==8079==    by 0x804A8E1: main (modulo_kernel.c:809)
+==8079== 
+==8079== 136 bytes in 1 blocks are possibly lost in loss record 22 of 30
+==8079==    at 0x402E0B8: calloc (in /usr/lib/valgrind/vgpreload_memcheck-x86-linux.so)
+==8079==    by 0x4011726: allocate_dtv (dl-tls.c:322)
+==8079==    by 0x401214B: _dl_allocate_tls (dl-tls.c:539)
+==8079==    by 0x405CCC3: allocate_stack (allocatestack.c:588)
+==8079==    by 0x405CCC3: pthread_create@@GLIBC_2.1 (pthread_create.c:539)
+==8079==    by 0x804A010: kernel_inicializar_hilos (modulo_kernel.c:549)
+==8079==    by 0x804A8E1: main (modulo_kernel.c:809)
+==8079== 
+==8079== 136 bytes in 1 blocks are possibly lost in loss record 23 of 30
+==8079==    at 0x402E0B8: calloc (in /usr/lib/valgrind/vgpreload_memcheck-x86-linux.so)
+==8079==    by 0x4011726: allocate_dtv (dl-tls.c:322)
+==8079==    by 0x401214B: _dl_allocate_tls (dl-tls.c:539)
+==8079==    by 0x405CCC3: allocate_stack (allocatestack.c:588)
+==8079==    by 0x405CCC3: pthread_create@@GLIBC_2.1 (pthread_create.c:539)
+==8079==    by 0x804A1FE: nuevo_hilo (modulo_kernel.c:628)
+==8079==    by 0x804A928: main (modulo_kernel.c:815)
+==8079== 
+==8079== 136 bytes in 1 blocks are definitely lost in loss record 24 of 30
+==8079==    at 0x402E0B8: calloc (in /usr/lib/valgrind/vgpreload_memcheck-x86-linux.so)
+==8079==    by 0x4011726: allocate_dtv (dl-tls.c:322)
+==8079==    by 0x401214B: _dl_allocate_tls (dl-tls.c:539)
+==8079==    by 0x405CCC3: allocate_stack (allocatestack.c:588)
+==8079==    by 0x405CCC3: pthread_create@@GLIBC_2.1 (pthread_create.c:539)
+==8079==    by 0x8049B60: hilo_dispatch (modulo_kernel.c:239)
+==8079==    by 0x405C294: start_thread (pthread_create.c:333)
+==8079==    by 0x41660AD: clone (clone.S:114)
+==8079== 
+==8079== 7,344 bytes in 54 blocks are possibly lost in loss record 29 of 30
+==8079==    at 0x402E0B8: calloc (in /usr/lib/valgrind/vgpreload_memcheck-x86-linux.so)
+==8079==    by 0x4011726: allocate_dtv (dl-tls.c:322)
+==8079==    by 0x401214B: _dl_allocate_tls (dl-tls.c:539)
+==8079==    by 0x405CCC3: allocate_stack (allocatestack.c:588)
+==8079==    by 0x405CCC3: pthread_create@@GLIBC_2.1 (pthread_create.c:539)
+==8079==    by 0x8049B60: hilo_dispatch (modulo_kernel.c:239)
+==8079==    by 0x405C294: start_thread (pthread_create.c:333)
+==8079==    by 0x41660AD: clone (clone.S:114)
+==8079== 
+==8079== 7,616 bytes in 56 blocks are possibly lost in loss record 30 of 30
+==8079==    at 0x402E0B8: calloc (in /usr/lib/valgrind/vgpreload_memcheck-x86-linux.so)
+==8079==    by 0x4011726: allocate_dtv (dl-tls.c:322)
+==8079==    by 0x401214B: _dl_allocate_tls (dl-tls.c:539)
+==8079==    by 0x405CCC3: allocate_stack (allocatestack.c:588)
+==8079==    by 0x405CCC3: pthread_create@@GLIBC_2.1 (pthread_create.c:539)
+==8079==    by 0x8049B76: hilo_dispatch (modulo_kernel.c:242)
+==8079==    by 0x405C294: start_thread (pthread_create.c:333)
+==8079==    by 0x41660AD: clone (clone.S:114)
+==8079== 
+==8079== LEAK SUMMARY:
+==8079==    definitely lost: 176 bytes in 7 blocks
+==8079==    indirectly lost: 7 bytes in 1 blocks
+==8079==      possibly lost: 15,368 bytes in 113 blocks
+==8079==    still reachable: 1,364 bytes in 55 blocks
+==8079==         suppressed: 0 bytes in 0 blocks
+==8079== Reachable blocks (those to which a pointer was found) are not shown.
+==8079== To see them, rerun with: --leak-check=full --show-leak-kinds=all
+==8079== 
+==8079== For counts of detected and suppressed errors, rerun with: -v
+==8079== Use --track-origins=yes to see where uninitialised values come from
+==8079== ERROR SUMMARY: 18 errors from 10 contexts (suppressed: 0 from 0)
